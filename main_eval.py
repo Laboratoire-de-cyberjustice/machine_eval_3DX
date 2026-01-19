@@ -201,7 +201,7 @@ def run_evaluation():
     logger.info(f"Found {len(models)} models.")
 
     results = []
-    eval_dir = Path('/Users/adamvu/machine_eval_3DX/evaluation')
+    eval_dir = Path('evaluation')
     eval_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"\nStarting evaluation...")
