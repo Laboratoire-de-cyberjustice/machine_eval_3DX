@@ -1,0 +1,11 @@
+numpy
+pillow
+trimesh
+scikit-image
+torch
+torchvision
+lpips
+open_clip_torch
+regex
+ftfy
+tqdm
