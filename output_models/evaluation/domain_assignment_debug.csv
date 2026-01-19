@@ -1,0 +1,180 @@
+Result Name,Assigned Domain,Reason,Matched Token,Candidate Domains (if tie)
+1 (12),damaged_property,filename_match,1 (12).glb,damaged_property
+2 (509),damaged_property,filename_match,2 (509).glb,damaged_property
+2 (451),damaged_property,filename_match,2 (451).glb,damaged_property
+2 (465),damaged_property,filename_match,2 (465).glb,damaged_property
+2 (466),damaged_property,filename_match,2 (466).glb,damaged_property
+2 (447),damaged_property,filename_match,2 (447).glb,damaged_property
+2 (530),damaged_property,filename_match,2 (530).glb,damaged_property
+2 (507),damaged_property,filename_match,2 (507).glb,damaged_property
+2 (456),damaged_property,filename_match,2 (456).glb,damaged_property
+2 (531),damaged_property,filename_match,2 (531).glb,damaged_property
+2 (448),damaged_property,filename_match,2 (448).glb,damaged_property
+2 (484),damaged_property,filename_match,2 (484).glb,damaged_property
+1 (1),damaged_property,filename_match,1 (1).glb,damaged_property
+2 (459),damaged_property,filename_match,2 (459).glb,damaged_property
+1 (10),damaged_property,filename_match,1 (10).glb,damaged_property
+6374153323_7d0417d11b_o,potential_weapon,filename_match,6374153323_7d0417d11b_o.glb,potential_weapon
+8289565796_4b31087117_o,potential_weapon,filename_match,8289565796_4b31087117_o.glb,potential_weapon
+6348715937_d4e3789b91_o,potential_weapon,filename_match,6348715937_d4e3789b91_o.glb,potential_weapon
+6430535711_64bbf6202f_o,potential_weapon,filename_match,6430535711_64bbf6202f_o.glb,potential_weapon
+372812294_097a28a288_o,potential_weapon,filename_match,372812294_097a28a288_o.glb,potential_weapon
+5516920825_b5049feefb_o,potential_weapon,filename_match,5516920825_b5049feefb_o.glb,potential_weapon
+12134977656_3e56035695_o,potential_weapon,filename_match,12134977656_3e56035695_o.glb,potential_weapon
+8369402627_6a670d0570_o,potential_weapon,filename_match,8369402627_6a670d0570_o.glb,potential_weapon
+377916126_5ed693017f_o,potential_weapon,filename_match,377916126_5ed693017f_o.glb,potential_weapon
+3237385926_71b8d52c79_o,potential_weapon,filename_match,3237385926_71b8d52c79_o.glb,potential_weapon
+2755336697_34bb70b419_o,potential_weapon,filename_match,2755336697_34bb70b419_o.glb,potential_weapon
+6342745960_f1c9ac8454_o,potential_weapon,filename_match,6342745960_f1c9ac8454_o.glb,potential_weapon
+5265575186_3f748cb990_o,potential_weapon,filename_match,5265575186_3f748cb990_o.glb,potential_weapon
+8692152662_fcffbde0ec_o,potential_weapon,filename_match,8692152662_fcffbde0ec_o.glb,potential_weapon
+1841488509_9a2e18f4d0_o,potential_weapon,filename_match,1841488509_9a2e18f4d0_o.glb,potential_weapon
+14694970499_b8568c5554_o,injury,filename_match,14694970499_b8568c5554_o.glb,injury
+6432093093_d5ec72aa6a_o,injury,filename_match,6432093093_d5ec72aa6a_o.glb,injury
+478736017_574735d556_o,injury,filename_match,478736017_574735d556_o.glb,injury
+2813471684_d29f128432_o,injury,filename_match,2813471684_d29f128432_o.glb,injury
+96274264_f0b3b6ec29_o,injury,filename_match,96274264_f0b3b6ec29_o.glb,injury
+17008632047_b8ce20175c_o,injury,filename_match,17008632047_b8ce20175c_o.glb,injury
+5342605094_98de160b86_o,injury,filename_match,5342605094_98de160b86_o.glb,injury
+16943857_706887a2dc_o,injury,filename_match,16943857_706887a2dc_o.glb,injury
+3775309316_6b34599913_o,injury,filename_match,3775309316_6b34599913_o.glb,injury
+2881810767_9e61f39c1d_o,injury,filename_match,2881810767_9e61f39c1d_o.glb,injury
+12503956853_9ffce73d29_o,injury,filename_match,12503956853_9ffce73d29_o.glb,injury
+4263935274_daffe02247_o,injury,filename_match,4263935274_daffe02247_o.glb,injury
+2436995155_033615b41f_o,injury,filename_match,2436995155_033615b41f_o.glb,injury
+5098748633_ef76881897_o,injury,filename_match,5098748633_ef76881897_o.glb,injury
+3329443197_50fbfd35eb_o,injury,filename_match,3329443197_50fbfd35eb_o.glb,injury
+2460608097_9647d5e2d5_o,car_accident,filename_match,2460608097_9647d5e2d5_o.glb,car_accident
+8126289047_c3a3e90202_o,car_accident,filename_match,8126289047_c3a3e90202_o.glb,car_accident
+9033225599_4343dde24b_o,car_accident,filename_match,9033225599_4343dde24b_o.glb,car_accident
+296064267_cfd3ed3b62_o,car_accident,filename_match,296064267_cfd3ed3b62_o.glb,car_accident
+15108268883_4e203a80e0_o,car_accident,filename_match,15108268883_4e203a80e0_o.glb,car_accident
+4573302817_d8b8fefae6_o,car_accident,filename_match,4573302817_d8b8fefae6_o.glb,car_accident
+2689230108_a2dd17e1a5_o,car_accident,filename_match,2689230108_a2dd17e1a5_o.glb,car_accident
+303541113_5f94409315_o,car_accident,filename_match,303541113_5f94409315_o.glb,car_accident
+4072657213_31b23fee4f_o,car_accident,filename_match,4072657213_31b23fee4f_o.glb,car_accident
+6251886823_8074e7047b_o,car_accident,filename_match,6251886823_8074e7047b_o.glb,car_accident
+3536731831_99a9ec16ed_o,car_accident,filename_match,3536731831_99a9ec16ed_o.glb,car_accident
+163823652_b5a4ae230c_o,car_accident,filename_match,163823652_b5a4ae230c_o.glb,car_accident
+15729204092_1e76171ccf_o,car_accident,filename_match,15729204092_1e76171ccf_o.glb,car_accident
+2886509057_685afebd62_o,car_accident,filename_match,2886509057_685afebd62_o.glb,car_accident
+5229856292_54e9ed721a_o,car_accident,filename_match,5229856292_54e9ed721a_o.glb,car_accident
+blood_12,blood,filename_match,blood_12.glb,blood
+blood_124,blood,filename_match,blood_124.glb,blood
+blood_311,blood,filename_match,blood_311.glb,blood
+blood_3,blood,filename_match,blood_3.glb,blood
+blood_101,blood,filename_match,blood_101.glb,blood
+blood_305,blood,filename_match,blood_305.glb,blood
+blood_361,blood,filename_match,blood_361.glb,blood
+blood_121,blood,filename_match,blood_121.glb,blood
+blood_111,blood,filename_match,blood_111.glb,blood
+blood_16,blood,filename_match,blood_16.glb,blood
+blood_20,blood,filename_match,blood_20.glb,blood
+blood_226,blood,filename_match,blood_226.glb,blood
+blood_227,blood,filename_match,blood_227.glb,blood
+blood_32,blood,filename_match,blood_32.glb,blood
+blood_104,blood,filename_match,blood_104.glb,blood
+6335230273_b701b971d3_z,outdoor_home,filename_match,6335230273_b701b971d3_z.glb,outdoor_home
+2399684612_0c848312d7_z,outdoor_home,filename_match,2399684612_0c848312d7_z.glb,outdoor_home
+14786173021_d1a80785d7_z,outdoor_home,filename_match,14786173021_d1a80785d7_z.glb,outdoor_home
+7471289382_5c7b7561cf_z,outdoor_home,filename_match,7471289382_5c7b7561cf_z.glb,outdoor_home
+480930072_5ea673d155_z,outdoor_home,filename_match,480930072_5ea673d155_z.glb,outdoor_home
+4671966257_b423957d1a_z,outdoor_home,filename_match,4671966257_b423957d1a_z.glb,outdoor_home
+4867212771_b084d96965_z,outdoor_home,filename_match,4867212771_b084d96965_z.glb,outdoor_home
+7933918534_b2af473b5c_z,outdoor_home,filename_match,7933918534_b2af473b5c_z.glb,outdoor_home
+15899239397_58d15ff2ac_z,outdoor_home,filename_match,15899239397_58d15ff2ac_z.glb,outdoor_home
+7622931096_0cfddb02da_z,outdoor_home,filename_match,7622931096_0cfddb02da_z.glb,outdoor_home
+3438157727_8c468cb7fd_z,outdoor_home,filename_match,3438157727_8c468cb7fd_z.glb,outdoor_home
+8414290992_86b6cef11e_z,outdoor_home,filename_match,8414290992_86b6cef11e_z.glb,outdoor_home
+8048270935_a537c66d23_z,outdoor_home,filename_match,8048270935_a537c66d23_z.glb,outdoor_home
+8104667457_48a6a1f40a_z,outdoor_home,filename_match,8104667457_48a6a1f40a_z.glb,outdoor_home
+7980555696_3c7aab76d8_z,outdoor_home,filename_match,7980555696_3c7aab76d8_z.glb,outdoor_home
+1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m,fighting,filename_match,1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m.glb,fighting
+Honto_bunkai-Street_fighting,fighting,filename_match,honto_bunkai-street_fighting.glb,fighting
+football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg,fighting,filename_match,football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg.glb,fighting
+two-angry-women-in-road-rage-fight,fighting,filename_match,two-angry-women-in-road-rage-fight.glb,fighting
+street-fight,fighting,filename_match,street-fight.glb,fighting
+539361489_4b1400107e_o,fighting,filename_match,539361489_4b1400107e_o.glb,fighting
+309509,fighting,filename_match,309509.glb,fighting
+hqdefault,fighting,filename_match,hqdefault.glb,fighting
+road-rage-4,fighting,filename_match,road-rage-4.glb,fighting
+getImage,fighting,filename_match,getimage.glb,fighting
+parent,fighting,filename_match,parent.glb,fighting
+maxresdefault,fighting,filename_match,maxresdefault.glb,fighting
+2017062293400,fighting,filename_match,2017062293400.glb,fighting
+blow1,fighting,filename_match,blow1.glb,fighting
+boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense,fighting,filename_match,boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense.glb,fighting
+Datacluster Cracked Screen (208),shattered_phone,filename_match,datacluster cracked screen (208).glb,shattered_phone
+Datacluster Cracked Screen (103),shattered_phone,filename_match,datacluster cracked screen (103).glb,shattered_phone
+Datacluster Cracked Screen (205),shattered_phone,filename_match,datacluster cracked screen (205).glb,shattered_phone
+Datacluster Cracked Screen (144),shattered_phone,filename_match,datacluster cracked screen (144).glb,shattered_phone
+Datacluster Cracked Screen (206),shattered_phone,filename_match,datacluster cracked screen (206).glb,shattered_phone
+Datacluster Cracked Screen (260),shattered_phone,filename_match,datacluster cracked screen (260).glb,shattered_phone
+Datacluster Cracked Screen (231),shattered_phone,filename_match,datacluster cracked screen (231).glb,shattered_phone
+Datacluster Cracked Screen (131),shattered_phone,filename_match,datacluster cracked screen (131).glb,shattered_phone
+Datacluster Cracked Screen (178),shattered_phone,filename_match,datacluster cracked screen (178).glb,shattered_phone
+Datacluster Cracked Screen (105),shattered_phone,filename_match,datacluster cracked screen (105).glb,shattered_phone
+Datacluster Cracked Screen (221),shattered_phone,filename_match,datacluster cracked screen (221).glb,shattered_phone
+Datacluster Cracked Screen (1),shattered_phone,filename_match,datacluster cracked screen (1).glb,shattered_phone
+Datacluster Cracked Screen (127),shattered_phone,filename_match,datacluster cracked screen (127).glb,shattered_phone
+Datacluster Cracked Screen (240),shattered_phone,filename_match,datacluster cracked screen (240).glb,shattered_phone
+Datacluster Cracked Screen (136),shattered_phone,filename_match,datacluster cracked screen (136).glb,shattered_phone
+6395024177_81fa2847c3_o,gun,filename_match,6395024177_81fa2847c3_o.glb,gun
+2249564736_d42d4caede_o,gun,filename_match,2249564736_d42d4caede_o.glb,gun
+3054017065_8d9ab6df01_o,gun,filename_match,3054017065_8d9ab6df01_o.glb,gun
+5382870740_471ca1b808_o,gun,filename_match,5382870740_471ca1b808_o.glb,gun
+12992937843_396732f798_o,gun,filename_match,12992937843_396732f798_o.glb,gun
+15149278572_534337cae9_o,gun,filename_match,15149278572_534337cae9_o.glb,gun
+8265656003_0bb911d34d_o,gun,filename_match,8265656003_0bb911d34d_o.glb,gun
+439615817_6a362b6b3c_o,gun,filename_match,439615817_6a362b6b3c_o.glb,gun
+4989837054_1d84c31d62_o,gun,filename_match,4989837054_1d84c31d62_o.glb,gun
+15074048198_c5ff8af6fa_o,gun,filename_match,15074048198_c5ff8af6fa_o.glb,gun
+100190416_11ead6547f_o,gun,filename_match,100190416_11ead6547f_o.glb,gun
+8557270023_66a3c63006_o,gun,filename_match,8557270023_66a3c63006_o.glb,gun
+6963681645_d040d056a2_o,gun,filename_match,6963681645_d040d056a2_o.glb,gun
+3729585029_5af861e06a_o,gun,filename_match,3729585029_5af861e06a_o.glb,gun
+149291028_4548453a07_o,gun,filename_match,149291028_4548453a07_o.glb,gun
+living_1026,livingroom,filename_match,living_1026.glb,livingroom
+living_1044,livingroom,filename_match,living_1044.glb,livingroom
+living_1249,livingroom,filename_match,living_1249.glb,livingroom
+living_1004,livingroom,filename_match,living_1004.glb,livingroom
+living_1179,livingroom,filename_match,living_1179.glb,livingroom
+living_1147,livingroom,filename_match,living_1147.glb,livingroom
+living_10,livingroom,filename_match,living_10.glb,livingroom
+living_1211,livingroom,filename_match,living_1211.glb,livingroom
+living_1024,livingroom,filename_match,living_1024.glb,livingroom
+living_1000,livingroom,filename_match,living_1000.glb,livingroom
+living_1261,livingroom,filename_match,living_1261.glb,livingroom
+living_1090,livingroom,filename_match,living_1090.glb,livingroom
+living_1145,livingroom,filename_match,living_1145.glb,livingroom
+living_1174,livingroom,filename_match,living_1174.glb,livingroom
+living_1117,livingroom,filename_match,living_1117.glb,livingroom
+kitchen_1031,kitchen,filename_match,kitchen_1031.glb,kitchen
+kitchen_1099,kitchen,filename_match,kitchen_1099.glb,kitchen
+kitchen_1030,kitchen,filename_match,kitchen_1030.glb,kitchen
+kitchen_1189,kitchen,filename_match,kitchen_1189.glb,kitchen
+kitchen_1134,kitchen,filename_match,kitchen_1134.glb,kitchen
+kitchen_1102,kitchen,filename_match,kitchen_1102.glb,kitchen
+kitchen_1193,kitchen,filename_match,kitchen_1193.glb,kitchen
+kitchen_1200,kitchen,filename_match,kitchen_1200.glb,kitchen
+kitchen_1035,kitchen,filename_match,kitchen_1035.glb,kitchen
+kitchen_1003,kitchen,filename_match,kitchen_1003.glb,kitchen
+kitchen_1148,kitchen,filename_match,kitchen_1148.glb,kitchen
+kitchen_1162,kitchen,filename_match,kitchen_1162.glb,kitchen
+kitchen_1029,kitchen,filename_match,kitchen_1029.glb,kitchen
+kitchen_1028,kitchen,filename_match,kitchen_1028.glb,kitchen
+19324089973_542ac72d6f_o,knife,filename_match,19324089973_542ac72d6f_o.glb,knife
+15831449986_e6938bf528_o,knife,filename_match,15831449986_e6938bf528_o.glb,knife
+15843042109_810b925957_o,knife,filename_match,15843042109_810b925957_o.glb,knife
+16155324722_9d11d48ffc_o,knife,filename_match,16155324722_9d11d48ffc_o.glb,knife
+19906119675_2186143a4d_o,knife,filename_match,19906119675_2186143a4d_o.glb,knife
+15831421306_abc0b5c6bf_o,knife,filename_match,15831421306_abc0b5c6bf_o.glb,knife
+19667654424_662b25a4d3_o,knife,filename_match,19667654424_662b25a4d3_o.glb,knife
+5075275649_c015fcbae9_o,knife,filename_match,5075275649_c015fcbae9_o.glb,knife
+19832075215_0c2b3f81c1_o,knife,filename_match,19832075215_0c2b3f81c1_o.glb,knife
+19554937106_af445a7df5_o,knife,filename_match,19554937106_af445a7df5_o.glb,knife
+16574980597_9b4e877623_o,knife,filename_match,16574980597_9b4e877623_o.glb,knife
+4121917051_0ec8c10f32_o,knife,filename_match,4121917051_0ec8c10f32_o.glb,knife
+8210802253_1deca73f17_o,knife,filename_match,8210802253_1deca73f17_o.glb,knife
+19688793649_b4e50f1b97_o,knife,filename_match,19688793649_b4e50f1b97_o.glb,knife
+15933264296_158a3fd419_o,knife,filename_match,15933264296_158a3fd419_o.glb,knife

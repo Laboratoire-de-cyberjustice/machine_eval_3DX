@@ -1,0 +1,202 @@
+{
+  "timestamp": "2025-11-27T12:38:46.832160",
+  "total_images": 15,
+  "successful": 15,
+  "failed": 0,
+  "total_processing_time": 2521.81,
+  "average_processing_time": 168.12,
+  "config": {
+    "model_version": "v2.5-20250123",
+    "max_workers": 15,
+    "concurrent_tasks_limit": 10,
+    "upload_qps_limit": 10,
+    "advanced_params": {
+      "texture_alignment": "original_image",
+      "texture_quality": "detailed",
+      "geometry_quality": "detailed",
+      "orientation": "align_image"
+    }
+  },
+  "results": [
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (205).jpg",
+      "task_id": "69e5e4f6-9b5c-4f93-a077-6155ea52b92e",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (205)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (205)/Datacluster Cracked Screen (205).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (205)/Datacluster Cracked Screen (205)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 91.68434476852417,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/69e5e4f6-9b5c-4f93-a077-6155ea52b92e/tripo_pbr_model_69e5e4f6-9b5c-4f93-a077-6155ea52b92e.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvNjllNWU0ZjYtOWI1Yy00ZjkzLWEwNzctNjE1NWVhNTJiOTJlL3RyaXBvX3Bicl9tb2RlbF82OWU1ZTRmNi05YjVjLTRmOTMtYTA3Ny02MTU1ZWE1MmI5MmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=mynykTEEZRovjvnszhrhR6NFNsGY7RkExBQlhN0NzhgkzXocwwbLV3sJI7wYjFFKLiyoocBP1ZLXub65ARxDlU5VC9oOu5xk70LPmdgTKWE2RrG73-WL5jmlrcWfD7p85b20QDeSNIWv4pfh2c6lB6sl-1v8zZkWN364avQIaBlf-zVE7-JtXwyjfXMzcppMEInyLMh0y~xNnVM-l0yEmUGae~yrhEX67hoycGjZ-aAMraeim0Cy1q4h~-dafsNRDUtt5nhCCRkCGEYQnp-e~6SNTWu9ybkpC3DWcv6Q4tIlWIqMiFScKQqaID9WR9WPjvosQe3x6Gd9WkkTPHLAhw__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/69e5e4f6-9b5c-4f93-a077-6155ea52b92e/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvNjllNWU0ZjYtOWI1Yy00ZjkzLWEwNzctNjE1NWVhNTJiOTJlL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=bcFMNJLHf1bXnvksLCnXOpRdX4GWCs~Pu9ZBA0Mx-yHIzt5GhdTI8c5-xSUOgXVv2qBmPk2xww6N83cpbp1B3BNNpwv3X2W8mqrLjHOE1ACBACgFI9UZeOe8J~sQLHD60BTROmG98yvfX18Cg-mqOyNyExartzX-Mvf0641vjmFZRBC2yzm3rVYD5AvED5IwDMK2xIOeCOjyQkEETkXWo2mBvRHf2VN1c6itGTrhmtG4yTowfMKfgrXypFBOVw0nHhbFlwRhOma2HyZ6AVevQaS7zLJeq6eLh3kRUFLmnaEmgc8WZDHODJwXD-1eIyjAnt6NS6Sv8C2oEcfwLwbf5A__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (178).jpg",
+      "task_id": "e2446cf4-a316-4bd3-a8cc-2e73544e0f3a",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (178)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 95.62515902519226,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/e2446cf4-a316-4bd3-a8cc-2e73544e0f3a/tripo_pbr_model_e2446cf4-a316-4bd3-a8cc-2e73544e0f3a.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZTI0NDZjZjQtYTMxNi00YmQzLWE4Y2MtMmU3MzU0NGUwZjNhL3RyaXBvX3Bicl9tb2RlbF9lMjQ0NmNmNC1hMzE2LTRiZDMtYThjYy0yZTczNTQ0ZTBmM2EuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=dVmmySjprKDp1-F0HDGSdmOnlh0KyVWDv~4p4QQCvaBtPfGc0fR00NZsGhXboOYd8tYrSosE5pFLzjB7Ideva81O8tjjq1JkJ6rtTwHm8p9Jd7srV3Ujzi7VH8dKJeCQkg-ixvmw6KTkFNy0F2uxKNLZoI3OPINR8usd35WFQ5ZVWqo5i1QbMFfHECwkB6X1kO2VMIMKvpmqjG7V~j7666VKhiRaGpS9aIwHS4QoOAy1Mvtv0XpMil-uax96qMj-sCBBaMpHP5r7CuOpl7PNz3R7a-8dCObfcWvoi0U66Q911qCh1MJ1yqtx8jvmKuA6WxwiH7GGsIRzbo27v7jDfg__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/e2446cf4-a316-4bd3-a8cc-2e73544e0f3a/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZTI0NDZjZjQtYTMxNi00YmQzLWE4Y2MtMmU3MzU0NGUwZjNhL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=PnS6Ao3xyyCMz408DKD5vIB1k3nVx8Mw24Bog1dJJogZGmy4tjP~JkG7BX0yrbPjmzfZODlD-77PseAtiERvK-XigVn~Ty-QW2uoQy5yKzQc7VYBpZ3mRMNxJNB2QBYU~Tlx4cWvDBUQbHBgkPKEtCfbawqvofoxgWkTsoR8VUd5XgBMVM-KKtl8fyp63dIu3bWoA7iveTNNxnZaz5XEzJ5WfWtGtAHOChJRf5rcfWnwqKoFLTA9gEhsSGslBGhWWGJutL7qFlE08S85XwtC2m58nPHR9FEJbLZFkO5b5NACfRjBfq9nHF~K8VTn-LlTkrBCgDMQRJWw9TmleGfQtA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (206).jpg",
+      "task_id": "8a526829-669b-4524-b024-fbe505d37b06",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (206)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 110.89224863052368,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/8a526829-669b-4524-b024-fbe505d37b06/tripo_pbr_model_8a526829-669b-4524-b024-fbe505d37b06.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOGE1MjY4MjktNjY5Yi00NTI0LWIwMjQtZmJlNTA1ZDM3YjA2L3RyaXBvX3Bicl9tb2RlbF84YTUyNjgyOS02NjliLTQ1MjQtYjAyNC1mYmU1MDVkMzdiMDYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=ZmNnKxok2CczgEG5zvLcEdhLKnjPvjr5Ofcm8nPCXV6yJbEoB1mRO2oEX3ELU3Zhd8o2hZr~AwlEOpv7bLMfCJAf30b2ftMgXcwCOV6T18G9omiR-y8hq-2VvDJ1sfSYCdeew69jSyAO0cduOik1qHg08JUJGp3LN-HMGTYN~KM0Xhuy-I3BUjOL7~wkQxGOUsmhW6q7VVpwlwo51OGfhr7kxWd8LoVUVOPRBgvQkgvvIPCju3t3g2yYBwmuahRaETI~3IAghyzfDS3M-~Vgfe7fH9xgW~DlCqhfBYsjPzcXpuoIEHQAmq~9Q2NPVF8ybjLUnA0pLX5bvWC9iqzjHg__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/8a526829-669b-4524-b024-fbe505d37b06/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOGE1MjY4MjktNjY5Yi00NTI0LWIwMjQtZmJlNTA1ZDM3YjA2L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=k6~o5eyE48JqYnm2RIn6FoWGkk-mQehxtxwspiRcy8LJnHqcGawVKqSe79jyNmLz9XISxFK0Y35a~am63jOmRGlwjwgGPOs2-NJEkce1c1A34b4ATLJLS1lPooOuJvfRTs2U0SyMO5wi~9OISbOpIUo0rIWHnAExh9ZgocNFWofeEFyI7OYMQk01yEC-fRhnUAlw8XQOG6eq1vHITO12~-gRlFH3ozZlB5oxtjo1HisG7zhw6oUdPGWYBZGwilu0l-VJR~3Kgjv2hGHlM3y36tSFbMx5iETmYmyxTosY8~3ZTPA1n5dNAyLuuq6voLNs7rGaiolepSVkj9WyAI-3IA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (144).jpg",
+      "task_id": "8cc971a5-b839-4eab-9642-4a0b2ea84765",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (144)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 117.72455906867981,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/8cc971a5-b839-4eab-9642-4a0b2ea84765/tripo_pbr_model_8cc971a5-b839-4eab-9642-4a0b2ea84765.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOGNjOTcxYTUtYjgzOS00ZWFiLTk2NDItNGEwYjJlYTg0NzY1L3RyaXBvX3Bicl9tb2RlbF84Y2M5NzFhNS1iODM5LTRlYWItOTY0Mi00YTBiMmVhODQ3NjUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=k7m0lAIx-XVm7jnhkX0wR0-t9vvxKPbHen7FA2i~ex1CykA4hmF0TM~VaRZQHihuS4TyNxEb5ILNtKKHCWrm9rO~GKK4z15o24gP4b4PGxJhW~62tOXkZ9IE2aWm5k4t73ilys1yEmO1e0hAjVWsh1t6o6HDufebvj9j5Lk5KlvjY-0gwHp9ubxEP4QJolUDqQJV4GJfGHygo40OkSWKTUYc1NY~Y8-sLstXnJA2mpymx0MoWJMSaUXKDJVVuPcXKsAEwbYiloYbnz8ywUXyq66WGtro2bEqys8EeOSvsbSWPRoPA7B3lMzZgozUeYRsbW6UsaJBbwKGx~uEnjFeZQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/8cc971a5-b839-4eab-9642-4a0b2ea84765/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOGNjOTcxYTUtYjgzOS00ZWFiLTk2NDItNGEwYjJlYTg0NzY1L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=Mou~Vw3nZC0Fq5rdkaBTzDikhpGIB06habFG~4xuvpoTAVTEIljFsyKVUkQzySDSdu249FQGEXNKP1tQZzzFPgU4ONvH5AR~CKQ2SJQCDNoUWudMz~o0kaICFbXrPT4omdmcvFCh0Vxa-N83LHvmaUciTVhRMAbjJYMxsqrnHZnUogF1lP7PA9qIVx~jAU7Ti7IJZEky4BXWv5LV1SeW4q7C3OeTK8sZFdF1gvPCfBT7AR0wuR-4k20NAelYrcNZzHlLTZpiN381TKu~6np93W1pZpdl4K8BGJN4eV1HigCYc8uzEvQtDmVW6SBd4f9AYuspoUcHqdFwuemyEqLmjA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (131).jpg",
+      "task_id": "6167b57c-25fc-45c4-bc62-23de4ea12257",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (131)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 126.4074318408966,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/6167b57c-25fc-45c4-bc62-23de4ea12257/tripo_pbr_model_6167b57c-25fc-45c4-bc62-23de4ea12257.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvNjE2N2I1N2MtMjVmYy00NWM0LWJjNjItMjNkZTRlYTEyMjU3L3RyaXBvX3Bicl9tb2RlbF82MTY3YjU3Yy0yNWZjLTQ1YzQtYmM2Mi0yM2RlNGVhMTIyNTcuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=vq4XjaxgVsWbl3hLX4DcqJ-4UIaFo4~6o5NLLSPP4Y8QjdOnZKYL0VNK3tKic1WI0bsWqwqm1jI-6Y38IbrU9nPFYfBQCbjNa2H89pdaZQkSGYta0xUtY5K-4QNBRsuxqqGwaiLD2G8pERWp9L5kAzCF3P7qHBFbskwYAPZReLDYGjSNXENTu7EjB2yodM2spwMe1rKbPN9h8i8cczNDFSOTGDoPVAoGF3xJpFRm8t2iUJXzbKkOrR7HuW-6UqgT-pS6K695WqkjMNLruDEh4R200nDAmF2l8wEg5N5SBQ-BJVx11wbvG-Szzhc8FzpgRdReNr4s6lsvkqkHpGKDtw__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/6167b57c-25fc-45c4-bc62-23de4ea12257/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvNjE2N2I1N2MtMjVmYy00NWM0LWJjNjItMjNkZTRlYTEyMjU3L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=B8JZfGP4UZmP6~FMSdeEcOfoPpAtUWnzpmCHMOJCZL-Ae2kck2RHG-ZbX3OnxaD9jcPUOEFIZlyuVE2EunYV~DZqlwqqH9o63HdJICZ3eRpvnhDYYo~Fz5pSionvcD1KrCDYiwqsG9c0IXZkCyKux0r3F1KZSQJEdjsbNN-1LYBoGzWmqmPF22IyNW5LVSPQudYqkUSvqDrFV5auUsmfyEU7jnxsQoCGXdyt7HygH9lOPJPwPcIHFyFtDGAjK9FNd2dkHYpTBmLF0HyrS~~iJzdvuBD~rtcVjhV4BEzwK-aLMAkoVNIcXgDPJWpkLjdgr-ajAYmG3kbe~ET5TsRxig__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (136).jpg",
+      "task_id": "deb7856a-035c-41b5-84f2-b6afa5da48e1",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (136)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 139.17213010787964,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/deb7856a-035c-41b5-84f2-b6afa5da48e1/tripo_pbr_model_deb7856a-035c-41b5-84f2-b6afa5da48e1.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZGViNzg1NmEtMDM1Yy00MWI1LTg0ZjItYjZhZmE1ZGE0OGUxL3RyaXBvX3Bicl9tb2RlbF9kZWI3ODU2YS0wMzVjLTQxYjUtODRmMi1iNmFmYTVkYTQ4ZTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=Mf8HK2HwNqi4UJ03x7N9bOmifWtPkZpqx0JOuqmQzCdLpRx8LBRPZ~xFG23HMxfkx12NmwEUj3-rgB-wzpm4qT52GCvDS~wzfIf69ev4RlHVYQ0fzKxxcY4~VQ0ae7N8yKKpzGPauC6ii5ohO3tPlz8k-CH7EA9Sznw6SQU3rxBGmXGfKX-GAID9kZiduan5tejeBSqCRTBT6m8gxN1qOiur4QWqFRCnoRhQNumUvveUyzbVxCV6tSdcl2s~Ak0DpRNHaD3gYRBiMRxH-vhD-04MnQpmFfJE-uX6PRaBWPKAhxBVtsWGOP0qOVFffgsmHzo8X5-3AVCtacDhYZseOg__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/deb7856a-035c-41b5-84f2-b6afa5da48e1/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZGViNzg1NmEtMDM1Yy00MWI1LTg0ZjItYjZhZmE1ZGE0OGUxL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=uQ2pOPyWo8Ze0c3AGC~iWRwXCDw5rEofeoierb5MPzPc9su00g8VavtXpFKow-P9CoUbecC0L6-igeKfsSvdpjn3DyEpLynNxz8VW~s623ZnAKCgb94S8ceaRI4mQEfR0EZbAoFtpn7pI0jby2ESuAorbbzoKBbmC~StiOT~D5Yy4SmT240Nl0Zcs0-a2YFZyEqnoYDB7PR1NV9ozUYlhkyv~lr~d2v1BEmfUN0twaRuuG9bPERZ8CSYTZmeROgM~qMMfuMm2FWoMSJbrTlbsJtJWqfXgql-vdXh9mR9ju2xlP950ZXyqnNnepMtJvvMAXYAf0xidVM2Y4bLkMmv1g__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (127).jpg",
+      "task_id": "97058a63-0573-4bf6-90a8-476cda738638",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (127)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 141.07475399971008,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/97058a63-0573-4bf6-90a8-476cda738638/tripo_pbr_model_97058a63-0573-4bf6-90a8-476cda738638.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOTcwNThhNjMtMDU3My00YmY2LTkwYTgtNDc2Y2RhNzM4NjM4L3RyaXBvX3Bicl9tb2RlbF85NzA1OGE2My0wNTczLTRiZjYtOTBhOC00NzZjZGE3Mzg2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=U-aJpi5kT0TuTNRp8XnBlDq9X31blxB4BCOXaanBBxJLzrJ6v9EjV27iKykmI9XyXmRddcYXc7nYTJlbOPOPP0jAR3lRQD88dfzRCYbl6yeEAa0sHY4nZWrfDNjM1jnS9dKjCvIkPb1~2pXKxy-abNTddRd88ww6iNCIX~QntPw3XBmLG8DVJtVHyweVgjs4ShlNdVdb~5EH7LfO7MXQ1AqakxKz35fyhV3N6r93sizkMGJcdEtBs~HTn2MulCGAJbfljB68Fsv9umV7abj1f~1KSY5FVN9F3-WMQBJIBxpoFzJo0pinvLd8CTBOAlXT5k2vHrNKvPPGOvJTGFt-Kg__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/97058a63-0573-4bf6-90a8-476cda738638/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOTcwNThhNjMtMDU3My00YmY2LTkwYTgtNDc2Y2RhNzM4NjM4L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=Zu-7HHbGjbJQIz1pmNBUuBcXs9V8jm080jcWtw7W5Z1xqEnwDAA8u4BHVJ2I4riykSe3UdOvFLGY14gmFyys5eV3YRNNq1boK4MrGh5V9bkxoak~c5GQNqB8lHQOps-YKc1MysjyWz4G~jAwFpkV7pNBd4pHZfE33HVUP~YojApQstXBDgPNwjn11dY1LILf3GH2pNcuvUGzt5cJTXGzYvIW9j3RPTYBoHPG9q~mZE7ez0xli7pG5JY98eqHu3XezvvXvGQdWQ-RdZz212VDbSNJiYGyXB4Tzt5GP~3t9QI6iQhmCICVndtatAeUIsb7--YFERMo~HYYx5PCAqy2VA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (1).jpg",
+      "task_id": "0409e479-d459-40c7-b40a-3aa651b5afd3",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (1)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 151.93095302581787,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/0409e479-d459-40c7-b40a-3aa651b5afd3/tripo_pbr_model_0409e479-d459-40c7-b40a-3aa651b5afd3.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvMDQwOWU0NzktZDQ1OS00MGM3LWI0MGEtM2FhNjUxYjVhZmQzL3RyaXBvX3Bicl9tb2RlbF8wNDA5ZTQ3OS1kNDU5LTQwYzctYjQwYS0zYWE2NTFiNWFmZDMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=xanJtW71Ga6zpZK2wnb0oqkeBqE1kp-LbLiiXPDsZF6fEOuXCqVjt44ysx4xc6VFqJvZsIZ52-cLd6pGoMUmZOS1JuYaPIfsklm4IZt1-uPtjIay8LVFVG8GLcyzKlBLnteZKIZLwZphpVZgUTLErAy-NJ-jCUxaMDdDuNIYzTWqS-uf582hjEl0luSmmidsNr06cQ91V6arU8FXdSJU2ZZpWQLLHbevmvriSEyLKjyA25NlsOJ-YpgS67wYs0~BxdkeyP~qqYltF4-1WM9bdV4I0X4RqPUuZAfYqme72CZBIraRWvLSalwCg~-xoh7qWt0M3HKPtwQb69TJJ~7vXA__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/0409e479-d459-40c7-b40a-3aa651b5afd3/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvMDQwOWU0NzktZDQ1OS00MGM3LWI0MGEtM2FhNjUxYjVhZmQzL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=V0~442FiQbA6YY0sl4UzNpvaYxm-vWw44ElDpav2npSBQ4EJbtSD5mDCmbfa11FQJDQSA0mYeFW-fh0rOR2zck5HmZGOAPNmisWZKOi-e8zv3p~qvWR~LExQGZF~MHBItcwbwZ3lybO92R0Aantq6F3kfBIPw81YmYfoSCjNnoODExqU~c6eya-HSh18Xqi8~CP94SssRqDtWPwP~sWN9u8~hvtm4pvlTP8~GYW3TKJBE68vKGUeIxTqWXcbyxQH1QzmbcqbOKf6ithnBjm8-2VbvlsItiYJ0nUthQAWIxQtVsO2W48ZcNduGmH9MLyjwKL9tLY8WNZbVpEV9ciCNw__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (105).jpg",
+      "task_id": "ae8048ea-d101-4705-84de-2b1831a55471",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (105)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 156.03511381149292,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/ae8048ea-d101-4705-84de-2b1831a55471/tripo_pbr_model_ae8048ea-d101-4705-84de-2b1831a55471.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvYWU4MDQ4ZWEtZDEwMS00NzA1LTg0ZGUtMmIxODMxYTU1NDcxL3RyaXBvX3Bicl9tb2RlbF9hZTgwNDhlYS1kMTAxLTQ3MDUtODRkZS0yYjE4MzFhNTU0NzEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=JBa9XqRYVal4OECs3uvXJYfbXq27ZSn9E6TgmAfMpHw9Oe2Nthb9OFh8YMluvrhuxxWR0yDOZGFshpoBY08rbXDxIGQT~37JgiYspaP3dOU1scow1wvbwRjxJ6e782LutASi8xyoceu~StxqptW1C0-5~4axxbdszCXZGxRIlEvzjDfmJZqGd1CxsdT30vD8q2EUKhTewdguhPP~x3XM7IrGnev1Fbwauj7hK0c77jytUkziaJZVelYkYSyeVEm0kncJ4Tnpkdawt70KDmK4aJpFauQ8-hRMclzrQgebGJ9YdB4BZoHZCfv86fesYbhlDOXoI3IDu9rArT40duq3-w__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/ae8048ea-d101-4705-84de-2b1831a55471/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvYWU4MDQ4ZWEtZDEwMS00NzA1LTg0ZGUtMmIxODMxYTU1NDcxL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=h0JzbLFEpIXQX07B112~a3Z~O7U2eoRAuLCIr1oVp~BsQRhE5gVjPbTl5B9vBViaaPHRB707o5XfwwsfbA0k6FHkkRt28VUIyH3xC~RWt9WFMRPNAxbv2j2D6gOrn6RyIdsfRuQOSl3uBxY7q86Ho1hStF2sOQnGtng4QtUMAYJs2~3U9mMN13OGUtx5B65mSgQIF-xkhUMdM8mNwE5-muD5KLi0Yz~yDqKInURYld-Ey5J4415UEJvwMkNc20tpOyef02PRCt8hDf7zSY46EOPZOEEx4apztycAksZ9etJHPcz-OY1d1x0Vfcrg0Z6KQZzk297SIQRq01KLbXr10Q__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (103).jpg",
+      "task_id": "f5209d61-c524-45cf-bec1-0ab8d01d12a5",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (103)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 164.36766695976257,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/f5209d61-c524-45cf-bec1-0ab8d01d12a5/tripo_pbr_model_f5209d61-c524-45cf-bec1-0ab8d01d12a5.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZjUyMDlkNjEtYzUyNC00NWNmLWJlYzEtMGFiOGQwMWQxMmE1L3RyaXBvX3Bicl9tb2RlbF9mNTIwOWQ2MS1jNTI0LTQ1Y2YtYmVjMS0wYWI4ZDAxZDEyYTUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=PipszL~a5eyQNsbFMYJOXFH6d4kl3I5OHprUjazX3KAQtoqeg9leWLfcU3io09CsIzfaQSt0j5ghTaUuOY5XCfvoxIRc95wXf84UaY3HRmdtLYwbups16vIl55~SYB0Yi9zdRnPryfHTR4DVIR5cia0YcGBNTsamutfhCVyt1w0QdMIt-UzUK~qI0Yod9v7d6Pupc9DL0xfc9aIVdxhYZYp96F~~WFGTm8Z-MdGujO0WfZo0Cp6vYdiDwNUVCdMZk5rDYZzoS9erD76wJ2fy0XnAJZbASQgL1Dk0ocQlnP4yyyx3I6RgXkn~RXW23GUmuXh9SEl4fxZnEfh3n4uTaQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/f5209d61-c524-45cf-bec1-0ab8d01d12a5/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZjUyMDlkNjEtYzUyNC00NWNmLWJlYzEtMGFiOGQwMWQxMmE1L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=G8j9ooVikSypjDcc9H2X62iFUmaYPKIKs6aJGpRiOeAmLB3azyxPX2~r4ppBXCupKh8auhWBVlZAjGndhKan0f4Ctg6T1slfB7KMh67smHMQjgEWcoRbu36giulqXD7SXV6xFALrKrpoEUtQABDsEkg4ImoMwLaDBUcF~gVi0dnO5IFP2eK~3AdBqbw8EhD1IVhC29jXtGCZTxRZghCOfBO0x8txsHM5XAZI0xyMaD3GNoeJnir4dfqM1XwSWZgoUUOzyOmI8-zW9v0TYoeWL3t4ifZfNvc1dBZ-gTG24hZyAGcKO5BFGic7KBptj2oqYgjbtK5uc-5AiKkwHYMDXw__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (221).jpg",
+      "task_id": "9e30f013-6fd5-4757-989c-6c058891ad2e",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (221)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 225.19850516319275,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/9e30f013-6fd5-4757-989c-6c058891ad2e/tripo_pbr_model_9e30f013-6fd5-4757-989c-6c058891ad2e.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOWUzMGYwMTMtNmZkNS00NzU3LTk4OWMtNmMwNTg4OTFhZDJlL3RyaXBvX3Bicl9tb2RlbF85ZTMwZjAxMy02ZmQ1LTQ3NTctOTg5Yy02YzA1ODg5MWFkMmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=RElEUMdfRjgXlT~wJuA5TGPT94HaBW9DpnAMcVSILMznB25QaxPyU9Z~P6fDV~pX5UyuuFWddwoxRm6EMEfNfKrK3MWtr~VaZiLth37PiUsMrL7unc8WYdcO42IeDFc~TmwpDzt8DH1OlOiLIHvUAWKdmZDQyu2zd42EdL1ajsAEmQ0AQ0du9HjGxTBNzAY~~g~txxsN-pMhvngIkqXOwYeZWj9owqXqC0TUN0209lzp15k6aafccUZrjlZZY2tqSOgV8-5TwizdHOinJF431b035tsNrc~C0ArU2Anq0~JQFTeJYvh1mQvElQScvjY4CdXxsq73ydbPKTEnicOkcg__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/9e30f013-6fd5-4757-989c-6c058891ad2e/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvOWUzMGYwMTMtNmZkNS00NzU3LTk4OWMtNmMwNTg4OTFhZDJlL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=t40--g8q6D24QUOEZiBJ~NwdNWZxo-SuuIP5r05dByKfaG7y6D4CBKk-MrZZxaa4k1lrb6kdPVLrof-QEVk8MNlWzjXAM4LtaJ-IuhSpMSQIcn8c50lF850syUXTVWHfBiMZ6r8eVB0Ww8baB5I0pCC9dx0xK-H5x-WafwZnbC2UXlv~ZAIypB7h7MP9Mj1a4FwzUfXqyM3ZhBkHVMK4hI0PP8hoICpqcQe0xNAKuciG41WXkRq9AXziflaxVxpih6cmGVOKV~wNRf9A02HC5gNjzMX-fATMIRx8ZVEX-8~UuitkkJuOo3CJSNW8nUJg~bFDWC7mryGoTK5Au-5owQ__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (208).jpg",
+      "task_id": "bf510c43-a83e-40c8-a859-457e75d91207",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (208)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 240.05502319335938,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/bf510c43-a83e-40c8-a859-457e75d91207/tripo_pbr_model_bf510c43-a83e-40c8-a859-457e75d91207.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvYmY1MTBjNDMtYTgzZS00MGM4LWE4NTktNDU3ZTc1ZDkxMjA3L3RyaXBvX3Bicl9tb2RlbF9iZjUxMGM0My1hODNlLTQwYzgtYTg1OS00NTdlNzVkOTEyMDcuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=M3gOI9nJ0WgdzBw6mmVvnCdIU5zcb99SADl08nUivPSaPUTz3HIv81C5ZkvT8vmt-AZoqI5FUltHQ~oGQZYdApvrfFjDnSIuHtnzMYLCPO1CClCrgqfGeOI~POP7Lfj18sck4VAkY7WovlYy~Km5r6rgZGfiwCq3zyIWqIvBQCCssH~DgQhwao0VYmw7r9pJKd3kpZnxE-TjJ7yU0PI7HUjPfA0Ld408OBJ6jE65VV1WDs9E00u~4vZRzj3EEpLmdS0MucUgHc9Kyb5itF5xfqoym7ITXbCtJ8nfJwJl7eC7pA67~iNFDCt7J-bVzTtnO5~yL0444aZcWouDyv-Zww__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/bf510c43-a83e-40c8-a859-457e75d91207/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvYmY1MTBjNDMtYTgzZS00MGM4LWE4NTktNDU3ZTc1ZDkxMjA3L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=tn7EiExpQ-tFqpezGFZf8ptgoUzWfrMADgMM3Hp-sQEm4muP4xUyJatMZiY6RBbgl-0jmnTUbRi8P0EU6tp9K42LRwnq2Xw26BXhn8RRi2zwYOloamrKgCoZxa5EvK51uX6chueu-EDu2STh1ZbdcHuQRhSpWkno8b7PVxm3U1g~SPqZQaqcLyEj0MRtnjdBSRI-tfjLy6aclfeTPs2zfnQ3McFh3fp6V81G~5Ti4vABGichsNS5~d4mbPlyd51-1xpDVCCqT~pSDKYbp1p2jjy~sbw0orbwU-VM80ea1cSZRaRLgcbMFgRXrYOAwWtrj2dsQdJL7~siJ-HFUn3EtQ__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (231).jpg",
+      "task_id": "fe3900f8-a388-4173-a2fa-157c9fe7c6f9",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (231)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 240.30086183547974,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/fe3900f8-a388-4173-a2fa-157c9fe7c6f9/tripo_pbr_model_fe3900f8-a388-4173-a2fa-157c9fe7c6f9.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZmUzOTAwZjgtYTM4OC00MTczLWEyZmEtMTU3YzlmZTdjNmY5L3RyaXBvX3Bicl9tb2RlbF9mZTM5MDBmOC1hMzg4LTQxNzMtYTJmYS0xNTdjOWZlN2M2ZjkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=j30xHsXSPMsKXqkWRi4fDsx3LYbfeUTalafWIdjqZ7RipPf-CYSkVmg48N2d2xLgpbMZaOazd5LiQZF8JJzkpMSuY-BK-Ok35C6RhNp2kBSn9JXLS~C9QpTs4Af8SnkVXmlmvIe3krKg4DoN19skSnFzy1y8clt4JL38I5Zg6fh4zD2Gtn5eYk6UtAKkZRAiJ-7FiGQjduUMu9FQgTcVZ-SFXlucXMBBkZi7CBVOvSvfaC9Pmkppy5jyI6pSNsGwICCJ-1Ke6Nfk9FX5S9TuDeAnDN6pOOpduny1rbag2uYWH8m2dhnHxqJ02aCJockpN0nHbbeUuiCnNTHgq~ftBA__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/fe3900f8-a388-4173-a2fa-157c9fe7c6f9/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvZmUzOTAwZjgtYTM4OC00MTczLWEyZmEtMTU3YzlmZTdjNmY5L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=OLd-wTGQwtkB4-y-nPUNj-9xf4KTGcPagvMYmkVCoiuQVud4L4-p8cgLZW8iKj1LreC4813oKve6c6YFgKH7hYJx18KwOteQxm2gDunoBPh0wuAjBxfgcWtnKLiBnPYCvkD9exBfkVooFrRrQ~mqsjOz9sQ5y4Jzd57j3ij8oI9o2AN9bO0~Ow-7Crd5~JvEklA57dqgl7ccSp3G9jjrzijUGuT8Pi9Sfra9hXjmnM9lcObAamMe1i5KeSzCYROVPApd1KNQIudu8S73uxtZI~wMv21QI52w2HKitCSbLINk3TNt3weoJCWH-aeKzwB1qfvyzuAk-CspPg7aKM3ctA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (240).jpg",
+      "task_id": "5b0572b3-81b1-4e02-ad0a-10b6d1c8149c",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (240)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (240)/Datacluster Cracked Screen (240).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (240)/Datacluster Cracked Screen (240)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 254.58400416374207,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/5b0572b3-81b1-4e02-ad0a-10b6d1c8149c/tripo_pbr_model_5b0572b3-81b1-4e02-ad0a-10b6d1c8149c.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvNWIwNTcyYjMtODFiMS00ZTAyLWFkMGEtMTBiNmQxYzgxNDljL3RyaXBvX3Bicl9tb2RlbF81YjA1NzJiMy04MWIxLTRlMDItYWQwYS0xMGI2ZDFjODE0OWMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=HTEvF2NfqftbzYkCUWHJ7cJ~wZb5eRlIgsqYyCgKKv3fbNVKQ9jyE9LqOBs7ZZeKtH2koWb3VQMFE21qW15cvNQFCixydPZt-cYXc22jYoqJIIQNdUFg8l~llXvarzxi894XmGFdQOt44lHpipPUOsVdIVkav5WhFvXwa1M~6NOpHJmx3Dv6o27jyYsmrIpclPHzgDTH-e8gJlusFKaKtJJDU1KJdPSSoSEn3NrXWCdK2I1K9EDISAY6YAF2S1zB5W~ziT1ZBPQptEPsxdp1oCARQZNtMkbcGfWuIyAADijCv9-ah0f29qI-C08fVh1t-YYZ~oOIaeZP60cQYCzlhw__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/5b0572b3-81b1-4e02-ad0a-10b6d1c8149c/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvNWIwNTcyYjMtODFiMS00ZTAyLWFkMGEtMTBiNmQxYzgxNDljL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=NzU17J9797dS4UF02QyOPOJNGOLN6SpGlJazGNaldgubsLbCmN3OmKv4zGkvnH1DyiZGXvk~iTMNOfcc-cP7O0kFiu3gY2oDY~JHGshnDAOwQDCGS1yhcEh6O-jBJwRSNpcTiPDX13QZaPCeQ0wt8rxYCaE3tpbpxMhtFAxglEw0xA6bgtfmJfSvDc1oEEpOyhqoxO5PJ~iQswiv5ptUwggstz3hBKUmsodtUPdK5ZHYGp7S7IDB-Sa0u9Z3FbfWX4dcyIoX-EzLuMICjOH8vgXP2K-9JKiiX2X90zUPW0b7R9qQgyecQj6f0IF26XPTVHQyFQfa9rQI3i8e~xawug__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/shattered_phone/Datacluster Cracked Screen (260).jpg",
+      "task_id": "b290c48e-7f78-45f1-a7c7-5940cf1c4e35",
+      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (260)",
+      "output": "output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260).glb",
+      "preview": "output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260)_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 266.757470369339,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/b290c48e-7f78-45f1-a7c7-5940cf1c4e35/tripo_pbr_model_b290c48e-7f78-45f1-a7c7-5940cf1c4e35.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvYjI5MGM0OGUtN2Y3OC00NWYxLWE3YzctNTk0MGNmMWM0ZTM1L3RyaXBvX3Bicl9tb2RlbF9iMjkwYzQ4ZS03Zjc4LTQ1ZjEtYTdjNy01OTQwY2YxYzRlMzUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=cfE715IPrFs8pw1MlZZPZwkUazS0HBQzw2TvzPb7fXPbzkkloJBQ3aiqxuyhrfaOzqjd5a5~F3W~n6l1hSffeDBgIzCTt0tQzCYRCIeKGSRYrFJWRnZdUUnJyICYwZeGgFkUTP1t7YXKGbbfEH6TFUhAtxnxmC0BiLP3vWRc7P6BngvmkAOf~28af7rW84pHWuyUQjCzFf1N2cpG3Gk~UgvGeUH6otLZB4d2CGjXzfdAVRtntV6Bn9~13O8k40~nQ4DxXgbmeB3bUIqnanOP-Yzq9bPH31w25DvunQNvAx25BC7H9MCe4gckv8McoA98A2Qa3gcGmad35vkc-ScGBw__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_3829a758ee9a4be88b0606c47c7b9e46/20251127/b290c48e-7f78-45f1-a7c7-5940cf1c4e35/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfMzgyOWE3NThlZTlhNGJlODhiMDYwNmM0N2M3YjllNDYvMjAyNTExMjcvYjI5MGM0OGUtN2Y3OC00NWYxLWE3YzctNTk0MGNmMWM0ZTM1L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=t15XvfCCVkQkI~bSkk4LnxUgjHpr~GcsQqR7A3P0fvj-GhQXCZdXf2748yXTXzbKOrDMApoth~LHi8xHuHio3~KauNqdYjg6LPXa891FXVHoOQ~3APxz2HREAlszATS9AHjjDjTAics1eFuO7eYzWOcVT0k5WruIquRME9VIQQnBE86BZlMOSe3i-aonRw6uEFDUFHZMCVvVQ~LUUNJnNQjXBmfgd0h1ULYrlPoUu-vAvg4rQx1j668KRBTNzCtPtsux~BaeSWE0KOnHF-ZJFkR-5bn2FKLhSlv25Kz2HFLGR-Oea1ni1rxcir0jP9yAqDdICoJLPQO1K6wmcfwI7w__&Key-Pair-Id=K1676C64NMVM2J"
+    }
+  ]
+}

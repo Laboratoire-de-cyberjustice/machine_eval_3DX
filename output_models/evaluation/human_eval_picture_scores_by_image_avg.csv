@@ -1,0 +1,126 @@
+Model,image,glb,Domain,Quality Score,Shape Score,Appearance Score,Semantic Score
+blood_104,output_models/blood/blood_104/blood_104.jpg,output_models/blood/blood_104/blood_104.glb,blood,70.0,85.0,40.0,65.0
+blood_111,output_models/blood/blood_111/blood_111.jpg,output_models/blood/blood_111/blood_111.glb,blood,29.0,39.0,15.0,22.0
+blood_12,output_models/blood/blood_12/blood_12.jpg,output_models/blood/blood_12/blood_12.glb,blood,50.0,81.0,81.0,90.0
+blood_121,output_models/blood/blood_121/blood_121.jpg,output_models/blood/blood_121/blood_121.glb,blood,10.0,0.0,0.0,0.0
+blood_124,output_models/blood/blood_124/blood_124.jpg,output_models/blood/blood_124/blood_124.glb,blood,26.0,25.0,15.0,17.0
+blood_16,output_models/blood/blood_16/blood_16.jpg,output_models/blood/blood_16/blood_16.glb,blood,20.0,60.0,18.0,50.0
+blood_3,output_models/blood/blood_3/blood_3.jpg,output_models/blood/blood_3/blood_3.glb,blood,20.0,80.0,30.0,50.0
+blood_305,output_models/blood/blood_305/blood_305.jpg,output_models/blood/blood_305/blood_305.glb,blood,10.0,10.0,10.0,25.0
+blood_32,output_models/blood/blood_32/blood_32.jpg,output_models/blood/blood_32/blood_32.glb,blood,70.0,80.0,80.0,80.0
+163823652_b5a4ae230c_o,output_models/car_accident/163823652_b5a4ae230c_o/163823652_b5a4ae230c_o.jpg,output_models/car_accident/163823652_b5a4ae230c_o/163823652_b5a4ae230c_o.glb,car_accident,60.0,75.0,79.0,90.0
+2460608097_9647d5e2d5_o,output_models/car_accident/2460608097_9647d5e2d5_o/2460608097_9647d5e2d5_o.jpg,output_models/car_accident/2460608097_9647d5e2d5_o/2460608097_9647d5e2d5_o.glb,car_accident,97.0,87.0,95.0,86.0
+2689230108_a2dd17e1a5_o,output_models/car_accident/2689230108_a2dd17e1a5_o/2689230108_a2dd17e1a5_o.jpg,output_models/car_accident/2689230108_a2dd17e1a5_o/2689230108_a2dd17e1a5_o.glb,car_accident,75.0,90.0,70.0,80.0
+2886509057_685afebd62_o,output_models/car_accident/2886509057_685afebd62_o/2886509057_685afebd62_o.jpg,output_models/car_accident/2886509057_685afebd62_o/2886509057_685afebd62_o.glb,car_accident,91.0,90.0,90.0,100.0
+296064267_cfd3ed3b62_o,output_models/car_accident/296064267_cfd3ed3b62_o/296064267_cfd3ed3b62_o.jpg,output_models/car_accident/296064267_cfd3ed3b62_o/296064267_cfd3ed3b62_o.glb,car_accident,5.0,10.0,10.0,20.0
+303541113_5f94409315_o,output_models/car_accident/303541113_5f94409315_o/303541113_5f94409315_o.jpg,output_models/car_accident/303541113_5f94409315_o/303541113_5f94409315_o.glb,car_accident,55.0,45.0,61.0,70.0
+3536731831_99a9ec16ed_o,output_models/car_accident/3536731831_99a9ec16ed_o/3536731831_99a9ec16ed_o.jpg,output_models/car_accident/3536731831_99a9ec16ed_o/3536731831_99a9ec16ed_o.glb,car_accident,100.0,100.0,93.0,50.0
+4072657213_31b23fee4f_o,output_models/car_accident/4072657213_31b23fee4f_o/4072657213_31b23fee4f_o.jpg,output_models/car_accident/4072657213_31b23fee4f_o/4072657213_31b23fee4f_o.glb,car_accident,10.0,10.0,10.0,10.0
+5229856292_54e9ed721a_o,output_models/car_accident/5229856292_54e9ed721a_o/5229856292_54e9ed721a_o.jpg,output_models/car_accident/5229856292_54e9ed721a_o/5229856292_54e9ed721a_o.glb,car_accident,50.0,50.0,50.0,50.0
+8126289047_c3a3e90202_o,output_models/car_accident/8126289047_c3a3e90202_o/8126289047_c3a3e90202_o.jpg,output_models/car_accident/8126289047_c3a3e90202_o/8126289047_c3a3e90202_o.glb,car_accident,74.0,80.0,83.0,89.0
+9033225599_4343dde24b_o,output_models/car_accident/9033225599_4343dde24b_o/9033225599_4343dde24b_o.jpg,output_models/car_accident/9033225599_4343dde24b_o/9033225599_4343dde24b_o.glb,car_accident,23.0,22.0,13.0,20.0
+2 (447),output_models/damaged_property/2 (447)/2 (447).jpeg,output_models/damaged_property/2 (447)/2 (447).glb,damaged_property,0.0,0.0,0.0,50.0
+2 (448),output_models/damaged_property/2 (448)/2 (448).jpeg,output_models/damaged_property/2 (448)/2 (448).glb,damaged_property,75.0,80.0,70.0,90.0
+2 (459),output_models/damaged_property/2 (459)/2 (459).jpeg,output_models/damaged_property/2 (459)/2 (459).glb,damaged_property,50.0,50.0,50.0,50.0
+2 (466),output_models/damaged_property/2 (466)/2 (466).jpeg,output_models/damaged_property/2 (466)/2 (466).glb,damaged_property,15.0,13.0,11.0,9.0
+2 (484),output_models/damaged_property/2 (484)/2 (484).jpeg,output_models/damaged_property/2 (484)/2 (484).glb,damaged_property,100.0,100.0,93.0,50.0
+2 (507),output_models/damaged_property/2 (507)/2 (507).jpeg,output_models/damaged_property/2 (507)/2 (507).glb,damaged_property,0.0,0.0,0.0,0.0
+2 (509),output_models/damaged_property/2 (509)/2 (509).jpeg,output_models/damaged_property/2 (509)/2 (509).glb,damaged_property,0.0,2.0,0.0,1.0
+2 (531),output_models/damaged_property/2 (531)/2 (531).jpeg,output_models/damaged_property/2 (531)/2 (531).glb,damaged_property,25.0,50.0,50.0,25.0
+1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m,output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m.jpg,output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m.glb,fighting,0.0,10.0,0.0,20.0
+2017062293400,output_models/fighting/2017062293400/2017062293400.jpg,output_models/fighting/2017062293400/2017062293400.glb,fighting,5.0,10.0,0.0,10.0
+309509,output_models/fighting/309509/309509.jpg,output_models/fighting/309509/309509.glb,fighting,6.0,9.0,6.0,3.0
+539361489_4b1400107e_o,output_models/fighting/539361489_4b1400107e_o/539361489_4b1400107e_o.jpg,output_models/fighting/539361489_4b1400107e_o/539361489_4b1400107e_o.glb,fighting,5.0,10.0,10.0,10.0
+Honto_bunkai-Street_fighting,output_models/fighting/Honto_bunkai-Street_fighting/Honto_bunkai-Street_fighting.jpg,output_models/fighting/Honto_bunkai-Street_fighting/Honto_bunkai-Street_fighting.glb,fighting,5.0,15.0,10.0,10.0
+blow1,output_models/fighting/blow1/blow1.jpg,output_models/fighting/blow1/blow1.glb,fighting,39.0,61.0,50.0,69.0
+football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg,output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg.jpg,output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg.glb,fighting,50.0,50.0,50.0,50.0
+maxresdefault,output_models/fighting/maxresdefault/maxresdefault.jpg,output_models/fighting/maxresdefault/maxresdefault.glb,fighting,5.0,15.0,10.0,25.0
+parent,output_models/fighting/parent/parent.jpg,output_models/fighting/parent/parent.glb,fighting,0.0,0.0,0.0,0.0
+road-rage-4,output_models/fighting/road-rage-4/road-rage-4.jpg,output_models/fighting/road-rage-4/road-rage-4.glb,fighting,60.0,75.0,40.0,60.0
+street-fight,output_models/fighting/street-fight/street-fight.jpg,output_models/fighting/street-fight/street-fight.glb,fighting,40.0,50.0,50.0,20.0
+two-angry-women-in-road-rage-fight,output_models/fighting/two-angry-women-in-road-rage-fight/two-angry-women-in-road-rage-fight.jpg,output_models/fighting/two-angry-women-in-road-rage-fight/two-angry-women-in-road-rage-fight.glb,fighting,100.0,100.0,36.0,50.0
+149291028_4548453a07_o,output_models/gun/149291028_4548453a07_o/149291028_4548453a07_o.jpg,output_models/gun/149291028_4548453a07_o/149291028_4548453a07_o.glb,gun,10.0,20.0,20.0,20.0
+15074048198_c5ff8af6fa_o,output_models/gun/15074048198_c5ff8af6fa_o/15074048198_c5ff8af6fa_o.jpg,output_models/gun/15074048198_c5ff8af6fa_o/15074048198_c5ff8af6fa_o.glb,gun,67.0,72.0,71.0,79.0
+15149278572_534337cae9_o,output_models/gun/15149278572_534337cae9_o/15149278572_534337cae9_o.jpg,output_models/gun/15149278572_534337cae9_o/15149278572_534337cae9_o.glb,gun,95.0,97.0,97.0,97.0
+3054017065_8d9ab6df01_o,output_models/gun/3054017065_8d9ab6df01_o/3054017065_8d9ab6df01_o.jpg,output_models/gun/3054017065_8d9ab6df01_o/3054017065_8d9ab6df01_o.glb,gun,60.0,40.0,44.0,74.0
+3729585029_5af861e06a_o,output_models/gun/3729585029_5af861e06a_o/3729585029_5af861e06a_o.jpg,output_models/gun/3729585029_5af861e06a_o/3729585029_5af861e06a_o.glb,gun,75.0,58.0,70.0,75.0
+439615817_6a362b6b3c_o,output_models/gun/439615817_6a362b6b3c_o/439615817_6a362b6b3c_o.jpg,output_models/gun/439615817_6a362b6b3c_o/439615817_6a362b6b3c_o.glb,gun,31.0,23.0,16.0,17.0
+4989837054_1d84c31d62_o,output_models/gun/4989837054_1d84c31d62_o/4989837054_1d84c31d62_o.jpg,output_models/gun/4989837054_1d84c31d62_o/4989837054_1d84c31d62_o.glb,gun,60.0,90.0,80.0,75.0
+5382870740_471ca1b808_o,output_models/gun/5382870740_471ca1b808_o/5382870740_471ca1b808_o.jpg,output_models/gun/5382870740_471ca1b808_o/5382870740_471ca1b808_o.glb,gun,100.0,100.0,93.0,50.0
+6963681645_d040d056a2_o,output_models/gun/6963681645_d040d056a2_o/6963681645_d040d056a2_o.jpg,output_models/gun/6963681645_d040d056a2_o/6963681645_d040d056a2_o.glb,gun,81.0,83.0,86.0,94.0
+8265656003_0bb911d34d_o,output_models/gun/8265656003_0bb911d34d_o/8265656003_0bb911d34d_o.jpg,output_models/gun/8265656003_0bb911d34d_o/8265656003_0bb911d34d_o.glb,gun,50.0,50.0,50.0,50.0
+12503956853_9ffce73d29_o,output_models/injury/12503956853_9ffce73d29_o/12503956853_9ffce73d29_o.jpg,output_models/injury/12503956853_9ffce73d29_o/12503956853_9ffce73d29_o.glb,injury,11.0,11.0,13.0,8.0
+14694970499_b8568c5554_o,output_models/injury/14694970499_b8568c5554_o/14694970499_b8568c5554_o.jpg,output_models/injury/14694970499_b8568c5554_o/14694970499_b8568c5554_o.glb,injury,50.0,50.0,20.0,20.0
+16943857_706887a2dc_o,output_models/injury/16943857_706887a2dc_o/16943857_706887a2dc_o.jpg,output_models/injury/16943857_706887a2dc_o/16943857_706887a2dc_o.glb,injury,10.0,20.0,11.0,10.0
+17008632047_b8ce20175c_o,output_models/injury/17008632047_b8ce20175c_o/17008632047_b8ce20175c_o.jpg,output_models/injury/17008632047_b8ce20175c_o/17008632047_b8ce20175c_o.glb,injury,71.0,57.0,62.0,84.0
+2813471684_d29f128432_o,output_models/injury/2813471684_d29f128432_o/2813471684_d29f128432_o.jpg,output_models/injury/2813471684_d29f128432_o/2813471684_d29f128432_o.glb,injury,20.0,20.0,20.0,20.0
+2881810767_9e61f39c1d_o,output_models/injury/2881810767_9e61f39c1d_o/2881810767_9e61f39c1d_o.jpg,output_models/injury/2881810767_9e61f39c1d_o/2881810767_9e61f39c1d_o.glb,injury,10.0,20.0,30.0,20.0
+3775309316_6b34599913_o,output_models/injury/3775309316_6b34599913_o/3775309316_6b34599913_o.jpg,output_models/injury/3775309316_6b34599913_o/3775309316_6b34599913_o.glb,injury,13.0,34.0,13.0,15.0
+478736017_574735d556_o,output_models/injury/478736017_574735d556_o/478736017_574735d556_o.jpg,output_models/injury/478736017_574735d556_o/478736017_574735d556_o.glb,injury,100.0,100.0,93.0,50.0
+5342605094_98de160b86_o,output_models/injury/5342605094_98de160b86_o/5342605094_98de160b86_o.jpg,output_models/injury/5342605094_98de160b86_o/5342605094_98de160b86_o.glb,injury,17.0,62.0,26.0,38.0
+96274264_f0b3b6ec29_o,output_models/injury/96274264_f0b3b6ec29_o/96274264_f0b3b6ec29_o.jpg,output_models/injury/96274264_f0b3b6ec29_o/96274264_f0b3b6ec29_o.glb,injury,75.0,64.0,69.0,88.0
+kitchen_1003,output_models/kitchen/kitchen_1003/kitchen_1003.jpg,output_models/kitchen/kitchen_1003/kitchen_1003.glb,kitchen,0.0,0.0,0.0,0.0
+kitchen_1030,output_models/kitchen/kitchen_1030/kitchen_1030.jpg,output_models/kitchen/kitchen_1030/kitchen_1030.glb,kitchen,50.0,50.0,50.0,50.0
+kitchen_1031,output_models/kitchen/kitchen_1031/kitchen_1031.jpg,output_models/kitchen/kitchen_1031/kitchen_1031.glb,kitchen,60.0,70.0,75.0,80.0
+kitchen_1035,output_models/kitchen/kitchen_1035/kitchen_1035.jpg,output_models/kitchen/kitchen_1035/kitchen_1035.glb,kitchen,0.0,0.0,0.0,0.0
+kitchen_1102,output_models/kitchen/kitchen_1102/kitchen_1102.jpg,output_models/kitchen/kitchen_1102/kitchen_1102.glb,kitchen,0.0,0.0,0.0,0.0
+kitchen_1148,output_models/kitchen/kitchen_1148/kitchen_1148.jpg,output_models/kitchen/kitchen_1148/kitchen_1148.glb,kitchen,0.0,0.0,0.0,0.0
+kitchen_1189,output_models/kitchen/kitchen_1189/kitchen_1189.jpg,output_models/kitchen/kitchen_1189/kitchen_1189.glb,kitchen,0.0,10.0,10.0,0.0
+kitchen_1193,output_models/kitchen/kitchen_1193/kitchen_1193.jpg,output_models/kitchen/kitchen_1193/kitchen_1193.glb,kitchen,64.0,57.0,71.0,76.0
+kitchen_1200,output_models/kitchen/kitchen_1200/kitchen_1200.jpg,output_models/kitchen/kitchen_1200/kitchen_1200.glb,kitchen,100.0,100.0,94.0,50.0
+15831421306_abc0b5c6bf_o,output_models/knife/15831421306_abc0b5c6bf_o/15831421306_abc0b5c6bf_o.jpg,output_models/knife/15831421306_abc0b5c6bf_o/15831421306_abc0b5c6bf_o.glb,knife,100.0,100.0,93.0,50.0
+15831449986_e6938bf528_o,output_models/knife/15831449986_e6938bf528_o/15831449986_e6938bf528_o.jpg,output_models/knife/15831449986_e6938bf528_o/15831449986_e6938bf528_o.glb,knife,70.0,80.0,70.0,75.0
+15843042109_810b925957_o,output_models/knife/15843042109_810b925957_o/15843042109_810b925957_o.jpg,output_models/knife/15843042109_810b925957_o/15843042109_810b925957_o.glb,knife,70.0,80.0,68.0,72.0
+15933264296_158a3fd419_o,output_models/knife/15933264296_158a3fd419_o/15933264296_158a3fd419_o.jpg,output_models/knife/15933264296_158a3fd419_o/15933264296_158a3fd419_o.glb,knife,60.0,50.0,70.0,80.0
+16155324722_9d11d48ffc_o,output_models/knife/16155324722_9d11d48ffc_o/16155324722_9d11d48ffc_o.jpg,output_models/knife/16155324722_9d11d48ffc_o/16155324722_9d11d48ffc_o.glb,knife,50.0,50.0,10.0,10.0
+19324089973_542ac72d6f_o,output_models/knife/19324089973_542ac72d6f_o/19324089973_542ac72d6f_o.jpg,output_models/knife/19324089973_542ac72d6f_o/19324089973_542ac72d6f_o.glb,knife,100.0,100.0,93.0,50.0
+19554937106_af445a7df5_o,output_models/knife/19554937106_af445a7df5_o/19554937106_af445a7df5_o.jpg,output_models/knife/19554937106_af445a7df5_o/19554937106_af445a7df5_o.glb,knife,100.0,100.0,93.0,50.0
+19688793649_b4e50f1b97_o,output_models/knife/19688793649_b4e50f1b97_o/19688793649_b4e50f1b97_o.jpg,output_models/knife/19688793649_b4e50f1b97_o/19688793649_b4e50f1b97_o.glb,knife,87.0,82.0,79.0,82.0
+19832075215_0c2b3f81c1_o,output_models/knife/19832075215_0c2b3f81c1_o/19832075215_0c2b3f81c1_o.jpg,output_models/knife/19832075215_0c2b3f81c1_o/19832075215_0c2b3f81c1_o.glb,knife,50.0,50.0,50.0,50.0
+19906119675_2186143a4d_o,output_models/knife/19906119675_2186143a4d_o/19906119675_2186143a4d_o.jpg,output_models/knife/19906119675_2186143a4d_o/19906119675_2186143a4d_o.glb,knife,60.0,70.0,50.0,50.0
+5075275649_c015fcbae9_o,output_models/knife/5075275649_c015fcbae9_o/5075275649_c015fcbae9_o.jpg,output_models/knife/5075275649_c015fcbae9_o/5075275649_c015fcbae9_o.glb,knife,45.0,55.0,55.0,50.0
+8210802253_1deca73f17_o,output_models/knife/8210802253_1deca73f17_o/8210802253_1deca73f17_o.jpg,output_models/knife/8210802253_1deca73f17_o/8210802253_1deca73f17_o.glb,knife,95.0,100.0,98.0,99.0
+living_10,output_models/livingroom/living_10/living_10.jpg,output_models/livingroom/living_10/living_10.glb,livingroom,13.0,7.0,3.0,6.0
+living_1000,output_models/livingroom/living_1000/living_1000.jpg,output_models/livingroom/living_1000/living_1000.glb,livingroom,9.0,5.0,10.0,10.0
+living_1004,output_models/livingroom/living_1004/living_1004.jpg,output_models/livingroom/living_1004/living_1004.glb,livingroom,40.0,50.0,20.0,40.0
+living_1024,output_models/livingroom/living_1024/living_1024.jpg,output_models/livingroom/living_1024/living_1024.glb,livingroom,13.0,11.0,35.0,50.0
+living_1026,output_models/livingroom/living_1026/living_1026.jpg,output_models/livingroom/living_1026/living_1026.glb,livingroom,9.0,12.0,7.0,11.0
+living_1044,output_models/livingroom/living_1044/living_1044.jpg,output_models/livingroom/living_1044/living_1044.glb,livingroom,27.0,24.0,8.0,9.0
+living_1090,output_models/livingroom/living_1090/living_1090.jpg,output_models/livingroom/living_1090/living_1090.glb,livingroom,50.0,50.0,40.0,20.0
+living_1117,output_models/livingroom/living_1117/living_1117.jpg,output_models/livingroom/living_1117/living_1117.glb,livingroom,10.0,20.0,9.0,14.0
+living_1174,output_models/livingroom/living_1174/living_1174.jpg,output_models/livingroom/living_1174/living_1174.glb,livingroom,10.0,10.0,10.0,10.0
+living_1179,output_models/livingroom/living_1179/living_1179.jpg,output_models/livingroom/living_1179/living_1179.glb,livingroom,8.0,16.0,13.0,19.0
+living_1211,output_models/livingroom/living_1211/living_1211.jpg,output_models/livingroom/living_1211/living_1211.glb,livingroom,73.0,80.0,70.0,60.0
+living_1249,output_models/livingroom/living_1249/living_1249.jpg,output_models/livingroom/living_1249/living_1249.glb,livingroom,20.0,25.0,20.0,29.0
+14786173021_d1a80785d7_z,output_models/outdoor_home/14786173021_d1a80785d7_z/14786173021_d1a80785d7_z.jpg,output_models/outdoor_home/14786173021_d1a80785d7_z/14786173021_d1a80785d7_z.glb,outdoor_home,4.0,10.0,2.0,5.0
+15899239397_58d15ff2ac_z,output_models/outdoor_home/15899239397_58d15ff2ac_z/15899239397_58d15ff2ac_z.jpg,output_models/outdoor_home/15899239397_58d15ff2ac_z/15899239397_58d15ff2ac_z.glb,outdoor_home,75.0,84.0,77.0,50.0
+3438157727_8c468cb7fd_z,output_models/outdoor_home/3438157727_8c468cb7fd_z/3438157727_8c468cb7fd_z.jpg,output_models/outdoor_home/3438157727_8c468cb7fd_z/3438157727_8c468cb7fd_z.glb,outdoor_home,20.0,71.0,18.0,25.0
+480930072_5ea673d155_z,output_models/outdoor_home/480930072_5ea673d155_z/480930072_5ea673d155_z.jpg,output_models/outdoor_home/480930072_5ea673d155_z/480930072_5ea673d155_z.glb,outdoor_home,60.0,50.0,90.0,99.0
+4867212771_b084d96965_z,output_models/outdoor_home/4867212771_b084d96965_z/4867212771_b084d96965_z.jpg,output_models/outdoor_home/4867212771_b084d96965_z/4867212771_b084d96965_z.glb,outdoor_home,30.0,20.0,10.0,20.0
+6335230273_b701b971d3_z,output_models/outdoor_home/6335230273_b701b971d3_z/6335230273_b701b971d3_z.jpg,output_models/outdoor_home/6335230273_b701b971d3_z/6335230273_b701b971d3_z.glb,outdoor_home,41.0,78.0,56.0,72.0
+7471289382_5c7b7561cf_z,output_models/outdoor_home/7471289382_5c7b7561cf_z/7471289382_5c7b7561cf_z.jpg,output_models/outdoor_home/7471289382_5c7b7561cf_z/7471289382_5c7b7561cf_z.glb,outdoor_home,50.0,90.0,75.0,70.0
+7933918534_b2af473b5c_z,output_models/outdoor_home/7933918534_b2af473b5c_z/7933918534_b2af473b5c_z.jpg,output_models/outdoor_home/7933918534_b2af473b5c_z/7933918534_b2af473b5c_z.glb,outdoor_home,100.0,94.0,95.0,95.0
+8048270935_a537c66d23_z,output_models/outdoor_home/8048270935_a537c66d23_z/8048270935_a537c66d23_z.jpg,output_models/outdoor_home/8048270935_a537c66d23_z/8048270935_a537c66d23_z.glb,outdoor_home,70.0,84.0,77.0,67.0
+8414290992_86b6cef11e_z,output_models/outdoor_home/8414290992_86b6cef11e_z/8414290992_86b6cef11e_z.jpg,output_models/outdoor_home/8414290992_86b6cef11e_z/8414290992_86b6cef11e_z.glb,outdoor_home,84.0,75.0,88.0,80.0
+12134977656_3e56035695_o,output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o.jpg,output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o.glb,potential_weapon,100.0,100.0,93.0,50.0
+377916126_5ed693017f_o,output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o.jpg,output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o.glb,potential_weapon,90.0,95.0,95.0,95.0
+5516920825_b5049feefb_o,output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o.jpg,output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o.glb,potential_weapon,60.0,75.0,70.0,60.0
+6348715937_d4e3789b91_o,output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o.jpg,output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o.glb,potential_weapon,50.0,70.0,70.0,50.0
+6374153323_7d0417d11b_o,output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o.jpg,output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o.glb,potential_weapon,100.0,100.0,100.0,100.0
+6430535711_64bbf6202f_o,output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o.jpg,output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o.glb,potential_weapon,80.0,85.0,80.0,71.0
+8289565796_4b31087117_o,output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o.jpg,output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o.glb,potential_weapon,100.0,100.0,93.0,50.0
+8369402627_6a670d0570_o,output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o.jpg,output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o.glb,potential_weapon,60.0,70.0,60.0,75.0
+8692152662_fcffbde0ec_o,output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o.jpg,output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o.glb,potential_weapon,85.0,89.0,81.0,86.0
+Datacluster Cracked Screen (1),output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1).jpg,output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1).glb,shattered_phone,75.0,75.0,76.0,50.0
+Datacluster Cracked Screen (103),output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103).jpg,output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103).glb,shattered_phone,80.0,80.0,79.0,84.0
+Datacluster Cracked Screen (105),output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105).jpg,output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105).glb,shattered_phone,95.0,100.0,95.0,95.0
+Datacluster Cracked Screen (127),output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127).jpg,output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127).glb,shattered_phone,11.0,20.0,10.0,10.0
+Datacluster Cracked Screen (131),output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131).jpg,output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131).glb,shattered_phone,90.0,91.0,89.0,91.0
+Datacluster Cracked Screen (136),output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136).jpg,output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136).glb,shattered_phone,79.0,79.0,66.0,87.0
+Datacluster Cracked Screen (144),output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144).jpg,output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144).glb,shattered_phone,65.0,70.0,60.0,70.0
+Datacluster Cracked Screen (178),output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178).jpg,output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178).glb,shattered_phone,90.0,95.0,70.0,70.0
+Datacluster Cracked Screen (206),output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206).jpg,output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206).glb,shattered_phone,90.0,100.0,50.0,70.0
+Datacluster Cracked Screen (208),output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208).jpg,output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208).glb,shattered_phone,58.0,53.0,61.0,72.0
+Datacluster Cracked Screen (221),output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221).jpg,output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221).glb,shattered_phone,100.0,100.0,93.0,50.0
+Datacluster Cracked Screen (231),output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231).jpg,output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231).glb,shattered_phone,80.0,75.0,70.0,74.0
+Datacluster Cracked Screen (260),output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260).jpg,output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260).glb,shattered_phone,0.0,0.0,0.0,0.0

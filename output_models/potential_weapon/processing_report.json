@@ -1,0 +1,202 @@
+{
+  "timestamp": "2025-11-27T12:31:49.052517",
+  "total_images": 15,
+  "successful": 15,
+  "failed": 0,
+  "total_processing_time": 2709.83,
+  "average_processing_time": 180.66,
+  "config": {
+    "model_version": "v2.5-20250123",
+    "max_workers": 15,
+    "concurrent_tasks_limit": 10,
+    "upload_qps_limit": 10,
+    "advanced_params": {
+      "texture_alignment": "original_image",
+      "texture_quality": "detailed",
+      "geometry_quality": "detailed",
+      "orientation": "align_image"
+    }
+  },
+  "results": [
+    {
+      "image": "input_images/potential_weapon/5265575186_3f748cb990_o.jpg",
+      "task_id": "7553538b-fb75-4e87-81fd-87cba4c328d8",
+      "folder": "output_models/potential_weapon/5265575186_3f748cb990_o",
+      "output": "output_models/potential_weapon/5265575186_3f748cb990_o/5265575186_3f748cb990_o.glb",
+      "preview": "output_models/potential_weapon/5265575186_3f748cb990_o/5265575186_3f748cb990_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 104.53120493888855,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/7553538b-fb75-4e87-81fd-87cba4c328d8/tripo_pbr_model_7553538b-fb75-4e87-81fd-87cba4c328d8.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNzU1MzUzOGItZmI3NS00ZTg3LTgxZmQtODdjYmE0YzMyOGQ4L3RyaXBvX3Bicl9tb2RlbF83NTUzNTM4Yi1mYjc1LTRlODctODFmZC04N2NiYTRjMzI4ZDguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=i6z8N9J6fwcj81ncB8x-PEBqyAmmru6rd7mMHHaTKeTGdpCAY0yIngpquRNmi4IA46sPiC7rJ6kyjsWLmQCde2ZUuWnSSJGM4hEzMybGbbqaMxsJqJol3RMg0SeYv4-ZwVIGf4YbjXwl5s-QDVP8QDnnXilwzCQttvAFGDpiLniVyBM8dWn1XJIXYGOEkr-p0C2Xm5o4LRDycHvEYba2FYB2oMPOkVwGCvsD087hCq57SVlOBu0hu6su8j~UhkSyTGALQJmqxM3F8UlyiQ8KV1rz40-ReXqksqbsnD~yAW8p7c1pV3IrXwITIDe0Ohj6BRBRtbTkCIbSuNDwqHc2Ng__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/7553538b-fb75-4e87-81fd-87cba4c328d8/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNzU1MzUzOGItZmI3NS00ZTg3LTgxZmQtODdjYmE0YzMyOGQ4L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=xHm1usun6lzwa93DGxw~geYo3Z5Skfum7gSLRqhQ9xpDSiDOi7C81yHEvqOdstGrT9pboqOclo8Y6f6YPlQ~8l-ojVCw8tcJklogezn0gw1aTxZAhAAGvJtHyrzBfL2sWyPcqq-Yezm64XLs~8b3PXqFN1VUOLdK1FQacv6W~tlu5njKKlwcSwTx5ZFT-PYgiy9KoqUmDFaUsECLxc5BQ5DEJEaXkQJGQIdzdmSmMwXJG6oVIQemM-~nxse9p8W3ZSMtZAJOgNw~djY~JbCoa9Iduap0yUtOuDwdSNUqmNw3uHatayrPi7dG~nFZVVMqi1ecGqOC4E88zuywvOclag__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/377916126_5ed693017f_o.jpg",
+      "task_id": "e91af6c8-7ae2-475b-9999-b96835c4f14a",
+      "folder": "output_models/potential_weapon/377916126_5ed693017f_o",
+      "output": "output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o.glb",
+      "preview": "output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 108.58917903900146,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/e91af6c8-7ae2-475b-9999-b96835c4f14a/tripo_pbr_model_e91af6c8-7ae2-475b-9999-b96835c4f14a.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZTkxYWY2YzgtN2FlMi00NzViLTk5OTktYjk2ODM1YzRmMTRhL3RyaXBvX3Bicl9tb2RlbF9lOTFhZjZjOC03YWUyLTQ3NWItOTk5OS1iOTY4MzVjNGYxNGEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=KuIL~x7p09BkUdDI2~K3akO2bUH~sJLfd-RozwYvnJLKGq1BJdRc6qOdUR-IR2SDn33nLkkzj5youpRmmDMXuwAxD2HREDfe6aWc64QSUt6CzTvl67F9X3-PTgea5nIshJdaq2Qw7IBw3aCx6juXpxNs0p3kFBqnMZ1shjEPsbCJMy~gyd1ciaZAu6aJSgjQaQn-al2qXEhwgbrGyUf~X3tiFZt0dO8bzVN7na1OyL3ZQoDP1vrgEB6uYWcvFo~Nll8rOKI2Xlx8oTpX-6Jg~Lig-sokVjt-GXzKJNUEC7fAWR4bJvJPyvPKRaTB-Os1gzQkSdVV8w3CsXl~bzpMRQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/e91af6c8-7ae2-475b-9999-b96835c4f14a/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZTkxYWY2YzgtN2FlMi00NzViLTk5OTktYjk2ODM1YzRmMTRhL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=VHDqXoQ0morgJ5X1AbM9BcFhK6wCBcOwg-Nyc7RNz5tYCFxoS3Lnt7mczCIFRAIUqu2BTnoqWdbzolArg~wGKcwWOouNmkiGaPsT~dkb8~RrJFSEanPMKmy0HEbzaPcen7LL8ucuS6C9WOmyMQ3S4a9DYPuXamCt-YTZaSxrhnBWYTiAQFWSN1monUTBozMYbEd-zptwWt04xfVufgIJjYLXl9ezaobkfBLNzdvpyiRLLK4GaV3JpZjzXL6N0IKvRB2vV5QchekFBwOLJFssZFSsxKIEzTR13MeK36C8rr0pSkWJw2u-EDUKXLZA6uGTMjNdB6zFeb2iozgSfvH3Ig__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/1841488509_9a2e18f4d0_o.jpg",
+      "task_id": "8b016149-c120-411c-9794-fc5c4554c5b2",
+      "folder": "output_models/potential_weapon/1841488509_9a2e18f4d0_o",
+      "output": "output_models/potential_weapon/1841488509_9a2e18f4d0_o/1841488509_9a2e18f4d0_o.glb",
+      "preview": "output_models/potential_weapon/1841488509_9a2e18f4d0_o/1841488509_9a2e18f4d0_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 111.20799589157104,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/8b016149-c120-411c-9794-fc5c4554c5b2/tripo_pbr_model_8b016149-c120-411c-9794-fc5c4554c5b2.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvOGIwMTYxNDktYzEyMC00MTFjLTk3OTQtZmM1YzQ1NTRjNWIyL3RyaXBvX3Bicl9tb2RlbF84YjAxNjE0OS1jMTIwLTQxMWMtOTc5NC1mYzVjNDU1NGM1YjIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=ElNs9yK5NtikNVhoVILBIA13kMfxeJmA86htYxqBl40ge5~BX2ZjJd7U5R4Z35qXlE-c~CCholx56tckoPUaQ3dt94y8EY071w9LR5VTL9~SBuFYSIHBb00DpuyI2hyXMOVyn7vcLley~bgRJOSTaMBia9dVAJboNHLToLyWcr60DLlaZfkH86HfQMObQSU2ugBCbiz8O6SJ4likCjVFbIHxuL0R-DF4hAOSO-nzCkj1r3pFGvS7i1-0AN7c6pXSITXlAyMFHjImKZODlH0q9CIkM35QtdvP-YVF0~26SFZQbAHuNt6u4OecdWULF1DmF-9jKBOlLDpl~YYFpn-0pQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/8b016149-c120-411c-9794-fc5c4554c5b2/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvOGIwMTYxNDktYzEyMC00MTFjLTk3OTQtZmM1YzQ1NTRjNWIyL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=ZkWjMrwOub4nNZBTmJwGh8GBDXONzfv3a47R5LNpChfuTPft2rZZylQ9PCJmtc0pWlXuVk3w4DgnhbKfQV8uXSuONTgBugscfE68DMxPz-r05wQynmVOCYyuFPXvBwP0QH3w~-aY6wfg~G1kbe68~tzGy775rcR7BwhEAgt30uIBCgCTyawJZNYMqOHz~uroZNUgkSLOyrU9nuIPI1GyukpBr1V3odGRyKZIZjAvCihiswNisHbduDt6iQa44B~qCP-a3CzSPAU8lDIoRH4nj9S9atOj8LFVoiNKG~OqoOGuhJ-~KsneLLLpYkWmtJmi7e~qgGMvPr-04KwdBdp39g__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/5516920825_b5049feefb_o.jpg",
+      "task_id": "2bf06f72-d5eb-485c-bda3-c237c3c7224c",
+      "folder": "output_models/potential_weapon/5516920825_b5049feefb_o",
+      "output": "output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o.glb",
+      "preview": "output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 120.72060799598694,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/2bf06f72-d5eb-485c-bda3-c237c3c7224c/tripo_pbr_model_2bf06f72-d5eb-485c-bda3-c237c3c7224c.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvMmJmMDZmNzItZDVlYi00ODVjLWJkYTMtYzIzN2MzYzcyMjRjL3RyaXBvX3Bicl9tb2RlbF8yYmYwNmY3Mi1kNWViLTQ4NWMtYmRhMy1jMjM3YzNjNzIyNGMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=J8SfMlij7p7tOpu6zjdnyZLInP78Z~2bQmeJTU2R0Mk80jfbXbWN6aw9J6xmZeAZGCziksjr~9C6NCvxQ2hD~elvpIspYkl3F~r1gWs4cprnbvOt~616DQjuGb6hqCm0r3awIYVCFnYYxH~hA0IV6YNdTbjPHyWpOjVw5u2VxDZczSm9m3~TwSziAnFWhNt12DnQAUkUY3fYY1g7YhIw9ri~nD~wAaepZ6KJ4kBRYIWrnH54YEuFyK8ftdQcvbSX~2M12PlIgF5oz9GglbeITnF83JZz3vDhQ2-fOuY7POpY~8ugGCHi6ls7qrFWO7pZ4-Fj3EuYVp8SXfbluuYCIw__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/2bf06f72-d5eb-485c-bda3-c237c3c7224c/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvMmJmMDZmNzItZDVlYi00ODVjLWJkYTMtYzIzN2MzYzcyMjRjL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=wO-QdTDV5Wda9p7TI0-NEP8PSfo4RzA3cHnAt1n5M65oG2F1saRuiEALVvWS2wjOhST5eeO9D0rgPljEeJZIxKhqpGELjEI6e~Tb57VGB9IyIIajA5NnuVRTNJFDlIfNt2tnfNhkodAPNwfRx1gJAN4GcL11BTCyCczLQKwaA1KjYFt7YqwnwFMk7uAFhqvazhm6lq18Q6GLmlp8xgmhbrFoGwaD9EMIEe0cxK4owx~sjA09g9cGHaiTWzuTjlKSQ-44DJloApu2zYUsh6p0NWizvb3uBsRN-VSAYnaPpwD~zncZM-9Xm8dxQLNJbLYQqLJ8J91SDpnhQrvKZpxnvA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/6342745960_f1c9ac8454_o.jpg",
+      "task_id": "631599cc-38ae-49d7-8235-c9591b5b85e4",
+      "folder": "output_models/potential_weapon/6342745960_f1c9ac8454_o",
+      "output": "output_models/potential_weapon/6342745960_f1c9ac8454_o/6342745960_f1c9ac8454_o.glb",
+      "preview": "output_models/potential_weapon/6342745960_f1c9ac8454_o/6342745960_f1c9ac8454_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 131.32534289360046,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/631599cc-38ae-49d7-8235-c9591b5b85e4/tripo_pbr_model_631599cc-38ae-49d7-8235-c9591b5b85e4.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNjMxNTk5Y2MtMzhhZS00OWQ3LTgyMzUtYzk1OTFiNWI4NWU0L3RyaXBvX3Bicl9tb2RlbF82MzE1OTljYy0zOGFlLTQ5ZDctODIzNS1jOTU5MWI1Yjg1ZTQuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=OLRavbGIUGRtDrwakSp1trxV2oR5IUIq6UVW9v1GmCTYPX21tfpLtyvwvTlfp~P~nux83Tahd71P20EvgYJZ0xYxbg-VgLaJFOFsuntWylM-Z5LImfPy-VoPW37RwBs78vxkwvvivPP9WbKyKC5Q48359ooaM7m2oKhCUiHrI3QVo5iYXaj90T7st1p8sRtJGFD6ToUy3ObkEAjm~pNrkGCZHba1-XzjBQrqrO0aDwYwOxJYXasbHeVbWZeYRhh4b25Icl3b1Pp70Y4l2JneJJqcVixxAL1AwTnAYMxBMxSet~n4uZZoD0orJ9nZyPisxO5hCrCEnPzBeyWzZMuYMQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/631599cc-38ae-49d7-8235-c9591b5b85e4/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNjMxNTk5Y2MtMzhhZS00OWQ3LTgyMzUtYzk1OTFiNWI4NWU0L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=JsG4Ho~0wGvvG8vx~Pzh4tTJCJxX0y1JsPNEO-v8ZHgcni6VJu47pCSUvLC2BypZWoGT5FUSmdULDZz23WKzKf72LlydyQQbiid3uqLDQGoFgW3R09CMUu1F~Q-7kfo2ebMqdmhqsOJ7Am1BNN-Za42CQOdmoxO4DzXp-nNL8BOp69-giTlpWcd5j89GPwXeTRQ~Hs1Vv6hCElv~O9Zk8gyBliEHqrDyq5y1Nuc~XiC1eufdB7Dyq17F-NSxtsMkKj-xhNFjenqQKBi1KRXlGG-gUwGXxkUhDTO~oi6UOe1tzMuTLHyNz3UnGRxOWN5lOyGUSKeVNE-y5~2pIiYouQ__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/2755336697_34bb70b419_o.jpg",
+      "task_id": "eea182c5-80a0-4722-95ee-66ce65855a35",
+      "folder": "output_models/potential_weapon/2755336697_34bb70b419_o",
+      "output": "output_models/potential_weapon/2755336697_34bb70b419_o/2755336697_34bb70b419_o.glb",
+      "preview": "output_models/potential_weapon/2755336697_34bb70b419_o/2755336697_34bb70b419_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 135.58241415023804,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/eea182c5-80a0-4722-95ee-66ce65855a35/tripo_pbr_model_eea182c5-80a0-4722-95ee-66ce65855a35.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZWVhMTgyYzUtODBhMC00NzIyLTk1ZWUtNjZjZTY1ODU1YTM1L3RyaXBvX3Bicl9tb2RlbF9lZWExODJjNS04MGEwLTQ3MjItOTVlZS02NmNlNjU4NTVhMzUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=IR6sCA4F~suAeaCuHhKm67As2FBppRHqYR8UDYc8yp-3ND1kxpY02QjlYTOdP3EEi17RQe9qYqnurUlT-AdQdyOx8Z-ygx1czxpTwRXkWkmSh1GkVaBwegkV3obDS00bJX~xgcj9gVqW3smjoEiMUMC4quiAoYn82xAH~G7vS8yTrIOxli4B-V4SmlLUfguym9NTAMb4TcuMnkflr3-agJGECcP83ValD3eP8pW-Kwnt9Z2OcuPkH1EqDgI7XqEa62wL68kwMBNCpJ6vQHtEM9REilMtjl5zgmrd6geumcI6ypi~smWftv0DEkPDjmVCka2hsrmeSjujddyx9fdv3A__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/eea182c5-80a0-4722-95ee-66ce65855a35/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZWVhMTgyYzUtODBhMC00NzIyLTk1ZWUtNjZjZTY1ODU1YTM1L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=M~7PXytDiQpTvfr0pCQvIn7RxFJ0IiyHZVHx8HTDnVNqrng64M0EALJhDL~Fd2uvKIA0lKug3SxbREqKmQsi14YrgiCiSf3P0bZun8ATYH4UeJDuj-FRjqVqGxOBDl3aWGQWdotzjpeBs9rHp4MtBEssD0mpBfJ1THT9DLchtRnHehJCMdXQXNEa-E2fRwcbsWV2XtpSb~hfyoM7dMrAq5RYMmRkDIeLu0WYAIOOxNkpCFsee2A98lPCpeKoYgG168DUoW98ll6GdF0A3lQxhPbWdCaC0CCe4QwltKMeEWY8dmtjyfZ5kVRsF9cZ6AVVMj6nD-b03cRKu8y1uoMeQg__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/3237385926_71b8d52c79_o.jpg",
+      "task_id": "d70e6da3-4ab0-48b0-b2ff-1b13e165b473",
+      "folder": "output_models/potential_weapon/3237385926_71b8d52c79_o",
+      "output": "output_models/potential_weapon/3237385926_71b8d52c79_o/3237385926_71b8d52c79_o.glb",
+      "preview": "output_models/potential_weapon/3237385926_71b8d52c79_o/3237385926_71b8d52c79_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 151.5545482635498,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/d70e6da3-4ab0-48b0-b2ff-1b13e165b473/tripo_pbr_model_d70e6da3-4ab0-48b0-b2ff-1b13e165b473.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZDcwZTZkYTMtNGFiMC00OGIwLWIyZmYtMWIxM2UxNjViNDczL3RyaXBvX3Bicl9tb2RlbF9kNzBlNmRhMy00YWIwLTQ4YjAtYjJmZi0xYjEzZTE2NWI0NzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=EK86ziCJ7ve~7NAAiaWMiF1tIgnChaoplYwkR7Bna61gKMRctCaEOeJrryfZLUjWofW2kUbAdcjevTZmU~QtPtcRNHB5gSlES-JDubGpGRs756spmyWrzXn9xhzcuoJyrluDHArgSVe~VWlx0CVYlCWYIgP63lYI1yek7sy7-MQHFz~YyOYB2LgjmDytmnQL0MNFNs6zAqTbx6S0fzhFwf2R0Wf6f~~aRp7urZFjsRjYkr9Ea8FKOWphrnPnjjE7vjVdsc94STrcUG5Ysu4XaTqd69VMl-JBzIL2eAzXAXckDMIQ7Xp8b~kt17OfqOBgWUw86v4CTGlT-jsC3AwcOw__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/d70e6da3-4ab0-48b0-b2ff-1b13e165b473/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZDcwZTZkYTMtNGFiMC00OGIwLWIyZmYtMWIxM2UxNjViNDczL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=fRom~mR0lVwN6d8tEDQ0e2twxp2JL7YmrjHKgeod2Knf8JvQX5gda0NvOPdAcEAOLWiZOcJc1yCyvwTjmya27~nszbo67GUvHk26v3gtX7jvAwlEqldJOokBSSOYALKoy3n~TitHuHOocFQVmsx6nZM2Ec2wsVYYELAFGLPfpiLEF5icGTjjK0TAweFE0~5Srm4H2lb4SItn0RGnXwKvBgqNRr3LvkySSJeu7aQZ82qO5~vyrz~bZR3Abw~Ad-brLW0~7BV7lALj6HtgFGNVca7-Rw2yPZgGaMdJOznxzm0xRN9oPVzm3tcip0xbW99dDv0ntr3c5k3Ubnjmr-GSYQ__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/6348715937_d4e3789b91_o.jpg",
+      "task_id": "4c99d74d-e46f-468b-adcc-f2256980ba70",
+      "folder": "output_models/potential_weapon/6348715937_d4e3789b91_o",
+      "output": "output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o.glb",
+      "preview": "output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 153.18956303596497,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/4c99d74d-e46f-468b-adcc-f2256980ba70/tripo_pbr_model_4c99d74d-e46f-468b-adcc-f2256980ba70.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNGM5OWQ3NGQtZTQ2Zi00NjhiLWFkY2MtZjIyNTY5ODBiYTcwL3RyaXBvX3Bicl9tb2RlbF80Yzk5ZDc0ZC1lNDZmLTQ2OGItYWRjYy1mMjI1Njk4MGJhNzAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=nlpUWg9AzD6S5vnRmBPreeSCsrKBQ8cmnL9iisY823qap7a~Kn6nuCAb-~-PIS1VFz-R7U2Be29w0I9BfPIdtWDoIZSIMnCUQavNLNMnn53nI~TINV-BbGiktiMPtMGjQXhrwbXKGM1EUTgajcMhFc8QDAN5Xo8t~1o5eiAXl~h46ZVrB1kJ3lZokfdNbSPQXqEgJySlw2UlICBEqYbIIbT30KTKgJXOqWCU2CzSKVxT7NnVyzjRDep9OIzS-QlwsHKoYkipMWuRAaYquiQXu2f93CER80ZoPLc1cdN1attMlRaxUu0vpOD8XCz~vi2ZD99NXrpKyyPPw8qZ1~B7rQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/4c99d74d-e46f-468b-adcc-f2256980ba70/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNGM5OWQ3NGQtZTQ2Zi00NjhiLWFkY2MtZjIyNTY5ODBiYTcwL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=Yd224hbFk5nGb8TeGj1eYZjXTVqvDE59RtMbQb9fT1S9vcvlWxrTTAsLq7ELz8RwnrYozevhhDmJnzZEFkLD8RGyMmCD03TlsbVWHntu0-JLVQsQLp72FslUQaI8dQ597KRPrtvj3zxotNVK1yk8fMtefT8~l5T1y1ovNPCEJF2bo8ARq9vtuLDd9Z47ClnN5VtikK1tdiUkqdDZyOcNkjJaEve5oBoq13udGCqwo8u1SKvkL7iDyiMYkFmPmDY7MK18cajvIqsWO5PjAH7DPTMjIeVHmQ9Ov7z2eqxWGhwuFwZdjkohZy7XDjt-ng8djRQVThSKfAyF76dkk6UJiA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/12134977656_3e56035695_o.jpg",
+      "task_id": "5ef81474-c61f-4605-a790-26544ecfc8e1",
+      "folder": "output_models/potential_weapon/12134977656_3e56035695_o",
+      "output": "output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o.glb",
+      "preview": "output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 167.08289885520935,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/5ef81474-c61f-4605-a790-26544ecfc8e1/tripo_pbr_model_5ef81474-c61f-4605-a790-26544ecfc8e1.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNWVmODE0NzQtYzYxZi00NjA1LWE3OTAtMjY1NDRlY2ZjOGUxL3RyaXBvX3Bicl9tb2RlbF81ZWY4MTQ3NC1jNjFmLTQ2MDUtYTc5MC0yNjU0NGVjZmM4ZTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=tw85yl3E~Tx2Ar8v3h-UU9OT267sTdJfGFBcvURpZAk8HWghvGiKPmdc2PVkw1~JpuxY13TyH1EJk1Q6Aa6YvMvwRQUWwE5i74IOgywtDrdM6XWESJt45STrtO4lKI6QDzDSVux94f6Xk3IyuPtvuQSXapFLgImSfyviFTJgvk0Kr5HNVnjbz7BNe~KGHAc6~c6sWX3iW1CCSwmQFASukf-dFR2xzc5fPisreIoNvWYv31~v7Jxs57iUMzQFXH2M3Z0c9IdDWZdGXAfTCMZTpokp6Xk5LPWYd0j3ludBhq2ajTSUG~cjA5WyHhT8UiivBpCi8aKw1p08Wd~1zbCYmQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/5ef81474-c61f-4605-a790-26544ecfc8e1/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNWVmODE0NzQtYzYxZi00NjA1LWE3OTAtMjY1NDRlY2ZjOGUxL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=mS8X31MiO5girtjJFyEs~L6o9S6LaJFJfBmtHEWIg-y8N71yczSdkDLfbJpzqlcgmYw5dFRTVqN3OR0a9qlRpuPpht3~zUP~WBf3Y-105BkMc~TGhqpLPZSnuOByr6lovAv~a1Oxj0X6bmVpk5irw86rxWX63~5fkmJSZw18jRwfDhY-lu4EHNmJkloa2p60mGlHPlCg--kz68b4ZRhlFv2vnO4CYqeF-MuHszSz92AjlJjj417Y6QcSDcoWtbu~C7U~-W73~K6rT2hEJ~zHQiKcNfHG-43311lWwtvNu7dMxfvqy~9jV661SHKD3WdMys11UaLeXHKOPR53aE2RwA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/372812294_097a28a288_o.jpg",
+      "task_id": "5e1a00ef-8a96-4593-81a5-bb8a44ccfaaa",
+      "folder": "output_models/potential_weapon/372812294_097a28a288_o",
+      "output": "output_models/potential_weapon/372812294_097a28a288_o/372812294_097a28a288_o.glb",
+      "preview": "output_models/potential_weapon/372812294_097a28a288_o/372812294_097a28a288_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 213.77519392967224,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/5e1a00ef-8a96-4593-81a5-bb8a44ccfaaa/tripo_pbr_model_5e1a00ef-8a96-4593-81a5-bb8a44ccfaaa.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNWUxYTAwZWYtOGE5Ni00NTkzLTgxYTUtYmI4YTQ0Y2NmYWFhL3RyaXBvX3Bicl9tb2RlbF81ZTFhMDBlZi04YTk2LTQ1OTMtODFhNS1iYjhhNDRjY2ZhYWEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=mo7NqvnCFdcSU7npqPTCBZ7RK-eG5hY4ZUBmRNP~eFTlhwDQCls8jquJFTvQaSsQI1NtZxEp29KkAvg~EsM7VUAPXAFGzi2Ki~uuPODqhydLcQSx4CN9tKkGA-sQz6YZmu2mfV7nHjxYqGJvOR2vv52iNLLsE1WKTc1KEUFJdHJ~mGZ3sC-9o9Fpx6YPgbM9LkpwXp8KgiKzjiSJWzmoRZTqHsGwXv0wxon7ISGyWF1DwPOTokAytxcW5VuzhJouUeX0CiAg5Tw3nRJCvBl23WhPkMLhAh3AOUPPN2RIjGysH82SKD9cUce44F1oMDwq-j7GBgpd2gaw74-T71ZZvg__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/5e1a00ef-8a96-4593-81a5-bb8a44ccfaaa/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNWUxYTAwZWYtOGE5Ni00NTkzLTgxYTUtYmI4YTQ0Y2NmYWFhL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=MJ4j7SUVrLQlpsucOUBjgTL9~gqg17CU4XwDkMqMUfgFG5IylRD7J3WzgqgCuv2zbCX5OXoGDiJWEk0AjOYGpxWczcx86UoPfUtckF0sN5Mw61Jh7sZkxFHWgaa3AjGKZa~dngxRAoqG0AfSofsbUiZT4zLJFmOwMJZrNadKESSpXPmoMGmfxJjBg0LeMuPbsXONhbYDGHrbGiOeHfluCkSVcK2rCAP19pLU7la88ZzUy6W0NCTMUNWdqru7e9rMERynykYl4YaBPVuIO29FyvI2Jwnu6zPbJPyx10wCIkDu8eRJdvE15kKtuGEDkhWUKMDITdfJpOuaQa4PJ8xQ5Q__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/6374153323_7d0417d11b_o.jpg",
+      "task_id": "aa2de95d-d9f8-442f-9537-5e73a7f9ac1c",
+      "folder": "output_models/potential_weapon/6374153323_7d0417d11b_o",
+      "output": "output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o.glb",
+      "preview": "output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 216.80912685394287,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/aa2de95d-d9f8-442f-9537-5e73a7f9ac1c/tripo_pbr_model_aa2de95d-d9f8-442f-9537-5e73a7f9ac1c.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvYWEyZGU5NWQtZDlmOC00NDJmLTk1MzctNWU3M2E3ZjlhYzFjL3RyaXBvX3Bicl9tb2RlbF9hYTJkZTk1ZC1kOWY4LTQ0MmYtOTUzNy01ZTczYTdmOWFjMWMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=dJH2X5x4Zp8A0gniucWmm5Puyr6ypPpO7BWQVC5b4nwA27sKl~HPlJGBHlnhLf4Xnr3IY107RlMXR39OabMlI3Ehx1w48YPhAOMTOHbf64xK1CIVWaZaG0T5V0V9QiNxOIcH~c1O6onjXFSDhnxm197opVH8I17bvcIDGfzX-qDA5fVgaEMupGpRqORWlsdV6z0ogRL6jq4phIu1IPuwGLmInkLmmSLXlyDj15ukA~V5ap4y7GSgmxvFM~34UIs~cV1Oh56u9sKc4oSF-JdX2Q5kKvXsLKXmbSmA7UiyWemeXXu2dl19zBg4BQ4KRgrHR3UmC8iMQr0btfNphkIcFA__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/aa2de95d-d9f8-442f-9537-5e73a7f9ac1c/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvYWEyZGU5NWQtZDlmOC00NDJmLTk1MzctNWU3M2E3ZjlhYzFjL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=kqAJc8~NrQGekmqtQKqDZeB8ci0YwTHH4MXDrBxm-8AnlhSMNXRAL7Cn73z3WprUIh0rtJqbcP0FhESPmsOcgJHvrj5SpBVcZnwB~w5tlTXfyEy5KDwdyAfJt5BlgSXcgN~TMNLFVYEOgb-b5OkFaEM-RLuQ3U1ViEd3nTCkWnGrI-qnXPpS2AMemAe0ahMkFFI4nt02UO8apXITOEh3EWujlNuTccExOIvXt6PPtoL-2ypN5citloD5MtMlMmEf5kgDiMXmgGiY-zGTWXLV4Z3T-tKMVwg73WQStFc45youJxF3okB4xaCFH1l5SeVNCt9FpnjERV68958LNDrczA__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/6430535711_64bbf6202f_o.jpg",
+      "task_id": "ed01f59f-3584-40e4-985a-4cb80dc0ff3b",
+      "folder": "output_models/potential_weapon/6430535711_64bbf6202f_o",
+      "output": "output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o.glb",
+      "preview": "output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 229.96460604667664,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/ed01f59f-3584-40e4-985a-4cb80dc0ff3b/tripo_pbr_model_ed01f59f-3584-40e4-985a-4cb80dc0ff3b.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZWQwMWY1OWYtMzU4NC00MGU0LTk4NWEtNGNiODBkYzBmZjNiL3RyaXBvX3Bicl9tb2RlbF9lZDAxZjU5Zi0zNTg0LTQwZTQtOTg1YS00Y2I4MGRjMGZmM2IuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=Iy~hwchq65yLyCLfC28gIAsAh8MY6Hh4GLmhlmf-CPmGywSew~k8ESvslsh4AzN4nOohpjS-UYtlbVWqKX00LGE5Ja95ODJ~lcaHYQa8l4WiQhFWv~r2x0wSfQV0FJEg5n1Xak4tKfQbJL1ge5O3lRl~phnVTqfR6p33kS1IWbavEj6wMFoJ0qsItgydyiEAhV3SVEpEiK666Nw1b6ej0caTDSthPThvO3LjdQ-h7WAf~Y57eQnY8JzXCLi86zx4bpEWx6fKBU88Vz62jGxW0kZeA3G~GbcmC9qSZT-lw~OE4b2jAQzs804c6pbLPZTGh~5ITw13p8Z4EmVGDheqyQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/ed01f59f-3584-40e4-985a-4cb80dc0ff3b/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvZWQwMWY1OWYtMzU4NC00MGU0LTk4NWEtNGNiODBkYzBmZjNiL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=hHJYQqxamC34iwD~v34BRhB-51NAddS3SBOjfrJayYFxsQuIYyCBKyLZzOvC4xarqUlRiXrZBWU9z83K16oy0TtGmE3ORMAK6YhS~h0CPP5LkY-3QRyx3wDbMuviWHuJH~sESrwVr4GrltF37FqGZG74oHymfPn3o6SUdHMmwpy3QOCq4dUxndWOb3hCuE4wlKN9GNbtSOrs4ZVFf56XWsw1dqo2rCmNTxRLWB0v~LGg4tjGEevaSmrMH6zGjmjzkUAsb~nxGZuFIkcXsGDYU5WhzURIoe56sNoeBuLgc41Ym3iGDMlW73N2vXuG-91mXsubIaad9C1TtN~9U5Odqg__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/8369402627_6a670d0570_o.jpg",
+      "task_id": "4cbcd666-30e2-4fd1-933d-42c1e1c8b663",
+      "folder": "output_models/potential_weapon/8369402627_6a670d0570_o",
+      "output": "output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o.glb",
+      "preview": "output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 249.32381105422974,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/4cbcd666-30e2-4fd1-933d-42c1e1c8b663/tripo_pbr_model_4cbcd666-30e2-4fd1-933d-42c1e1c8b663.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNGNiY2Q2NjYtMzBlMi00ZmQxLTkzM2QtNDJjMWUxYzhiNjYzL3RyaXBvX3Bicl9tb2RlbF80Y2JjZDY2Ni0zMGUyLTRmZDEtOTMzZC00MmMxZTFjOGI2NjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=k923BUym0dJ~i~78gKiMVA3uZxTbTsIUGnGbr0C8d99kvpVz0FaZqTi8XZL5lsEkuVCJSn81~l3FdY7LlVdzzka-fPeWEvq80unyFxxz7T05Jl2Cp0DUW~se8~gBxjJ-gpAw052caZ~KKL8XAeQxrdc1iacSgIQewrF0tpT4lJ61TEXZ0m8qIy4W~QRwSU4QfaXhj-OfPGeTLw05EHRi7X8nzy79sUH8-g4uADKGLBxKaDoIWQvgaZTdJZRb4XurtqSfM14OOFDzuEjwki3EtaHboJHL7qf4PtjauwEZGarB3DS58StIRF5HkeMhgq-EkGfSCfYTupwWbo6tVQkeyA__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/4cbcd666-30e2-4fd1-933d-42c1e1c8b663/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNGNiY2Q2NjYtMzBlMi00ZmQxLTkzM2QtNDJjMWUxYzhiNjYzL2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=vaZ6TRi5Kslmfp-xEgWzUIhjfxno-j23hBmylTRruTvPBGZo8HyhzUfCWDvFN5yXiJNR1DS~SArOXI9GXRQohMlSjXiGb~QJ-sM2svp1UxQyEwr~jjw-euPKp~qlhc5MVxkkh1Y9nvhRp8sFjaTNohKjlw-nw2bwKf5V0mIft7YsiVhJTDc1bAq8OAZwnGy5xIbEyV0duIvNkxRQHbfc4jad0tU-bsqtki3d5UGb~xoe-Mx8EwxH1dpcUIVo71fPUwvOmDW1mlVxSEMyf6hvjtRaQJZahxDSB~M639ncQ~aWeo7js5wrtxSDbapAtWYjEYOsCdDbx~NSCMGSReaKHg__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/8692152662_fcffbde0ec_o.jpg",
+      "task_id": "1b445ab3-6b76-4be9-a97e-01d027aeafd9",
+      "folder": "output_models/potential_weapon/8692152662_fcffbde0ec_o",
+      "output": "output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o.glb",
+      "preview": "output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 267.72069811820984,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/1b445ab3-6b76-4be9-a97e-01d027aeafd9/tripo_pbr_model_1b445ab3-6b76-4be9-a97e-01d027aeafd9.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvMWI0NDVhYjMtNmI3Ni00YmU5LWE5N2UtMDFkMDI3YWVhZmQ5L3RyaXBvX3Bicl9tb2RlbF8xYjQ0NWFiMy02Yjc2LTRiZTktYTk3ZS0wMWQwMjdhZWFmZDkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=QAlm0eIwexKB1e22vvd02MPGM9ztlTeRJtZWchoNwOZHIt1wLjxGmgznHIABC-CS~7XhXF7rEW2vFBIRU2BLsd5WJHYbc3vlJB1A5CIMBW5~wqsSw1RmnZRnO83nxwTufYAnK89ZLGv8ST63BxoSTXMm6lcCMSnvTws4jNWQWuahwfo5gpdzVmKCxj8OLG158oSPQlYyeHxGDCixwIHeOmAxZTSsjBaaE1Uq5Dq99gfgm0Itj-vGSY7YAxmSMRXKq6soPKF6VdZM0nynuSbSgO6AS~4li9Lz1N2n5HStlrs11W3XN4APX3~pfMH3z3-sABkFkPzh4TxOTQlK~mLkIA__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/1b445ab3-6b76-4be9-a97e-01d027aeafd9/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvMWI0NDVhYjMtNmI3Ni00YmU5LWE5N2UtMDFkMDI3YWVhZmQ5L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=bDWFy0eN3ExAeKADhSjUIegMy-Ag2g-9Lud~leKW0zLdfp2Jh1hBzMzYF492K~ujtFUBPaK3V4l-aKkK2c5g93w3bzV1sktGTBLT6IUKzi9ztVYYNHZOzGZIS0hlBgoiGYaLMjAGQXtjcpEqAiBM9jnF6ou10B~ujnLyVKq4EtFdgO7IyyVqRAGa5KKzOlnbnYsErUdMfyx8xYkaQ2ctjYZQb~kiaErm2YwvcAnr2V3zAYIhB24QnYx66CrdbFoLiuB4UoR~1scVsAntxZXMJz-sUfLf6lX2Vdvo7e2R10UIsmeJFK~Dm1-z0-gPpvVFpLiYl2BbvpL~GkhZUuvK6Q__&Key-Pair-Id=K1676C64NMVM2J"
+    },
+    {
+      "image": "input_images/potential_weapon/8289565796_4b31087117_o.jpg",
+      "task_id": "759edb0d-7c03-47b1-9a7b-3bf804a9a6a5",
+      "folder": "output_models/potential_weapon/8289565796_4b31087117_o",
+      "output": "output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o.glb",
+      "preview": "output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o_preview.png",
+      "status": "success",
+      "error": null,
+      "processing_time": 348.4564139842987,
+      "model_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/759edb0d-7c03-47b1-9a7b-3bf804a9a6a5/tripo_pbr_model_759edb0d-7c03-47b1-9a7b-3bf804a9a6a5.glb?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNzU5ZWRiMGQtN2MwMy00N2IxLTlhN2ItM2JmODA0YTlhNmE1L3RyaXBvX3Bicl9tb2RlbF83NTllZGIwZC03YzAzLTQ3YjEtOWE3Yi0zYmY4MDRhOWE2YTUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0Mjg4MDAwfX19XX0_&Signature=uhVvqQpO6obmLvsOYvVYdCFO5gjQUxy~1lrM4rh4uuNN9oaic3tbl7tR3XlP23G09RfIrxXku66lxCtrF81bqrcup-En5h5mmnQ816yHzNZkm9Q0~qSPSR~tcJP52ZxjRLhBDIaBHD87NmhZ-yqtqQXmW3r2Zqbthys9YWulSfWoxfpxGF52KGJUQMaf4Jj8F9ApbUu4TmWwnTBSRwbue-Ms90SzQTIlI~qJWSYGGUDgbfTFJcBBleAlN-QvhgJ4q86aUomXLgd7wsPLnDGYjXlOBNEo7EAVm0CzMxbLtoCMqAVKUn~aWW6EKf2Jhc6F3fPJfDRjXtAiYVyXzYHpPQ__&Key-Pair-Id=K1676C64NMVM2J",
+      "preview_url": "https://tripo-data.rg1.data.tripo3d.com/tcli_a411eb67d2bf4f37bfe5fffdaaa650d7/20251127/759edb0d-7c03-47b1-9a7b-3bf804a9a6a5/legacy_mesh.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfYTQxMWViNjdkMmJmNGYzN2JmZTVmZmZkYWFhNjUwZDcvMjAyNTExMjcvNzU5ZWRiMGQtN2MwMy00N2IxLTlhN2ItM2JmODA0YTlhNmE1L2xlZ2FjeV9tZXNoLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQyODgwMDB9fX1dfQ__&Signature=rOLgIH8n6dQEiohIBzXviD8gpEXfQgZ-iejKhgmbiJQ7PetbiaAP3Gr1GqETxLaYTxFiKz3X0Evi8tgpRCt2RsF7dWCtZFYiZWv2XO9HlWF~YmCf1k96piUATDE-DpzKVfMaBNY-oQTTq7bbOD~m0ns-ueqNBEKH0FnPwTWnJIsWSzpIVenlYISlbPD9ZZ2muxsK0VaJJYU5XwFk5P9S6Ezwm3XxRPQwhcmhI8SGf6nOksnTxntIqxhX1Q7qQNq8dlLBxtG6kBJCeb3BQkxcX-0P72Vapm77qu6NDHGEWb~I9ejc6WpAsvwLjjCLh9q6c7XytTwYigoaMiyiEX0hCA__&Key-Pair-Id=K1676C64NMVM2J"
+    }
+  ]
+}

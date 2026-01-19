@@ -1,0 +1,14 @@
+Domain,Num Images,Avg Quality Score,Avg Shape Score,Avg Appearance Score,Avg Semantic Score
+ALL,179,23.80,29.31,13.93,82.52
+blood,15,27.10,36.36,15.20,82.38
+car_accident,15,22.55,27.03,14.04,80.61
+damaged_property,15,23.24,28.79,13.62,81.37
+fighting,15,20.93,25.10,12.50,79.44
+gun,15,22.30,25.76,12.43,85.15
+injury,15,26.52,35.60,15.11,81.20
+kitchen,14,23.46,27.72,14.98,81.90
+knife,15,24.91,31.47,12.98,85.64
+livingroom,15,24.23,30.71,14.36,81.01
+outdoor_home,15,21.88,27.04,12.14,81.05
+potential_weapon,15,20.41,20.81,12.30,85.82
+shattered_phone,15,28.06,35.23,17.60,84.61
