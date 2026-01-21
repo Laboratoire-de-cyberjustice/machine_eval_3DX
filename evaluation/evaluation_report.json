@@ -1,9 +1,9 @@
 {
-  "total": 179,
-  "successful": 179,
+  "total": 180,
+  "successful": 180,
   "failed": 0,
   "statistics": {
-    "mean_quality": 22.42,
+    "mean_quality": 22.44,
     "min_quality": 10.01,
     "max_quality": 35.98
   },
@@ -16,10 +16,10 @@
   "results": [
     {
       "name": "1 (12)",
-      "original_image": "input_images/damaged_property/1 (12).jpg",
-      "preview_image": "output_models/damaged_property/1 (12)/1 (12)_preview.png",
-      "model": "output_models/damaged_property/1 (12)/1 (12).glb",
-      "folder": "output_models/damaged_property/1 (12)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/1 (12).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (12)/1 (12)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (12)/1 (12).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (12)",
       "status": "success",
       "metrics": {
         "mse_full": 17807.466796875,
@@ -61,10 +61,10 @@
     },
     {
       "name": "2 (509)",
-      "original_image": "input_images/damaged_property/2 (509).jpeg",
-      "preview_image": "output_models/damaged_property/2 (509)/2 (509)_preview.png",
-      "model": "output_models/damaged_property/2 (509)/2 (509).glb",
-      "folder": "output_models/damaged_property/2 (509)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (509).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (509)/2 (509)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (509)/2 (509).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (509)",
       "status": "success",
       "metrics": {
         "mse_full": 10609.078125,
@@ -106,10 +106,10 @@
     },
     {
       "name": "2 (451)",
-      "original_image": "input_images/damaged_property/2 (451).jpeg",
-      "preview_image": "output_models/damaged_property/2 (451)/2 (451)_preview.png",
-      "model": "output_models/damaged_property/2 (451)/2 (451).glb",
-      "folder": "output_models/damaged_property/2 (451)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (451).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (451)/2 (451)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (451)/2 (451).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (451)",
       "status": "success",
       "metrics": {
         "mse_full": 15833.4921875,
@@ -151,10 +151,10 @@
     },
     {
       "name": "2 (465)",
-      "original_image": "input_images/damaged_property/2 (465).jpeg",
-      "preview_image": "output_models/damaged_property/2 (465)/2 (465)_preview.png",
-      "model": "output_models/damaged_property/2 (465)/2 (465).glb",
-      "folder": "output_models/damaged_property/2 (465)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (465).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (465)/2 (465)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (465)/2 (465).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (465)",
       "status": "success",
       "metrics": {
         "mse_full": 18847.53515625,
@@ -196,10 +196,10 @@
     },
     {
       "name": "2 (466)",
-      "original_image": "input_images/damaged_property/2 (466).jpeg",
-      "preview_image": "output_models/damaged_property/2 (466)/2 (466)_preview.png",
-      "model": "output_models/damaged_property/2 (466)/2 (466).glb",
-      "folder": "output_models/damaged_property/2 (466)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (466).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (466)/2 (466)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (466)/2 (466).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (466)",
       "status": "success",
       "metrics": {
         "mse_full": 10367.7724609375,
@@ -241,10 +241,10 @@
     },
     {
       "name": "2 (447)",
-      "original_image": "input_images/damaged_property/2 (447).jpeg",
-      "preview_image": "output_models/damaged_property/2 (447)/2 (447)_preview.png",
-      "model": "output_models/damaged_property/2 (447)/2 (447).glb",
-      "folder": "output_models/damaged_property/2 (447)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (447).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (447)/2 (447)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (447)/2 (447).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (447)",
       "status": "success",
       "metrics": {
         "mse_full": 27910.921875,
@@ -286,10 +286,10 @@
     },
     {
       "name": "2 (530)",
-      "original_image": "input_images/damaged_property/2 (530).jpeg",
-      "preview_image": "output_models/damaged_property/2 (530)/2 (530)_preview.png",
-      "model": "output_models/damaged_property/2 (530)/2 (530).glb",
-      "folder": "output_models/damaged_property/2 (530)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (530).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (530)/2 (530)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (530)/2 (530).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (530)",
       "status": "success",
       "metrics": {
         "mse_full": 14042.3759765625,
@@ -331,10 +331,10 @@
     },
     {
       "name": "2 (507)",
-      "original_image": "input_images/damaged_property/2 (507).jpeg",
-      "preview_image": "output_models/damaged_property/2 (507)/2 (507)_preview.png",
-      "model": "output_models/damaged_property/2 (507)/2 (507).glb",
-      "folder": "output_models/damaged_property/2 (507)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (507).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (507)/2 (507)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (507)/2 (507).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (507)",
       "status": "success",
       "metrics": {
         "mse_full": 7467.8671875,
@@ -376,10 +376,10 @@
     },
     {
       "name": "2 (456)",
-      "original_image": "input_images/damaged_property/2 (456).jpeg",
-      "preview_image": "output_models/damaged_property/2 (456)/2 (456)_preview.png",
-      "model": "output_models/damaged_property/2 (456)/2 (456).glb",
-      "folder": "output_models/damaged_property/2 (456)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (456).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (456)/2 (456)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (456)/2 (456).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (456)",
       "status": "success",
       "metrics": {
         "mse_full": 24288.021484375,
@@ -421,10 +421,10 @@
     },
     {
       "name": "2 (531)",
-      "original_image": "input_images/damaged_property/2 (531).jpeg",
-      "preview_image": "output_models/damaged_property/2 (531)/2 (531)_preview.png",
-      "model": "output_models/damaged_property/2 (531)/2 (531).glb",
-      "folder": "output_models/damaged_property/2 (531)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (531).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (531)/2 (531)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (531)/2 (531).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (531)",
       "status": "success",
       "metrics": {
         "mse_full": 7969.966796875,
@@ -466,10 +466,10 @@
     },
     {
       "name": "2 (448)",
-      "original_image": "input_images/damaged_property/2 (448).jpeg",
-      "preview_image": "output_models/damaged_property/2 (448)/2 (448)_preview.png",
-      "model": "output_models/damaged_property/2 (448)/2 (448).glb",
-      "folder": "output_models/damaged_property/2 (448)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (448).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (448)/2 (448)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (448)/2 (448).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (448)",
       "status": "success",
       "metrics": {
         "mse_full": 14812.2998046875,
@@ -511,10 +511,10 @@
     },
     {
       "name": "2 (484)",
-      "original_image": "input_images/damaged_property/2 (484).jpeg",
-      "preview_image": "output_models/damaged_property/2 (484)/2 (484)_preview.png",
-      "model": "output_models/damaged_property/2 (484)/2 (484).glb",
-      "folder": "output_models/damaged_property/2 (484)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (484).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (484)/2 (484)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (484)/2 (484).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (484)",
       "status": "success",
       "metrics": {
         "mse_full": 14127.71875,
@@ -556,10 +556,10 @@
     },
     {
       "name": "1 (1)",
-      "original_image": "input_images/damaged_property/1 (1).jpeg",
-      "preview_image": "output_models/damaged_property/1 (1)/1 (1)_preview.png",
-      "model": "output_models/damaged_property/1 (1)/1 (1).glb",
-      "folder": "output_models/damaged_property/1 (1)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/1 (1).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (1)/1 (1)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (1)/1 (1).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (1)",
       "status": "success",
       "metrics": {
         "mse_full": 15335.6826171875,
@@ -601,10 +601,10 @@
     },
     {
       "name": "2 (459)",
-      "original_image": "input_images/damaged_property/2 (459).jpeg",
-      "preview_image": "output_models/damaged_property/2 (459)/2 (459)_preview.png",
-      "model": "output_models/damaged_property/2 (459)/2 (459).glb",
-      "folder": "output_models/damaged_property/2 (459)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/2 (459).jpeg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (459)/2 (459)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (459)/2 (459).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/2 (459)",
       "status": "success",
       "metrics": {
         "mse_full": 17224.498046875,
@@ -646,10 +646,10 @@
     },
     {
       "name": "1 (10)",
-      "original_image": "input_images/damaged_property/1 (10).jpg",
-      "preview_image": "output_models/damaged_property/1 (10)/1 (10)_preview.png",
-      "model": "output_models/damaged_property/1 (10)/1 (10).glb",
-      "folder": "output_models/damaged_property/1 (10)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/damaged_property/1 (10).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (10)/1 (10)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (10)/1 (10).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/damaged_property/1 (10)",
       "status": "success",
       "metrics": {
         "mse_full": 9106.0654296875,
@@ -691,10 +691,10 @@
     },
     {
       "name": "6374153323_7d0417d11b_o",
-      "original_image": "input_images/potential_weapon/6374153323_7d0417d11b_o.jpg",
-      "preview_image": "output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o_preview.png",
-      "model": "output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o.glb",
-      "folder": "output_models/potential_weapon/6374153323_7d0417d11b_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/6374153323_7d0417d11b_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6374153323_7d0417d11b_o/6374153323_7d0417d11b_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6374153323_7d0417d11b_o",
       "status": "success",
       "metrics": {
         "mse_full": 9051.2763671875,
@@ -736,10 +736,10 @@
     },
     {
       "name": "8289565796_4b31087117_o",
-      "original_image": "input_images/potential_weapon/8289565796_4b31087117_o.jpg",
-      "preview_image": "output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o_preview.png",
-      "model": "output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o.glb",
-      "folder": "output_models/potential_weapon/8289565796_4b31087117_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/8289565796_4b31087117_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8289565796_4b31087117_o/8289565796_4b31087117_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8289565796_4b31087117_o",
       "status": "success",
       "metrics": {
         "mse_full": 24314.384765625,
@@ -781,10 +781,10 @@
     },
     {
       "name": "6348715937_d4e3789b91_o",
-      "original_image": "input_images/potential_weapon/6348715937_d4e3789b91_o.jpg",
-      "preview_image": "output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o_preview.png",
-      "model": "output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o.glb",
-      "folder": "output_models/potential_weapon/6348715937_d4e3789b91_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/6348715937_d4e3789b91_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6348715937_d4e3789b91_o/6348715937_d4e3789b91_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6348715937_d4e3789b91_o",
       "status": "success",
       "metrics": {
         "mse_full": 3436.994873046875,
@@ -826,10 +826,10 @@
     },
     {
       "name": "6430535711_64bbf6202f_o",
-      "original_image": "input_images/potential_weapon/6430535711_64bbf6202f_o.jpg",
-      "preview_image": "output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o_preview.png",
-      "model": "output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o.glb",
-      "folder": "output_models/potential_weapon/6430535711_64bbf6202f_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/6430535711_64bbf6202f_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6430535711_64bbf6202f_o/6430535711_64bbf6202f_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6430535711_64bbf6202f_o",
       "status": "success",
       "metrics": {
         "mse_full": 53112.5,
@@ -871,10 +871,10 @@
     },
     {
       "name": "372812294_097a28a288_o",
-      "original_image": "input_images/potential_weapon/372812294_097a28a288_o.jpg",
-      "preview_image": "output_models/potential_weapon/372812294_097a28a288_o/372812294_097a28a288_o_preview.png",
-      "model": "output_models/potential_weapon/372812294_097a28a288_o/372812294_097a28a288_o.glb",
-      "folder": "output_models/potential_weapon/372812294_097a28a288_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/372812294_097a28a288_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/372812294_097a28a288_o/372812294_097a28a288_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/372812294_097a28a288_o/372812294_097a28a288_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/372812294_097a28a288_o",
       "status": "success",
       "metrics": {
         "mse_full": 20254.404296875,
@@ -916,10 +916,10 @@
     },
     {
       "name": "5516920825_b5049feefb_o",
-      "original_image": "input_images/potential_weapon/5516920825_b5049feefb_o.jpg",
-      "preview_image": "output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o_preview.png",
-      "model": "output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o.glb",
-      "folder": "output_models/potential_weapon/5516920825_b5049feefb_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/5516920825_b5049feefb_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/5516920825_b5049feefb_o/5516920825_b5049feefb_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/5516920825_b5049feefb_o",
       "status": "success",
       "metrics": {
         "mse_full": 24929.578125,
@@ -961,10 +961,10 @@
     },
     {
       "name": "12134977656_3e56035695_o",
-      "original_image": "input_images/potential_weapon/12134977656_3e56035695_o.jpg",
-      "preview_image": "output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o_preview.png",
-      "model": "output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o.glb",
-      "folder": "output_models/potential_weapon/12134977656_3e56035695_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/12134977656_3e56035695_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/12134977656_3e56035695_o/12134977656_3e56035695_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/12134977656_3e56035695_o",
       "status": "success",
       "metrics": {
         "mse_full": 31578.28125,
@@ -1006,10 +1006,10 @@
     },
     {
       "name": "8369402627_6a670d0570_o",
-      "original_image": "input_images/potential_weapon/8369402627_6a670d0570_o.jpg",
-      "preview_image": "output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o_preview.png",
-      "model": "output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o.glb",
-      "folder": "output_models/potential_weapon/8369402627_6a670d0570_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/8369402627_6a670d0570_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8369402627_6a670d0570_o/8369402627_6a670d0570_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8369402627_6a670d0570_o",
       "status": "success",
       "metrics": {
         "mse_full": 12498.5673828125,
@@ -1051,10 +1051,10 @@
     },
     {
       "name": "377916126_5ed693017f_o",
-      "original_image": "input_images/potential_weapon/377916126_5ed693017f_o.jpg",
-      "preview_image": "output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o_preview.png",
-      "model": "output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o.glb",
-      "folder": "output_models/potential_weapon/377916126_5ed693017f_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/377916126_5ed693017f_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/377916126_5ed693017f_o/377916126_5ed693017f_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/377916126_5ed693017f_o",
       "status": "success",
       "metrics": {
         "mse_full": 42135.8125,
@@ -1096,10 +1096,10 @@
     },
     {
       "name": "3237385926_71b8d52c79_o",
-      "original_image": "input_images/potential_weapon/3237385926_71b8d52c79_o.jpg",
-      "preview_image": "output_models/potential_weapon/3237385926_71b8d52c79_o/3237385926_71b8d52c79_o_preview.png",
-      "model": "output_models/potential_weapon/3237385926_71b8d52c79_o/3237385926_71b8d52c79_o.glb",
-      "folder": "output_models/potential_weapon/3237385926_71b8d52c79_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/3237385926_71b8d52c79_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/3237385926_71b8d52c79_o/3237385926_71b8d52c79_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/3237385926_71b8d52c79_o/3237385926_71b8d52c79_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/3237385926_71b8d52c79_o",
       "status": "success",
       "metrics": {
         "mse_full": 47076.17578125,
@@ -1141,10 +1141,10 @@
     },
     {
       "name": "2755336697_34bb70b419_o",
-      "original_image": "input_images/potential_weapon/2755336697_34bb70b419_o.jpg",
-      "preview_image": "output_models/potential_weapon/2755336697_34bb70b419_o/2755336697_34bb70b419_o_preview.png",
-      "model": "output_models/potential_weapon/2755336697_34bb70b419_o/2755336697_34bb70b419_o.glb",
-      "folder": "output_models/potential_weapon/2755336697_34bb70b419_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/2755336697_34bb70b419_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/2755336697_34bb70b419_o/2755336697_34bb70b419_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/2755336697_34bb70b419_o/2755336697_34bb70b419_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/2755336697_34bb70b419_o",
       "status": "success",
       "metrics": {
         "mse_full": 20084.708984375,
@@ -1186,10 +1186,10 @@
     },
     {
       "name": "6342745960_f1c9ac8454_o",
-      "original_image": "input_images/potential_weapon/6342745960_f1c9ac8454_o.jpg",
-      "preview_image": "output_models/potential_weapon/6342745960_f1c9ac8454_o/6342745960_f1c9ac8454_o_preview.png",
-      "model": "output_models/potential_weapon/6342745960_f1c9ac8454_o/6342745960_f1c9ac8454_o.glb",
-      "folder": "output_models/potential_weapon/6342745960_f1c9ac8454_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/6342745960_f1c9ac8454_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6342745960_f1c9ac8454_o/6342745960_f1c9ac8454_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6342745960_f1c9ac8454_o/6342745960_f1c9ac8454_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/6342745960_f1c9ac8454_o",
       "status": "success",
       "metrics": {
         "mse_full": 42295.54296875,
@@ -1231,10 +1231,10 @@
     },
     {
       "name": "5265575186_3f748cb990_o",
-      "original_image": "input_images/potential_weapon/5265575186_3f748cb990_o.jpg",
-      "preview_image": "output_models/potential_weapon/5265575186_3f748cb990_o/5265575186_3f748cb990_o_preview.png",
-      "model": "output_models/potential_weapon/5265575186_3f748cb990_o/5265575186_3f748cb990_o.glb",
-      "folder": "output_models/potential_weapon/5265575186_3f748cb990_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/5265575186_3f748cb990_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/5265575186_3f748cb990_o/5265575186_3f748cb990_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/5265575186_3f748cb990_o/5265575186_3f748cb990_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/5265575186_3f748cb990_o",
       "status": "success",
       "metrics": {
         "mse_full": 7007.78515625,
@@ -1276,10 +1276,10 @@
     },
     {
       "name": "8692152662_fcffbde0ec_o",
-      "original_image": "input_images/potential_weapon/8692152662_fcffbde0ec_o.jpg",
-      "preview_image": "output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o_preview.png",
-      "model": "output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o.glb",
-      "folder": "output_models/potential_weapon/8692152662_fcffbde0ec_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/8692152662_fcffbde0ec_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8692152662_fcffbde0ec_o/8692152662_fcffbde0ec_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/8692152662_fcffbde0ec_o",
       "status": "success",
       "metrics": {
         "mse_full": 18253.466796875,
@@ -1321,10 +1321,10 @@
     },
     {
       "name": "1841488509_9a2e18f4d0_o",
-      "original_image": "input_images/potential_weapon/1841488509_9a2e18f4d0_o.jpg",
-      "preview_image": "output_models/potential_weapon/1841488509_9a2e18f4d0_o/1841488509_9a2e18f4d0_o_preview.png",
-      "model": "output_models/potential_weapon/1841488509_9a2e18f4d0_o/1841488509_9a2e18f4d0_o.glb",
-      "folder": "output_models/potential_weapon/1841488509_9a2e18f4d0_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/potential_weapon/1841488509_9a2e18f4d0_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/1841488509_9a2e18f4d0_o/1841488509_9a2e18f4d0_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/1841488509_9a2e18f4d0_o/1841488509_9a2e18f4d0_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/potential_weapon/1841488509_9a2e18f4d0_o",
       "status": "success",
       "metrics": {
         "mse_full": 28922.740234375,
@@ -1366,10 +1366,10 @@
     },
     {
       "name": "14694970499_b8568c5554_o",
-      "original_image": "input_images/injury/14694970499_b8568c5554_o.jpg",
-      "preview_image": "output_models/injury/14694970499_b8568c5554_o/14694970499_b8568c5554_o_preview.png",
-      "model": "output_models/injury/14694970499_b8568c5554_o/14694970499_b8568c5554_o.glb",
-      "folder": "output_models/injury/14694970499_b8568c5554_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/14694970499_b8568c5554_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/14694970499_b8568c5554_o/14694970499_b8568c5554_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/14694970499_b8568c5554_o/14694970499_b8568c5554_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/14694970499_b8568c5554_o",
       "status": "success",
       "metrics": {
         "mse_full": 22276.318359375,
@@ -1411,10 +1411,10 @@
     },
     {
       "name": "6432093093_d5ec72aa6a_o",
-      "original_image": "input_images/injury/6432093093_d5ec72aa6a_o.jpg",
-      "preview_image": "output_models/injury/6432093093_d5ec72aa6a_o/6432093093_d5ec72aa6a_o_preview.png",
-      "model": "output_models/injury/6432093093_d5ec72aa6a_o/6432093093_d5ec72aa6a_o.glb",
-      "folder": "output_models/injury/6432093093_d5ec72aa6a_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/6432093093_d5ec72aa6a_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/6432093093_d5ec72aa6a_o/6432093093_d5ec72aa6a_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/6432093093_d5ec72aa6a_o/6432093093_d5ec72aa6a_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/6432093093_d5ec72aa6a_o",
       "status": "success",
       "metrics": {
         "mse_full": 19978.994140625,
@@ -1456,10 +1456,10 @@
     },
     {
       "name": "478736017_574735d556_o",
-      "original_image": "input_images/injury/478736017_574735d556_o.jpg",
-      "preview_image": "output_models/injury/478736017_574735d556_o/478736017_574735d556_o_preview.png",
-      "model": "output_models/injury/478736017_574735d556_o/478736017_574735d556_o.glb",
-      "folder": "output_models/injury/478736017_574735d556_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/478736017_574735d556_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/478736017_574735d556_o/478736017_574735d556_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/478736017_574735d556_o/478736017_574735d556_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/478736017_574735d556_o",
       "status": "success",
       "metrics": {
         "mse_full": 14151.1435546875,
@@ -1501,10 +1501,10 @@
     },
     {
       "name": "2813471684_d29f128432_o",
-      "original_image": "input_images/injury/2813471684_d29f128432_o.jpg",
-      "preview_image": "output_models/injury/2813471684_d29f128432_o/2813471684_d29f128432_o_preview.png",
-      "model": "output_models/injury/2813471684_d29f128432_o/2813471684_d29f128432_o.glb",
-      "folder": "output_models/injury/2813471684_d29f128432_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/2813471684_d29f128432_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/2813471684_d29f128432_o/2813471684_d29f128432_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/2813471684_d29f128432_o/2813471684_d29f128432_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/2813471684_d29f128432_o",
       "status": "success",
       "metrics": {
         "mse_full": 7573.91015625,
@@ -1546,10 +1546,10 @@
     },
     {
       "name": "96274264_f0b3b6ec29_o",
-      "original_image": "input_images/injury/96274264_f0b3b6ec29_o.jpg",
-      "preview_image": "output_models/injury/96274264_f0b3b6ec29_o/96274264_f0b3b6ec29_o_preview.png",
-      "model": "output_models/injury/96274264_f0b3b6ec29_o/96274264_f0b3b6ec29_o.glb",
-      "folder": "output_models/injury/96274264_f0b3b6ec29_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/96274264_f0b3b6ec29_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/96274264_f0b3b6ec29_o/96274264_f0b3b6ec29_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/96274264_f0b3b6ec29_o/96274264_f0b3b6ec29_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/96274264_f0b3b6ec29_o",
       "status": "success",
       "metrics": {
         "mse_full": 4413.7275390625,
@@ -1591,10 +1591,10 @@
     },
     {
       "name": "17008632047_b8ce20175c_o",
-      "original_image": "input_images/injury/17008632047_b8ce20175c_o.jpg",
-      "preview_image": "output_models/injury/17008632047_b8ce20175c_o/17008632047_b8ce20175c_o_preview.png",
-      "model": "output_models/injury/17008632047_b8ce20175c_o/17008632047_b8ce20175c_o.glb",
-      "folder": "output_models/injury/17008632047_b8ce20175c_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/17008632047_b8ce20175c_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/17008632047_b8ce20175c_o/17008632047_b8ce20175c_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/17008632047_b8ce20175c_o/17008632047_b8ce20175c_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/17008632047_b8ce20175c_o",
       "status": "success",
       "metrics": {
         "mse_full": 5240.57666015625,
@@ -1636,10 +1636,10 @@
     },
     {
       "name": "5342605094_98de160b86_o",
-      "original_image": "input_images/injury/5342605094_98de160b86_o.jpg",
-      "preview_image": "output_models/injury/5342605094_98de160b86_o/5342605094_98de160b86_o_preview.png",
-      "model": "output_models/injury/5342605094_98de160b86_o/5342605094_98de160b86_o.glb",
-      "folder": "output_models/injury/5342605094_98de160b86_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/5342605094_98de160b86_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/5342605094_98de160b86_o/5342605094_98de160b86_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/5342605094_98de160b86_o/5342605094_98de160b86_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/5342605094_98de160b86_o",
       "status": "success",
       "metrics": {
         "mse_full": 9418.8466796875,
@@ -1681,10 +1681,10 @@
     },
     {
       "name": "16943857_706887a2dc_o",
-      "original_image": "input_images/injury/16943857_706887a2dc_o.jpg",
-      "preview_image": "output_models/injury/16943857_706887a2dc_o/16943857_706887a2dc_o_preview.png",
-      "model": "output_models/injury/16943857_706887a2dc_o/16943857_706887a2dc_o.glb",
-      "folder": "output_models/injury/16943857_706887a2dc_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/16943857_706887a2dc_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/16943857_706887a2dc_o/16943857_706887a2dc_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/16943857_706887a2dc_o/16943857_706887a2dc_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/16943857_706887a2dc_o",
       "status": "success",
       "metrics": {
         "mse_full": 8746.30859375,
@@ -1726,10 +1726,10 @@
     },
     {
       "name": "3775309316_6b34599913_o",
-      "original_image": "input_images/injury/3775309316_6b34599913_o.jpg",
-      "preview_image": "output_models/injury/3775309316_6b34599913_o/3775309316_6b34599913_o_preview.png",
-      "model": "output_models/injury/3775309316_6b34599913_o/3775309316_6b34599913_o.glb",
-      "folder": "output_models/injury/3775309316_6b34599913_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/3775309316_6b34599913_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/3775309316_6b34599913_o/3775309316_6b34599913_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/3775309316_6b34599913_o/3775309316_6b34599913_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/3775309316_6b34599913_o",
       "status": "success",
       "metrics": {
         "mse_full": 10167.6005859375,
@@ -1771,10 +1771,10 @@
     },
     {
       "name": "2881810767_9e61f39c1d_o",
-      "original_image": "input_images/injury/2881810767_9e61f39c1d_o.jpg",
-      "preview_image": "output_models/injury/2881810767_9e61f39c1d_o/2881810767_9e61f39c1d_o_preview.png",
-      "model": "output_models/injury/2881810767_9e61f39c1d_o/2881810767_9e61f39c1d_o.glb",
-      "folder": "output_models/injury/2881810767_9e61f39c1d_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/2881810767_9e61f39c1d_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/2881810767_9e61f39c1d_o/2881810767_9e61f39c1d_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/2881810767_9e61f39c1d_o/2881810767_9e61f39c1d_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/2881810767_9e61f39c1d_o",
       "status": "success",
       "metrics": {
         "mse_full": 11946.34375,
@@ -1816,10 +1816,10 @@
     },
     {
       "name": "12503956853_9ffce73d29_o",
-      "original_image": "input_images/injury/12503956853_9ffce73d29_o.jpg",
-      "preview_image": "output_models/injury/12503956853_9ffce73d29_o/12503956853_9ffce73d29_o_preview.png",
-      "model": "output_models/injury/12503956853_9ffce73d29_o/12503956853_9ffce73d29_o.glb",
-      "folder": "output_models/injury/12503956853_9ffce73d29_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/12503956853_9ffce73d29_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/12503956853_9ffce73d29_o/12503956853_9ffce73d29_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/12503956853_9ffce73d29_o/12503956853_9ffce73d29_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/12503956853_9ffce73d29_o",
       "status": "success",
       "metrics": {
         "mse_full": 3523.795654296875,
@@ -1861,10 +1861,10 @@
     },
     {
       "name": "4263935274_daffe02247_o",
-      "original_image": "input_images/injury/4263935274_daffe02247_o.jpg",
-      "preview_image": "output_models/injury/4263935274_daffe02247_o/4263935274_daffe02247_o_preview.png",
-      "model": "output_models/injury/4263935274_daffe02247_o/4263935274_daffe02247_o.glb",
-      "folder": "output_models/injury/4263935274_daffe02247_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/4263935274_daffe02247_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/4263935274_daffe02247_o/4263935274_daffe02247_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/4263935274_daffe02247_o/4263935274_daffe02247_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/4263935274_daffe02247_o",
       "status": "success",
       "metrics": {
         "mse_full": 27052.625,
@@ -1906,10 +1906,10 @@
     },
     {
       "name": "2436995155_033615b41f_o",
-      "original_image": "input_images/injury/2436995155_033615b41f_o.jpg",
-      "preview_image": "output_models/injury/2436995155_033615b41f_o/2436995155_033615b41f_o_preview.png",
-      "model": "output_models/injury/2436995155_033615b41f_o/2436995155_033615b41f_o.glb",
-      "folder": "output_models/injury/2436995155_033615b41f_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/2436995155_033615b41f_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/2436995155_033615b41f_o/2436995155_033615b41f_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/2436995155_033615b41f_o/2436995155_033615b41f_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/2436995155_033615b41f_o",
       "status": "success",
       "metrics": {
         "mse_full": 17889.849609375,
@@ -1951,10 +1951,10 @@
     },
     {
       "name": "5098748633_ef76881897_o",
-      "original_image": "input_images/injury/5098748633_ef76881897_o.jpg",
-      "preview_image": "output_models/injury/5098748633_ef76881897_o/5098748633_ef76881897_o_preview.png",
-      "model": "output_models/injury/5098748633_ef76881897_o/5098748633_ef76881897_o.glb",
-      "folder": "output_models/injury/5098748633_ef76881897_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/5098748633_ef76881897_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/5098748633_ef76881897_o/5098748633_ef76881897_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/5098748633_ef76881897_o/5098748633_ef76881897_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/5098748633_ef76881897_o",
       "status": "success",
       "metrics": {
         "mse_full": 14481.10546875,
@@ -1996,10 +1996,10 @@
     },
     {
       "name": "3329443197_50fbfd35eb_o",
-      "original_image": "input_images/injury/3329443197_50fbfd35eb_o.jpg",
-      "preview_image": "output_models/injury/3329443197_50fbfd35eb_o/3329443197_50fbfd35eb_o_preview.png",
-      "model": "output_models/injury/3329443197_50fbfd35eb_o/3329443197_50fbfd35eb_o.glb",
-      "folder": "output_models/injury/3329443197_50fbfd35eb_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/injury/3329443197_50fbfd35eb_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/injury/3329443197_50fbfd35eb_o/3329443197_50fbfd35eb_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/injury/3329443197_50fbfd35eb_o/3329443197_50fbfd35eb_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/injury/3329443197_50fbfd35eb_o",
       "status": "success",
       "metrics": {
         "mse_full": 6911.1875,
@@ -2041,10 +2041,10 @@
     },
     {
       "name": "2460608097_9647d5e2d5_o",
-      "original_image": "input_images/car_accident/2460608097_9647d5e2d5_o.jpg",
-      "preview_image": "output_models/car_accident/2460608097_9647d5e2d5_o/2460608097_9647d5e2d5_o_preview.png",
-      "model": "output_models/car_accident/2460608097_9647d5e2d5_o/2460608097_9647d5e2d5_o.glb",
-      "folder": "output_models/car_accident/2460608097_9647d5e2d5_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/2460608097_9647d5e2d5_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2460608097_9647d5e2d5_o/2460608097_9647d5e2d5_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2460608097_9647d5e2d5_o/2460608097_9647d5e2d5_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2460608097_9647d5e2d5_o",
       "status": "success",
       "metrics": {
         "mse_full": 19610.408203125,
@@ -2086,10 +2086,10 @@
     },
     {
       "name": "8126289047_c3a3e90202_o",
-      "original_image": "input_images/car_accident/8126289047_c3a3e90202_o.jpg",
-      "preview_image": "output_models/car_accident/8126289047_c3a3e90202_o/8126289047_c3a3e90202_o_preview.png",
-      "model": "output_models/car_accident/8126289047_c3a3e90202_o/8126289047_c3a3e90202_o.glb",
-      "folder": "output_models/car_accident/8126289047_c3a3e90202_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/8126289047_c3a3e90202_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/8126289047_c3a3e90202_o/8126289047_c3a3e90202_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/8126289047_c3a3e90202_o/8126289047_c3a3e90202_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/8126289047_c3a3e90202_o",
       "status": "success",
       "metrics": {
         "mse_full": 12852.8466796875,
@@ -2131,10 +2131,10 @@
     },
     {
       "name": "9033225599_4343dde24b_o",
-      "original_image": "input_images/car_accident/9033225599_4343dde24b_o.jpg",
-      "preview_image": "output_models/car_accident/9033225599_4343dde24b_o/9033225599_4343dde24b_o_preview.png",
-      "model": "output_models/car_accident/9033225599_4343dde24b_o/9033225599_4343dde24b_o.glb",
-      "folder": "output_models/car_accident/9033225599_4343dde24b_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/9033225599_4343dde24b_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/9033225599_4343dde24b_o/9033225599_4343dde24b_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/9033225599_4343dde24b_o/9033225599_4343dde24b_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/9033225599_4343dde24b_o",
       "status": "success",
       "metrics": {
         "mse_full": 13138.7890625,
@@ -2176,10 +2176,10 @@
     },
     {
       "name": "296064267_cfd3ed3b62_o",
-      "original_image": "input_images/car_accident/296064267_cfd3ed3b62_o.jpg",
-      "preview_image": "output_models/car_accident/296064267_cfd3ed3b62_o/296064267_cfd3ed3b62_o_preview.png",
-      "model": "output_models/car_accident/296064267_cfd3ed3b62_o/296064267_cfd3ed3b62_o.glb",
-      "folder": "output_models/car_accident/296064267_cfd3ed3b62_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/296064267_cfd3ed3b62_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/296064267_cfd3ed3b62_o/296064267_cfd3ed3b62_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/296064267_cfd3ed3b62_o/296064267_cfd3ed3b62_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/296064267_cfd3ed3b62_o",
       "status": "success",
       "metrics": {
         "mse_full": 18368.232421875,
@@ -2221,10 +2221,10 @@
     },
     {
       "name": "15108268883_4e203a80e0_o",
-      "original_image": "input_images/car_accident/15108268883_4e203a80e0_o.jpg",
-      "preview_image": "output_models/car_accident/15108268883_4e203a80e0_o/15108268883_4e203a80e0_o_preview.png",
-      "model": "output_models/car_accident/15108268883_4e203a80e0_o/15108268883_4e203a80e0_o.glb",
-      "folder": "output_models/car_accident/15108268883_4e203a80e0_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/15108268883_4e203a80e0_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/15108268883_4e203a80e0_o/15108268883_4e203a80e0_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/15108268883_4e203a80e0_o/15108268883_4e203a80e0_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/15108268883_4e203a80e0_o",
       "status": "success",
       "metrics": {
         "mse_full": 6179.32958984375,
@@ -2266,10 +2266,10 @@
     },
     {
       "name": "4573302817_d8b8fefae6_o",
-      "original_image": "input_images/car_accident/4573302817_d8b8fefae6_o.jpg",
-      "preview_image": "output_models/car_accident/4573302817_d8b8fefae6_o/4573302817_d8b8fefae6_o_preview.png",
-      "model": "output_models/car_accident/4573302817_d8b8fefae6_o/4573302817_d8b8fefae6_o.glb",
-      "folder": "output_models/car_accident/4573302817_d8b8fefae6_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/4573302817_d8b8fefae6_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/4573302817_d8b8fefae6_o/4573302817_d8b8fefae6_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/4573302817_d8b8fefae6_o/4573302817_d8b8fefae6_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/4573302817_d8b8fefae6_o",
       "status": "success",
       "metrics": {
         "mse_full": 14495.9931640625,
@@ -2311,10 +2311,10 @@
     },
     {
       "name": "2689230108_a2dd17e1a5_o",
-      "original_image": "input_images/car_accident/2689230108_a2dd17e1a5_o.jpg",
-      "preview_image": "output_models/car_accident/2689230108_a2dd17e1a5_o/2689230108_a2dd17e1a5_o_preview.png",
-      "model": "output_models/car_accident/2689230108_a2dd17e1a5_o/2689230108_a2dd17e1a5_o.glb",
-      "folder": "output_models/car_accident/2689230108_a2dd17e1a5_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/2689230108_a2dd17e1a5_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2689230108_a2dd17e1a5_o/2689230108_a2dd17e1a5_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2689230108_a2dd17e1a5_o/2689230108_a2dd17e1a5_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2689230108_a2dd17e1a5_o",
       "status": "success",
       "metrics": {
         "mse_full": 10373.6630859375,
@@ -2356,10 +2356,10 @@
     },
     {
       "name": "303541113_5f94409315_o",
-      "original_image": "input_images/car_accident/303541113_5f94409315_o.jpg",
-      "preview_image": "output_models/car_accident/303541113_5f94409315_o/303541113_5f94409315_o_preview.png",
-      "model": "output_models/car_accident/303541113_5f94409315_o/303541113_5f94409315_o.glb",
-      "folder": "output_models/car_accident/303541113_5f94409315_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/303541113_5f94409315_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/303541113_5f94409315_o/303541113_5f94409315_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/303541113_5f94409315_o/303541113_5f94409315_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/303541113_5f94409315_o",
       "status": "success",
       "metrics": {
         "mse_full": 2085.265380859375,
@@ -2401,10 +2401,10 @@
     },
     {
       "name": "4072657213_31b23fee4f_o",
-      "original_image": "input_images/car_accident/4072657213_31b23fee4f_o.jpg",
-      "preview_image": "output_models/car_accident/4072657213_31b23fee4f_o/4072657213_31b23fee4f_o_preview.png",
-      "model": "output_models/car_accident/4072657213_31b23fee4f_o/4072657213_31b23fee4f_o.glb",
-      "folder": "output_models/car_accident/4072657213_31b23fee4f_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/4072657213_31b23fee4f_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/4072657213_31b23fee4f_o/4072657213_31b23fee4f_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/4072657213_31b23fee4f_o/4072657213_31b23fee4f_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/4072657213_31b23fee4f_o",
       "status": "success",
       "metrics": {
         "mse_full": 13237.4248046875,
@@ -2446,10 +2446,10 @@
     },
     {
       "name": "6251886823_8074e7047b_o",
-      "original_image": "input_images/car_accident/6251886823_8074e7047b_o.jpg",
-      "preview_image": "output_models/car_accident/6251886823_8074e7047b_o/6251886823_8074e7047b_o_preview.png",
-      "model": "output_models/car_accident/6251886823_8074e7047b_o/6251886823_8074e7047b_o.glb",
-      "folder": "output_models/car_accident/6251886823_8074e7047b_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/6251886823_8074e7047b_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/6251886823_8074e7047b_o/6251886823_8074e7047b_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/6251886823_8074e7047b_o/6251886823_8074e7047b_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/6251886823_8074e7047b_o",
       "status": "success",
       "metrics": {
         "mse_full": 12770.26171875,
@@ -2491,10 +2491,10 @@
     },
     {
       "name": "3536731831_99a9ec16ed_o",
-      "original_image": "input_images/car_accident/3536731831_99a9ec16ed_o.jpg",
-      "preview_image": "output_models/car_accident/3536731831_99a9ec16ed_o/3536731831_99a9ec16ed_o_preview.png",
-      "model": "output_models/car_accident/3536731831_99a9ec16ed_o/3536731831_99a9ec16ed_o.glb",
-      "folder": "output_models/car_accident/3536731831_99a9ec16ed_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/3536731831_99a9ec16ed_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/3536731831_99a9ec16ed_o/3536731831_99a9ec16ed_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/3536731831_99a9ec16ed_o/3536731831_99a9ec16ed_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/3536731831_99a9ec16ed_o",
       "status": "success",
       "metrics": {
         "mse_full": 13957.859375,
@@ -2536,10 +2536,10 @@
     },
     {
       "name": "163823652_b5a4ae230c_o",
-      "original_image": "input_images/car_accident/163823652_b5a4ae230c_o.jpg",
-      "preview_image": "output_models/car_accident/163823652_b5a4ae230c_o/163823652_b5a4ae230c_o_preview.png",
-      "model": "output_models/car_accident/163823652_b5a4ae230c_o/163823652_b5a4ae230c_o.glb",
-      "folder": "output_models/car_accident/163823652_b5a4ae230c_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/163823652_b5a4ae230c_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/163823652_b5a4ae230c_o/163823652_b5a4ae230c_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/163823652_b5a4ae230c_o/163823652_b5a4ae230c_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/163823652_b5a4ae230c_o",
       "status": "success",
       "metrics": {
         "mse_full": 15522.5048828125,
@@ -2581,10 +2581,10 @@
     },
     {
       "name": "15729204092_1e76171ccf_o",
-      "original_image": "input_images/car_accident/15729204092_1e76171ccf_o.jpg",
-      "preview_image": "output_models/car_accident/15729204092_1e76171ccf_o/15729204092_1e76171ccf_o_preview.png",
-      "model": "output_models/car_accident/15729204092_1e76171ccf_o/15729204092_1e76171ccf_o.glb",
-      "folder": "output_models/car_accident/15729204092_1e76171ccf_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/15729204092_1e76171ccf_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/15729204092_1e76171ccf_o/15729204092_1e76171ccf_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/15729204092_1e76171ccf_o/15729204092_1e76171ccf_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/15729204092_1e76171ccf_o",
       "status": "success",
       "metrics": {
         "mse_full": 9012.5185546875,
@@ -2626,10 +2626,10 @@
     },
     {
       "name": "2886509057_685afebd62_o",
-      "original_image": "input_images/car_accident/2886509057_685afebd62_o.jpg",
-      "preview_image": "output_models/car_accident/2886509057_685afebd62_o/2886509057_685afebd62_o_preview.png",
-      "model": "output_models/car_accident/2886509057_685afebd62_o/2886509057_685afebd62_o.glb",
-      "folder": "output_models/car_accident/2886509057_685afebd62_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/2886509057_685afebd62_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2886509057_685afebd62_o/2886509057_685afebd62_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2886509057_685afebd62_o/2886509057_685afebd62_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/2886509057_685afebd62_o",
       "status": "success",
       "metrics": {
         "mse_full": 12123.3193359375,
@@ -2671,10 +2671,10 @@
     },
     {
       "name": "5229856292_54e9ed721a_o",
-      "original_image": "input_images/car_accident/5229856292_54e9ed721a_o.jpg",
-      "preview_image": "output_models/car_accident/5229856292_54e9ed721a_o/5229856292_54e9ed721a_o_preview.png",
-      "model": "output_models/car_accident/5229856292_54e9ed721a_o/5229856292_54e9ed721a_o.glb",
-      "folder": "output_models/car_accident/5229856292_54e9ed721a_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/car_accident/5229856292_54e9ed721a_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/5229856292_54e9ed721a_o/5229856292_54e9ed721a_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/5229856292_54e9ed721a_o/5229856292_54e9ed721a_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/car_accident/5229856292_54e9ed721a_o",
       "status": "success",
       "metrics": {
         "mse_full": 6792.70068359375,
@@ -2716,10 +2716,10 @@
     },
     {
       "name": "blood_12",
-      "original_image": "input_images/blood/blood_12.jpg",
-      "preview_image": "output_models/blood/blood_12/blood_12_preview.png",
-      "model": "output_models/blood/blood_12/blood_12.glb",
-      "folder": "output_models/blood/blood_12",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_12.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_12/blood_12_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_12/blood_12.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_12",
       "status": "success",
       "metrics": {
         "mse_full": 8153.16796875,
@@ -2761,10 +2761,10 @@
     },
     {
       "name": "blood_124",
-      "original_image": "input_images/blood/blood_124.jpg",
-      "preview_image": "output_models/blood/blood_124/blood_124_preview.png",
-      "model": "output_models/blood/blood_124/blood_124.glb",
-      "folder": "output_models/blood/blood_124",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_124.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_124/blood_124_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_124/blood_124.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_124",
       "status": "success",
       "metrics": {
         "mse_full": 12856.3857421875,
@@ -2806,10 +2806,10 @@
     },
     {
       "name": "blood_311",
-      "original_image": "input_images/blood/blood_311.jpg",
-      "preview_image": "output_models/blood/blood_311/blood_311_preview.png",
-      "model": "output_models/blood/blood_311/blood_311.glb",
-      "folder": "output_models/blood/blood_311",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_311.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_311/blood_311_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_311/blood_311.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_311",
       "status": "success",
       "metrics": {
         "mse_full": 5619.978515625,
@@ -2851,10 +2851,10 @@
     },
     {
       "name": "blood_3",
-      "original_image": "input_images/blood/blood_3.jpg",
-      "preview_image": "output_models/blood/blood_3/blood_3_preview.png",
-      "model": "output_models/blood/blood_3/blood_3.glb",
-      "folder": "output_models/blood/blood_3",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_3.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_3/blood_3_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_3/blood_3.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_3",
       "status": "success",
       "metrics": {
         "mse_full": 6759.13037109375,
@@ -2896,10 +2896,10 @@
     },
     {
       "name": "blood_101",
-      "original_image": "input_images/blood/blood_101.jpg",
-      "preview_image": "output_models/blood/blood_101/blood_101_preview.png",
-      "model": "output_models/blood/blood_101/blood_101.glb",
-      "folder": "output_models/blood/blood_101",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_101.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_101/blood_101_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_101/blood_101.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_101",
       "status": "success",
       "metrics": {
         "mse_full": 17523.39453125,
@@ -2941,10 +2941,10 @@
     },
     {
       "name": "blood_305",
-      "original_image": "input_images/blood/blood_305.jpg",
-      "preview_image": "output_models/blood/blood_305/blood_305_preview.png",
-      "model": "output_models/blood/blood_305/blood_305.glb",
-      "folder": "output_models/blood/blood_305",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_305.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_305/blood_305_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_305/blood_305.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_305",
       "status": "success",
       "metrics": {
         "mse_full": 13646.6669921875,
@@ -2986,10 +2986,10 @@
     },
     {
       "name": "blood_361",
-      "original_image": "input_images/blood/blood_361.jpg",
-      "preview_image": "output_models/blood/blood_361/blood_361_preview.png",
-      "model": "output_models/blood/blood_361/blood_361.glb",
-      "folder": "output_models/blood/blood_361",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_361.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_361/blood_361_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_361/blood_361.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_361",
       "status": "success",
       "metrics": {
         "mse_full": 6507.1484375,
@@ -3031,10 +3031,10 @@
     },
     {
       "name": "blood_121",
-      "original_image": "input_images/blood/blood_121.jpg",
-      "preview_image": "output_models/blood/blood_121/blood_121_preview.png",
-      "model": "output_models/blood/blood_121/blood_121.glb",
-      "folder": "output_models/blood/blood_121",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_121.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_121/blood_121_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_121/blood_121.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_121",
       "status": "success",
       "metrics": {
         "mse_full": 8188.98974609375,
@@ -3076,10 +3076,10 @@
     },
     {
       "name": "blood_111",
-      "original_image": "input_images/blood/blood_111.jpg",
-      "preview_image": "output_models/blood/blood_111/blood_111_preview.png",
-      "model": "output_models/blood/blood_111/blood_111.glb",
-      "folder": "output_models/blood/blood_111",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_111.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_111/blood_111_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_111/blood_111.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_111",
       "status": "success",
       "metrics": {
         "mse_full": 6528.89599609375,
@@ -3121,10 +3121,10 @@
     },
     {
       "name": "blood_16",
-      "original_image": "input_images/blood/blood_16.jpg",
-      "preview_image": "output_models/blood/blood_16/blood_16_preview.png",
-      "model": "output_models/blood/blood_16/blood_16.glb",
-      "folder": "output_models/blood/blood_16",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_16.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_16/blood_16_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_16/blood_16.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_16",
       "status": "success",
       "metrics": {
         "mse_full": 22747.3125,
@@ -3166,10 +3166,10 @@
     },
     {
       "name": "blood_20",
-      "original_image": "input_images/blood/blood_20.jpg",
-      "preview_image": "output_models/blood/blood_20/blood_20_preview.png",
-      "model": "output_models/blood/blood_20/blood_20.glb",
-      "folder": "output_models/blood/blood_20",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_20.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_20/blood_20_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_20/blood_20.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_20",
       "status": "success",
       "metrics": {
         "mse_full": 7205.765625,
@@ -3211,10 +3211,10 @@
     },
     {
       "name": "blood_226",
-      "original_image": "input_images/blood/blood_226.jpg",
-      "preview_image": "output_models/blood/blood_226/blood_226_preview.png",
-      "model": "output_models/blood/blood_226/blood_226.glb",
-      "folder": "output_models/blood/blood_226",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_226.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_226/blood_226_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_226/blood_226.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_226",
       "status": "success",
       "metrics": {
         "mse_full": 3860.940185546875,
@@ -3256,10 +3256,10 @@
     },
     {
       "name": "blood_227",
-      "original_image": "input_images/blood/blood_227.jpg",
-      "preview_image": "output_models/blood/blood_227/blood_227_preview.png",
-      "model": "output_models/blood/blood_227/blood_227.glb",
-      "folder": "output_models/blood/blood_227",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_227.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_227/blood_227_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_227/blood_227.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_227",
       "status": "success",
       "metrics": {
         "mse_full": 9774.619140625,
@@ -3301,10 +3301,10 @@
     },
     {
       "name": "blood_32",
-      "original_image": "input_images/blood/blood_32.jpg",
-      "preview_image": "output_models/blood/blood_32/blood_32_preview.png",
-      "model": "output_models/blood/blood_32/blood_32.glb",
-      "folder": "output_models/blood/blood_32",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_32.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_32/blood_32_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_32/blood_32.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_32",
       "status": "success",
       "metrics": {
         "mse_full": 5561.95654296875,
@@ -3346,10 +3346,10 @@
     },
     {
       "name": "blood_104",
-      "original_image": "input_images/blood/blood_104.jpg",
-      "preview_image": "output_models/blood/blood_104/blood_104_preview.png",
-      "model": "output_models/blood/blood_104/blood_104.glb",
-      "folder": "output_models/blood/blood_104",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/blood/blood_104.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_104/blood_104_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_104/blood_104.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/blood/blood_104",
       "status": "success",
       "metrics": {
         "mse_full": 5600.40283203125,
@@ -3391,10 +3391,10 @@
     },
     {
       "name": "6335230273_b701b971d3_z",
-      "original_image": "input_images/outdoor_home/6335230273_b701b971d3_z.jpg",
-      "preview_image": "output_models/outdoor_home/6335230273_b701b971d3_z/6335230273_b701b971d3_z_preview.png",
-      "model": "output_models/outdoor_home/6335230273_b701b971d3_z/6335230273_b701b971d3_z.glb",
-      "folder": "output_models/outdoor_home/6335230273_b701b971d3_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/6335230273_b701b971d3_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/6335230273_b701b971d3_z/6335230273_b701b971d3_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/6335230273_b701b971d3_z/6335230273_b701b971d3_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/6335230273_b701b971d3_z",
       "status": "success",
       "metrics": {
         "mse_full": 14761.3671875,
@@ -3436,10 +3436,10 @@
     },
     {
       "name": "2399684612_0c848312d7_z",
-      "original_image": "input_images/outdoor_home/2399684612_0c848312d7_z.jpg",
-      "preview_image": "output_models/outdoor_home/2399684612_0c848312d7_z/2399684612_0c848312d7_z_preview.png",
-      "model": "output_models/outdoor_home/2399684612_0c848312d7_z/2399684612_0c848312d7_z.glb",
-      "folder": "output_models/outdoor_home/2399684612_0c848312d7_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/2399684612_0c848312d7_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/2399684612_0c848312d7_z/2399684612_0c848312d7_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/2399684612_0c848312d7_z/2399684612_0c848312d7_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/2399684612_0c848312d7_z",
       "status": "success",
       "metrics": {
         "mse_full": 14685.953125,
@@ -3481,10 +3481,10 @@
     },
     {
       "name": "14786173021_d1a80785d7_z",
-      "original_image": "input_images/outdoor_home/14786173021_d1a80785d7_z.jpg",
-      "preview_image": "output_models/outdoor_home/14786173021_d1a80785d7_z/14786173021_d1a80785d7_z_preview.png",
-      "model": "output_models/outdoor_home/14786173021_d1a80785d7_z/14786173021_d1a80785d7_z.glb",
-      "folder": "output_models/outdoor_home/14786173021_d1a80785d7_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/14786173021_d1a80785d7_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/14786173021_d1a80785d7_z/14786173021_d1a80785d7_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/14786173021_d1a80785d7_z/14786173021_d1a80785d7_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/14786173021_d1a80785d7_z",
       "status": "success",
       "metrics": {
         "mse_full": 11803.5654296875,
@@ -3526,10 +3526,10 @@
     },
     {
       "name": "7471289382_5c7b7561cf_z",
-      "original_image": "input_images/outdoor_home/7471289382_5c7b7561cf_z.jpg",
-      "preview_image": "output_models/outdoor_home/7471289382_5c7b7561cf_z/7471289382_5c7b7561cf_z_preview.png",
-      "model": "output_models/outdoor_home/7471289382_5c7b7561cf_z/7471289382_5c7b7561cf_z.glb",
-      "folder": "output_models/outdoor_home/7471289382_5c7b7561cf_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/7471289382_5c7b7561cf_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7471289382_5c7b7561cf_z/7471289382_5c7b7561cf_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7471289382_5c7b7561cf_z/7471289382_5c7b7561cf_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7471289382_5c7b7561cf_z",
       "status": "success",
       "metrics": {
         "mse_full": 14558.390625,
@@ -3571,10 +3571,10 @@
     },
     {
       "name": "480930072_5ea673d155_z",
-      "original_image": "input_images/outdoor_home/480930072_5ea673d155_z.jpg",
-      "preview_image": "output_models/outdoor_home/480930072_5ea673d155_z/480930072_5ea673d155_z_preview.png",
-      "model": "output_models/outdoor_home/480930072_5ea673d155_z/480930072_5ea673d155_z.glb",
-      "folder": "output_models/outdoor_home/480930072_5ea673d155_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/480930072_5ea673d155_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/480930072_5ea673d155_z/480930072_5ea673d155_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/480930072_5ea673d155_z/480930072_5ea673d155_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/480930072_5ea673d155_z",
       "status": "success",
       "metrics": {
         "mse_full": 9175.923828125,
@@ -3616,10 +3616,10 @@
     },
     {
       "name": "4671966257_b423957d1a_z",
-      "original_image": "input_images/outdoor_home/4671966257_b423957d1a_z.jpg",
-      "preview_image": "output_models/outdoor_home/4671966257_b423957d1a_z/4671966257_b423957d1a_z_preview.png",
-      "model": "output_models/outdoor_home/4671966257_b423957d1a_z/4671966257_b423957d1a_z.glb",
-      "folder": "output_models/outdoor_home/4671966257_b423957d1a_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/4671966257_b423957d1a_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/4671966257_b423957d1a_z/4671966257_b423957d1a_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/4671966257_b423957d1a_z/4671966257_b423957d1a_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/4671966257_b423957d1a_z",
       "status": "success",
       "metrics": {
         "mse_full": 9921.4365234375,
@@ -3661,10 +3661,10 @@
     },
     {
       "name": "4867212771_b084d96965_z",
-      "original_image": "input_images/outdoor_home/4867212771_b084d96965_z.jpg",
-      "preview_image": "output_models/outdoor_home/4867212771_b084d96965_z/4867212771_b084d96965_z_preview.png",
-      "model": "output_models/outdoor_home/4867212771_b084d96965_z/4867212771_b084d96965_z.glb",
-      "folder": "output_models/outdoor_home/4867212771_b084d96965_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/4867212771_b084d96965_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/4867212771_b084d96965_z/4867212771_b084d96965_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/4867212771_b084d96965_z/4867212771_b084d96965_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/4867212771_b084d96965_z",
       "status": "success",
       "metrics": {
         "mse_full": 26679.1015625,
@@ -3706,10 +3706,10 @@
     },
     {
       "name": "7933918534_b2af473b5c_z",
-      "original_image": "input_images/outdoor_home/7933918534_b2af473b5c_z.jpg",
-      "preview_image": "output_models/outdoor_home/7933918534_b2af473b5c_z/7933918534_b2af473b5c_z_preview.png",
-      "model": "output_models/outdoor_home/7933918534_b2af473b5c_z/7933918534_b2af473b5c_z.glb",
-      "folder": "output_models/outdoor_home/7933918534_b2af473b5c_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/7933918534_b2af473b5c_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7933918534_b2af473b5c_z/7933918534_b2af473b5c_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7933918534_b2af473b5c_z/7933918534_b2af473b5c_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7933918534_b2af473b5c_z",
       "status": "success",
       "metrics": {
         "mse_full": 15795.2802734375,
@@ -3751,10 +3751,10 @@
     },
     {
       "name": "15899239397_58d15ff2ac_z",
-      "original_image": "input_images/outdoor_home/15899239397_58d15ff2ac_z.jpg",
-      "preview_image": "output_models/outdoor_home/15899239397_58d15ff2ac_z/15899239397_58d15ff2ac_z_preview.png",
-      "model": "output_models/outdoor_home/15899239397_58d15ff2ac_z/15899239397_58d15ff2ac_z.glb",
-      "folder": "output_models/outdoor_home/15899239397_58d15ff2ac_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/15899239397_58d15ff2ac_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/15899239397_58d15ff2ac_z/15899239397_58d15ff2ac_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/15899239397_58d15ff2ac_z/15899239397_58d15ff2ac_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/15899239397_58d15ff2ac_z",
       "status": "success",
       "metrics": {
         "mse_full": 17596.376953125,
@@ -3796,10 +3796,10 @@
     },
     {
       "name": "7622931096_0cfddb02da_z",
-      "original_image": "input_images/outdoor_home/7622931096_0cfddb02da_z.jpg",
-      "preview_image": "output_models/outdoor_home/7622931096_0cfddb02da_z/7622931096_0cfddb02da_z_preview.png",
-      "model": "output_models/outdoor_home/7622931096_0cfddb02da_z/7622931096_0cfddb02da_z.glb",
-      "folder": "output_models/outdoor_home/7622931096_0cfddb02da_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/7622931096_0cfddb02da_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7622931096_0cfddb02da_z/7622931096_0cfddb02da_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7622931096_0cfddb02da_z/7622931096_0cfddb02da_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7622931096_0cfddb02da_z",
       "status": "success",
       "metrics": {
         "mse_full": 7852.05712890625,
@@ -3841,10 +3841,10 @@
     },
     {
       "name": "3438157727_8c468cb7fd_z",
-      "original_image": "input_images/outdoor_home/3438157727_8c468cb7fd_z.jpg",
-      "preview_image": "output_models/outdoor_home/3438157727_8c468cb7fd_z/3438157727_8c468cb7fd_z_preview.png",
-      "model": "output_models/outdoor_home/3438157727_8c468cb7fd_z/3438157727_8c468cb7fd_z.glb",
-      "folder": "output_models/outdoor_home/3438157727_8c468cb7fd_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/3438157727_8c468cb7fd_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/3438157727_8c468cb7fd_z/3438157727_8c468cb7fd_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/3438157727_8c468cb7fd_z/3438157727_8c468cb7fd_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/3438157727_8c468cb7fd_z",
       "status": "success",
       "metrics": {
         "mse_full": 15807.0048828125,
@@ -3886,10 +3886,10 @@
     },
     {
       "name": "8414290992_86b6cef11e_z",
-      "original_image": "input_images/outdoor_home/8414290992_86b6cef11e_z.jpg",
-      "preview_image": "output_models/outdoor_home/8414290992_86b6cef11e_z/8414290992_86b6cef11e_z_preview.png",
-      "model": "output_models/outdoor_home/8414290992_86b6cef11e_z/8414290992_86b6cef11e_z.glb",
-      "folder": "output_models/outdoor_home/8414290992_86b6cef11e_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/8414290992_86b6cef11e_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8414290992_86b6cef11e_z/8414290992_86b6cef11e_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8414290992_86b6cef11e_z/8414290992_86b6cef11e_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8414290992_86b6cef11e_z",
       "status": "success",
       "metrics": {
         "mse_full": 30594.283203125,
@@ -3931,10 +3931,10 @@
     },
     {
       "name": "8048270935_a537c66d23_z",
-      "original_image": "input_images/outdoor_home/8048270935_a537c66d23_z.jpg",
-      "preview_image": "output_models/outdoor_home/8048270935_a537c66d23_z/8048270935_a537c66d23_z_preview.png",
-      "model": "output_models/outdoor_home/8048270935_a537c66d23_z/8048270935_a537c66d23_z.glb",
-      "folder": "output_models/outdoor_home/8048270935_a537c66d23_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/8048270935_a537c66d23_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8048270935_a537c66d23_z/8048270935_a537c66d23_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8048270935_a537c66d23_z/8048270935_a537c66d23_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8048270935_a537c66d23_z",
       "status": "success",
       "metrics": {
         "mse_full": 8781.984375,
@@ -3976,10 +3976,10 @@
     },
     {
       "name": "8104667457_48a6a1f40a_z",
-      "original_image": "input_images/outdoor_home/8104667457_48a6a1f40a_z.jpg",
-      "preview_image": "output_models/outdoor_home/8104667457_48a6a1f40a_z/8104667457_48a6a1f40a_z_preview.png",
-      "model": "output_models/outdoor_home/8104667457_48a6a1f40a_z/8104667457_48a6a1f40a_z.glb",
-      "folder": "output_models/outdoor_home/8104667457_48a6a1f40a_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/8104667457_48a6a1f40a_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8104667457_48a6a1f40a_z/8104667457_48a6a1f40a_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8104667457_48a6a1f40a_z/8104667457_48a6a1f40a_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/8104667457_48a6a1f40a_z",
       "status": "success",
       "metrics": {
         "mse_full": 25670.599609375,
@@ -4021,10 +4021,10 @@
     },
     {
       "name": "7980555696_3c7aab76d8_z",
-      "original_image": "input_images/outdoor_home/7980555696_3c7aab76d8_z.jpg",
-      "preview_image": "output_models/outdoor_home/7980555696_3c7aab76d8_z/7980555696_3c7aab76d8_z_preview.png",
-      "model": "output_models/outdoor_home/7980555696_3c7aab76d8_z/7980555696_3c7aab76d8_z.glb",
-      "folder": "output_models/outdoor_home/7980555696_3c7aab76d8_z",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/outdoor_home/7980555696_3c7aab76d8_z.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7980555696_3c7aab76d8_z/7980555696_3c7aab76d8_z_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7980555696_3c7aab76d8_z/7980555696_3c7aab76d8_z.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/outdoor_home/7980555696_3c7aab76d8_z",
       "status": "success",
       "metrics": {
         "mse_full": 23033.759765625,
@@ -4066,10 +4066,10 @@
     },
     {
       "name": "1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m",
-      "original_image": "input_images/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m.jpg",
-      "preview_image": "output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m_preview.png",
-      "model": "output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m.glb",
-      "folder": "output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/1d9be0bb-b696-4e97-9d58-2bc06dd435ff-m",
       "status": "success",
       "metrics": {
         "mse_full": 13450.984375,
@@ -4111,10 +4111,10 @@
     },
     {
       "name": "Honto_bunkai-Street_fighting",
-      "original_image": "input_images/fighting/Honto_bunkai-Street_fighting.jpg",
-      "preview_image": "output_models/fighting/Honto_bunkai-Street_fighting/Honto_bunkai-Street_fighting_preview.png",
-      "model": "output_models/fighting/Honto_bunkai-Street_fighting/Honto_bunkai-Street_fighting.glb",
-      "folder": "output_models/fighting/Honto_bunkai-Street_fighting",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/Honto_bunkai-Street_fighting.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/Honto_bunkai-Street_fighting/Honto_bunkai-Street_fighting_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/Honto_bunkai-Street_fighting/Honto_bunkai-Street_fighting.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/Honto_bunkai-Street_fighting",
       "status": "success",
       "metrics": {
         "mse_full": 12233.6875,
@@ -4156,10 +4156,10 @@
     },
     {
       "name": "football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg",
-      "original_image": "input_images/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg.jpg",
-      "preview_image": "output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg_preview.png",
-      "model": "output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg.glb",
-      "folder": "output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/football-factory-the-blu-ray_khe-2ffootballfactorytheblu-ray-2ffootballfactory-001-1-jpg",
       "status": "success",
       "metrics": {
         "mse_full": 9290.5615234375,
@@ -4201,10 +4201,10 @@
     },
     {
       "name": "two-angry-women-in-road-rage-fight",
-      "original_image": "input_images/fighting/two-angry-women-in-road-rage-fight.jpg",
-      "preview_image": "output_models/fighting/two-angry-women-in-road-rage-fight/two-angry-women-in-road-rage-fight_preview.png",
-      "model": "output_models/fighting/two-angry-women-in-road-rage-fight/two-angry-women-in-road-rage-fight.glb",
-      "folder": "output_models/fighting/two-angry-women-in-road-rage-fight",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/two-angry-women-in-road-rage-fight.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/two-angry-women-in-road-rage-fight/two-angry-women-in-road-rage-fight_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/two-angry-women-in-road-rage-fight/two-angry-women-in-road-rage-fight.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/two-angry-women-in-road-rage-fight",
       "status": "success",
       "metrics": {
         "mse_full": 15361.3095703125,
@@ -4246,10 +4246,10 @@
     },
     {
       "name": "street-fight",
-      "original_image": "input_images/fighting/street-fight.jpg",
-      "preview_image": "output_models/fighting/street-fight/street-fight_preview.png",
-      "model": "output_models/fighting/street-fight/street-fight.glb",
-      "folder": "output_models/fighting/street-fight",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/street-fight.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/street-fight/street-fight_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/street-fight/street-fight.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/street-fight",
       "status": "success",
       "metrics": {
         "mse_full": 15719.0771484375,
@@ -4291,10 +4291,10 @@
     },
     {
       "name": "539361489_4b1400107e_o",
-      "original_image": "input_images/fighting/539361489_4b1400107e_o.jpg",
-      "preview_image": "output_models/fighting/539361489_4b1400107e_o/539361489_4b1400107e_o_preview.png",
-      "model": "output_models/fighting/539361489_4b1400107e_o/539361489_4b1400107e_o.glb",
-      "folder": "output_models/fighting/539361489_4b1400107e_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/539361489_4b1400107e_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/539361489_4b1400107e_o/539361489_4b1400107e_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/539361489_4b1400107e_o/539361489_4b1400107e_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/539361489_4b1400107e_o",
       "status": "success",
       "metrics": {
         "mse_full": 17716.78515625,
@@ -4336,10 +4336,10 @@
     },
     {
       "name": "309509",
-      "original_image": "input_images/fighting/309509.jpg",
-      "preview_image": "output_models/fighting/309509/309509_preview.png",
-      "model": "output_models/fighting/309509/309509.glb",
-      "folder": "output_models/fighting/309509",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/309509.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/309509/309509_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/309509/309509.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/309509",
       "status": "success",
       "metrics": {
         "mse_full": 15388.2001953125,
@@ -4381,10 +4381,10 @@
     },
     {
       "name": "hqdefault",
-      "original_image": "input_images/fighting/hqdefault.jpg",
-      "preview_image": "output_models/fighting/hqdefault/hqdefault_preview.png",
-      "model": "output_models/fighting/hqdefault/hqdefault.glb",
-      "folder": "output_models/fighting/hqdefault",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/hqdefault.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/hqdefault/hqdefault_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/hqdefault/hqdefault.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/hqdefault",
       "status": "success",
       "metrics": {
         "mse_full": 12777.734375,
@@ -4426,10 +4426,10 @@
     },
     {
       "name": "road-rage-4",
-      "original_image": "input_images/fighting/road-rage-4.jpg",
-      "preview_image": "output_models/fighting/road-rage-4/road-rage-4_preview.png",
-      "model": "output_models/fighting/road-rage-4/road-rage-4.glb",
-      "folder": "output_models/fighting/road-rage-4",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/road-rage-4.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/road-rage-4/road-rage-4_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/road-rage-4/road-rage-4.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/road-rage-4",
       "status": "success",
       "metrics": {
         "mse_full": 16874.443359375,
@@ -4471,10 +4471,10 @@
     },
     {
       "name": "getImage",
-      "original_image": "input_images/fighting/getImage.jpg",
-      "preview_image": "output_models/fighting/getImage/getImage_preview.png",
-      "model": "output_models/fighting/getImage/getImage.glb",
-      "folder": "output_models/fighting/getImage",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/getImage.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/getImage/getImage_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/getImage/getImage.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/getImage",
       "status": "success",
       "metrics": {
         "mse_full": 15790.4892578125,
@@ -4516,10 +4516,10 @@
     },
     {
       "name": "parent",
-      "original_image": "input_images/fighting/parent.jpg",
-      "preview_image": "output_models/fighting/parent/parent_preview.png",
-      "model": "output_models/fighting/parent/parent.glb",
-      "folder": "output_models/fighting/parent",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/parent.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/parent/parent_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/parent/parent.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/parent",
       "status": "success",
       "metrics": {
         "mse_full": 9699.4794921875,
@@ -4561,10 +4561,10 @@
     },
     {
       "name": "maxresdefault",
-      "original_image": "input_images/fighting/maxresdefault.jpg",
-      "preview_image": "output_models/fighting/maxresdefault/maxresdefault_preview.png",
-      "model": "output_models/fighting/maxresdefault/maxresdefault.glb",
-      "folder": "output_models/fighting/maxresdefault",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/maxresdefault.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/maxresdefault/maxresdefault_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/maxresdefault/maxresdefault.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/maxresdefault",
       "status": "success",
       "metrics": {
         "mse_full": 16308.7060546875,
@@ -4606,10 +4606,10 @@
     },
     {
       "name": "2017062293400",
-      "original_image": "input_images/fighting/2017062293400.jpg",
-      "preview_image": "output_models/fighting/2017062293400/2017062293400_preview.png",
-      "model": "output_models/fighting/2017062293400/2017062293400.glb",
-      "folder": "output_models/fighting/2017062293400",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/2017062293400.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/2017062293400/2017062293400_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/2017062293400/2017062293400.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/2017062293400",
       "status": "success",
       "metrics": {
         "mse_full": 9505.0107421875,
@@ -4651,10 +4651,10 @@
     },
     {
       "name": "blow1",
-      "original_image": "input_images/fighting/blow1.jpg",
-      "preview_image": "output_models/fighting/blow1/blow1_preview.png",
-      "model": "output_models/fighting/blow1/blow1.glb",
-      "folder": "output_models/fighting/blow1",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/blow1.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/blow1/blow1_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/blow1/blow1.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/blow1",
       "status": "success",
       "metrics": {
         "mse_full": 20447.111328125,
@@ -4696,10 +4696,10 @@
     },
     {
       "name": "boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense",
-      "original_image": "input_images/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense.jpg",
-      "preview_image": "output_models/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense_preview.png",
-      "model": "output_models/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense.glb",
-      "folder": "output_models/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/fighting/boxe_de_rue_-_eric_quequet_-_coup_de_genou_self_defense",
       "status": "success",
       "metrics": {
         "mse_full": 14531.0,
@@ -4741,10 +4741,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (208)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (208).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (208)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (208).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (208)/Datacluster Cracked Screen (208).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (208)",
       "status": "success",
       "metrics": {
         "mse_full": 6810.18505859375,
@@ -4786,10 +4786,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (103)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (103).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (103)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (103).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (103)/Datacluster Cracked Screen (103).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (103)",
       "status": "success",
       "metrics": {
         "mse_full": 17325.775390625,
@@ -4831,10 +4831,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (205)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (205).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (205)/Datacluster Cracked Screen (205)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (205)/Datacluster Cracked Screen (205).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (205)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (205).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (205)/Datacluster Cracked Screen (205)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (205)/Datacluster Cracked Screen (205).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (205)",
       "status": "success",
       "metrics": {
         "mse_full": 8330.13671875,
@@ -4876,10 +4876,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (144)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (144).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (144)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (144).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (144)/Datacluster Cracked Screen (144).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (144)",
       "status": "success",
       "metrics": {
         "mse_full": 10259.203125,
@@ -4921,10 +4921,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (206)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (206).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (206)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (206).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (206)/Datacluster Cracked Screen (206).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (206)",
       "status": "success",
       "metrics": {
         "mse_full": 12531.5126953125,
@@ -4966,10 +4966,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (260)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (260).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (260)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (260).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (260)/Datacluster Cracked Screen (260).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (260)",
       "status": "success",
       "metrics": {
         "mse_full": 1227.50146484375,
@@ -5011,10 +5011,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (231)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (231).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (231)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (231).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (231)/Datacluster Cracked Screen (231).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (231)",
       "status": "success",
       "metrics": {
         "mse_full": 18917.98828125,
@@ -5056,10 +5056,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (131)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (131).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (131)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (131).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (131)/Datacluster Cracked Screen (131).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (131)",
       "status": "success",
       "metrics": {
         "mse_full": 8661.046875,
@@ -5101,10 +5101,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (178)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (178).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (178)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (178).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (178)/Datacluster Cracked Screen (178).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (178)",
       "status": "success",
       "metrics": {
         "mse_full": 15573.4228515625,
@@ -5146,10 +5146,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (105)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (105).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (105)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (105).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (105)/Datacluster Cracked Screen (105).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (105)",
       "status": "success",
       "metrics": {
         "mse_full": 16301.0341796875,
@@ -5191,10 +5191,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (221)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (221).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (221)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (221).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (221)/Datacluster Cracked Screen (221).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (221)",
       "status": "success",
       "metrics": {
         "mse_full": 21644.197265625,
@@ -5236,10 +5236,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (1)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (1).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (1)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (1).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (1)/Datacluster Cracked Screen (1).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (1)",
       "status": "success",
       "metrics": {
         "mse_full": 15859.6083984375,
@@ -5281,10 +5281,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (127)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (127).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (127)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (127).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (127)/Datacluster Cracked Screen (127).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (127)",
       "status": "success",
       "metrics": {
         "mse_full": 17292.525390625,
@@ -5326,10 +5326,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (240)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (240).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (240)/Datacluster Cracked Screen (240)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (240)/Datacluster Cracked Screen (240).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (240)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (240).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (240)/Datacluster Cracked Screen (240)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (240)/Datacluster Cracked Screen (240).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (240)",
       "status": "success",
       "metrics": {
         "mse_full": 10111.4755859375,
@@ -5371,10 +5371,10 @@
     },
     {
       "name": "Datacluster Cracked Screen (136)",
-      "original_image": "input_images/shattered_phone/Datacluster Cracked Screen (136).jpg",
-      "preview_image": "output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136)_preview.png",
-      "model": "output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136).glb",
-      "folder": "output_models/shattered_phone/Datacluster Cracked Screen (136)",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/shattered_phone/Datacluster Cracked Screen (136).jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136)_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (136)/Datacluster Cracked Screen (136).glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/shattered_phone/Datacluster Cracked Screen (136)",
       "status": "success",
       "metrics": {
         "mse_full": 5157.14697265625,
@@ -5416,10 +5416,10 @@
     },
     {
       "name": "6395024177_81fa2847c3_o",
-      "original_image": "input_images/gun/6395024177_81fa2847c3_o.jpg",
-      "preview_image": "output_models/gun/6395024177_81fa2847c3_o/6395024177_81fa2847c3_o_preview.png",
-      "model": "output_models/gun/6395024177_81fa2847c3_o/6395024177_81fa2847c3_o.glb",
-      "folder": "output_models/gun/6395024177_81fa2847c3_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/6395024177_81fa2847c3_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/6395024177_81fa2847c3_o/6395024177_81fa2847c3_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/6395024177_81fa2847c3_o/6395024177_81fa2847c3_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/6395024177_81fa2847c3_o",
       "status": "success",
       "metrics": {
         "mse_full": 18909.380859375,
@@ -5461,10 +5461,10 @@
     },
     {
       "name": "2249564736_d42d4caede_o",
-      "original_image": "input_images/gun/2249564736_d42d4caede_o.jpg",
-      "preview_image": "output_models/gun/2249564736_d42d4caede_o/2249564736_d42d4caede_o_preview.png",
-      "model": "output_models/gun/2249564736_d42d4caede_o/2249564736_d42d4caede_o.glb",
-      "folder": "output_models/gun/2249564736_d42d4caede_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/2249564736_d42d4caede_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/2249564736_d42d4caede_o/2249564736_d42d4caede_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/2249564736_d42d4caede_o/2249564736_d42d4caede_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/2249564736_d42d4caede_o",
       "status": "success",
       "metrics": {
         "mse_full": 11050.8125,
@@ -5506,10 +5506,10 @@
     },
     {
       "name": "3054017065_8d9ab6df01_o",
-      "original_image": "input_images/gun/3054017065_8d9ab6df01_o.jpg",
-      "preview_image": "output_models/gun/3054017065_8d9ab6df01_o/3054017065_8d9ab6df01_o_preview.png",
-      "model": "output_models/gun/3054017065_8d9ab6df01_o/3054017065_8d9ab6df01_o.glb",
-      "folder": "output_models/gun/3054017065_8d9ab6df01_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/3054017065_8d9ab6df01_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/3054017065_8d9ab6df01_o/3054017065_8d9ab6df01_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/3054017065_8d9ab6df01_o/3054017065_8d9ab6df01_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/3054017065_8d9ab6df01_o",
       "status": "success",
       "metrics": {
         "mse_full": 9333.8427734375,
@@ -5551,10 +5551,10 @@
     },
     {
       "name": "5382870740_471ca1b808_o",
-      "original_image": "input_images/gun/5382870740_471ca1b808_o.jpg",
-      "preview_image": "output_models/gun/5382870740_471ca1b808_o/5382870740_471ca1b808_o_preview.png",
-      "model": "output_models/gun/5382870740_471ca1b808_o/5382870740_471ca1b808_o.glb",
-      "folder": "output_models/gun/5382870740_471ca1b808_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/5382870740_471ca1b808_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/5382870740_471ca1b808_o/5382870740_471ca1b808_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/5382870740_471ca1b808_o/5382870740_471ca1b808_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/5382870740_471ca1b808_o",
       "status": "success",
       "metrics": {
         "mse_full": 28627.025390625,
@@ -5596,10 +5596,10 @@
     },
     {
       "name": "12992937843_396732f798_o",
-      "original_image": "input_images/gun/12992937843_396732f798_o.jpg",
-      "preview_image": "output_models/gun/12992937843_396732f798_o/12992937843_396732f798_o_preview.png",
-      "model": "output_models/gun/12992937843_396732f798_o/12992937843_396732f798_o.glb",
-      "folder": "output_models/gun/12992937843_396732f798_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/12992937843_396732f798_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/12992937843_396732f798_o/12992937843_396732f798_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/12992937843_396732f798_o/12992937843_396732f798_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/12992937843_396732f798_o",
       "status": "success",
       "metrics": {
         "mse_full": 24476.140625,
@@ -5641,10 +5641,10 @@
     },
     {
       "name": "15149278572_534337cae9_o",
-      "original_image": "input_images/gun/15149278572_534337cae9_o.jpg",
-      "preview_image": "output_models/gun/15149278572_534337cae9_o/15149278572_534337cae9_o_preview.png",
-      "model": "output_models/gun/15149278572_534337cae9_o/15149278572_534337cae9_o.glb",
-      "folder": "output_models/gun/15149278572_534337cae9_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/15149278572_534337cae9_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/15149278572_534337cae9_o/15149278572_534337cae9_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/15149278572_534337cae9_o/15149278572_534337cae9_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/15149278572_534337cae9_o",
       "status": "success",
       "metrics": {
         "mse_full": 12111.9658203125,
@@ -5686,10 +5686,10 @@
     },
     {
       "name": "8265656003_0bb911d34d_o",
-      "original_image": "input_images/gun/8265656003_0bb911d34d_o.jpg",
-      "preview_image": "output_models/gun/8265656003_0bb911d34d_o/8265656003_0bb911d34d_o_preview.png",
-      "model": "output_models/gun/8265656003_0bb911d34d_o/8265656003_0bb911d34d_o.glb",
-      "folder": "output_models/gun/8265656003_0bb911d34d_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/8265656003_0bb911d34d_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/8265656003_0bb911d34d_o/8265656003_0bb911d34d_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/8265656003_0bb911d34d_o/8265656003_0bb911d34d_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/8265656003_0bb911d34d_o",
       "status": "success",
       "metrics": {
         "mse_full": 16345.2568359375,
@@ -5731,10 +5731,10 @@
     },
     {
       "name": "439615817_6a362b6b3c_o",
-      "original_image": "input_images/gun/439615817_6a362b6b3c_o.jpg",
-      "preview_image": "output_models/gun/439615817_6a362b6b3c_o/439615817_6a362b6b3c_o_preview.png",
-      "model": "output_models/gun/439615817_6a362b6b3c_o/439615817_6a362b6b3c_o.glb",
-      "folder": "output_models/gun/439615817_6a362b6b3c_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/439615817_6a362b6b3c_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/439615817_6a362b6b3c_o/439615817_6a362b6b3c_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/439615817_6a362b6b3c_o/439615817_6a362b6b3c_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/439615817_6a362b6b3c_o",
       "status": "success",
       "metrics": {
         "mse_full": 41696.08203125,
@@ -5776,10 +5776,10 @@
     },
     {
       "name": "4989837054_1d84c31d62_o",
-      "original_image": "input_images/gun/4989837054_1d84c31d62_o.jpg",
-      "preview_image": "output_models/gun/4989837054_1d84c31d62_o/4989837054_1d84c31d62_o_preview.png",
-      "model": "output_models/gun/4989837054_1d84c31d62_o/4989837054_1d84c31d62_o.glb",
-      "folder": "output_models/gun/4989837054_1d84c31d62_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/4989837054_1d84c31d62_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/4989837054_1d84c31d62_o/4989837054_1d84c31d62_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/4989837054_1d84c31d62_o/4989837054_1d84c31d62_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/4989837054_1d84c31d62_o",
       "status": "success",
       "metrics": {
         "mse_full": 2468.016845703125,
@@ -5821,10 +5821,10 @@
     },
     {
       "name": "15074048198_c5ff8af6fa_o",
-      "original_image": "input_images/gun/15074048198_c5ff8af6fa_o.jpg",
-      "preview_image": "output_models/gun/15074048198_c5ff8af6fa_o/15074048198_c5ff8af6fa_o_preview.png",
-      "model": "output_models/gun/15074048198_c5ff8af6fa_o/15074048198_c5ff8af6fa_o.glb",
-      "folder": "output_models/gun/15074048198_c5ff8af6fa_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/15074048198_c5ff8af6fa_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/15074048198_c5ff8af6fa_o/15074048198_c5ff8af6fa_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/15074048198_c5ff8af6fa_o/15074048198_c5ff8af6fa_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/15074048198_c5ff8af6fa_o",
       "status": "success",
       "metrics": {
         "mse_full": 10593.9453125,
@@ -5866,10 +5866,10 @@
     },
     {
       "name": "100190416_11ead6547f_o",
-      "original_image": "input_images/gun/100190416_11ead6547f_o.jpg",
-      "preview_image": "output_models/gun/100190416_11ead6547f_o/100190416_11ead6547f_o_preview.png",
-      "model": "output_models/gun/100190416_11ead6547f_o/100190416_11ead6547f_o.glb",
-      "folder": "output_models/gun/100190416_11ead6547f_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/100190416_11ead6547f_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/100190416_11ead6547f_o/100190416_11ead6547f_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/100190416_11ead6547f_o/100190416_11ead6547f_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/100190416_11ead6547f_o",
       "status": "success",
       "metrics": {
         "mse_full": 14720.203125,
@@ -5911,10 +5911,10 @@
     },
     {
       "name": "8557270023_66a3c63006_o",
-      "original_image": "input_images/gun/8557270023_66a3c63006_o.jpg",
-      "preview_image": "output_models/gun/8557270023_66a3c63006_o/8557270023_66a3c63006_o_preview.png",
-      "model": "output_models/gun/8557270023_66a3c63006_o/8557270023_66a3c63006_o.glb",
-      "folder": "output_models/gun/8557270023_66a3c63006_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/8557270023_66a3c63006_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/8557270023_66a3c63006_o/8557270023_66a3c63006_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/8557270023_66a3c63006_o/8557270023_66a3c63006_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/8557270023_66a3c63006_o",
       "status": "success",
       "metrics": {
         "mse_full": 42673.71484375,
@@ -5956,10 +5956,10 @@
     },
     {
       "name": "6963681645_d040d056a2_o",
-      "original_image": "input_images/gun/6963681645_d040d056a2_o.jpg",
-      "preview_image": "output_models/gun/6963681645_d040d056a2_o/6963681645_d040d056a2_o_preview.png",
-      "model": "output_models/gun/6963681645_d040d056a2_o/6963681645_d040d056a2_o.glb",
-      "folder": "output_models/gun/6963681645_d040d056a2_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/6963681645_d040d056a2_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/6963681645_d040d056a2_o/6963681645_d040d056a2_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/6963681645_d040d056a2_o/6963681645_d040d056a2_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/6963681645_d040d056a2_o",
       "status": "success",
       "metrics": {
         "mse_full": 49154.046875,
@@ -6001,10 +6001,10 @@
     },
     {
       "name": "3729585029_5af861e06a_o",
-      "original_image": "input_images/gun/3729585029_5af861e06a_o.jpg",
-      "preview_image": "output_models/gun/3729585029_5af861e06a_o/3729585029_5af861e06a_o_preview.png",
-      "model": "output_models/gun/3729585029_5af861e06a_o/3729585029_5af861e06a_o.glb",
-      "folder": "output_models/gun/3729585029_5af861e06a_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/3729585029_5af861e06a_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/3729585029_5af861e06a_o/3729585029_5af861e06a_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/3729585029_5af861e06a_o/3729585029_5af861e06a_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/3729585029_5af861e06a_o",
       "status": "success",
       "metrics": {
         "mse_full": 54509.54296875,
@@ -6046,10 +6046,10 @@
     },
     {
       "name": "149291028_4548453a07_o",
-      "original_image": "input_images/gun/149291028_4548453a07_o.jpg",
-      "preview_image": "output_models/gun/149291028_4548453a07_o/149291028_4548453a07_o_preview.png",
-      "model": "output_models/gun/149291028_4548453a07_o/149291028_4548453a07_o.glb",
-      "folder": "output_models/gun/149291028_4548453a07_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/gun/149291028_4548453a07_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/gun/149291028_4548453a07_o/149291028_4548453a07_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/gun/149291028_4548453a07_o/149291028_4548453a07_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/gun/149291028_4548453a07_o",
       "status": "success",
       "metrics": {
         "mse_full": 22301.75,
@@ -6091,10 +6091,10 @@
     },
     {
       "name": "living_1026",
-      "original_image": "input_images/livingroom/living_1026.jpg",
-      "preview_image": "output_models/livingroom/living_1026/living_1026_preview.png",
-      "model": "output_models/livingroom/living_1026/living_1026.glb",
-      "folder": "output_models/livingroom/living_1026",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1026.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1026/living_1026_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1026/living_1026.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1026",
       "status": "success",
       "metrics": {
         "mse_full": 10993.9501953125,
@@ -6136,10 +6136,10 @@
     },
     {
       "name": "living_1044",
-      "original_image": "input_images/livingroom/living_1044.jpg",
-      "preview_image": "output_models/livingroom/living_1044/living_1044_preview.png",
-      "model": "output_models/livingroom/living_1044/living_1044.glb",
-      "folder": "output_models/livingroom/living_1044",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1044.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1044/living_1044_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1044/living_1044.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1044",
       "status": "success",
       "metrics": {
         "mse_full": 13824.5576171875,
@@ -6181,10 +6181,10 @@
     },
     {
       "name": "living_1249",
-      "original_image": "input_images/livingroom/living_1249.jpg",
-      "preview_image": "output_models/livingroom/living_1249/living_1249_preview.png",
-      "model": "output_models/livingroom/living_1249/living_1249.glb",
-      "folder": "output_models/livingroom/living_1249",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1249.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1249/living_1249_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1249/living_1249.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1249",
       "status": "success",
       "metrics": {
         "mse_full": 27474.134765625,
@@ -6226,10 +6226,10 @@
     },
     {
       "name": "living_1004",
-      "original_image": "input_images/livingroom/living_1004.jpg",
-      "preview_image": "output_models/livingroom/living_1004/living_1004_preview.png",
-      "model": "output_models/livingroom/living_1004/living_1004.glb",
-      "folder": "output_models/livingroom/living_1004",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1004.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1004/living_1004_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1004/living_1004.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1004",
       "status": "success",
       "metrics": {
         "mse_full": 10010.28515625,
@@ -6271,10 +6271,10 @@
     },
     {
       "name": "living_1179",
-      "original_image": "input_images/livingroom/living_1179.jpg",
-      "preview_image": "output_models/livingroom/living_1179/living_1179_preview.png",
-      "model": "output_models/livingroom/living_1179/living_1179.glb",
-      "folder": "output_models/livingroom/living_1179",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1179.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1179/living_1179_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1179/living_1179.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1179",
       "status": "success",
       "metrics": {
         "mse_full": 13939.7080078125,
@@ -6316,10 +6316,10 @@
     },
     {
       "name": "living_1147",
-      "original_image": "input_images/livingroom/living_1147.jpg",
-      "preview_image": "output_models/livingroom/living_1147/living_1147_preview.png",
-      "model": "output_models/livingroom/living_1147/living_1147.glb",
-      "folder": "output_models/livingroom/living_1147",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1147.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1147/living_1147_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1147/living_1147.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1147",
       "status": "success",
       "metrics": {
         "mse_full": 18994.833984375,
@@ -6361,10 +6361,10 @@
     },
     {
       "name": "living_10",
-      "original_image": "input_images/livingroom/living_10.jpg",
-      "preview_image": "output_models/livingroom/living_10/living_10_preview.png",
-      "model": "output_models/livingroom/living_10/living_10.glb",
-      "folder": "output_models/livingroom/living_10",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_10.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_10/living_10_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_10/living_10.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_10",
       "status": "success",
       "metrics": {
         "mse_full": 19471.810546875,
@@ -6406,10 +6406,10 @@
     },
     {
       "name": "living_1211",
-      "original_image": "input_images/livingroom/living_1211.jpg",
-      "preview_image": "output_models/livingroom/living_1211/living_1211_preview.png",
-      "model": "output_models/livingroom/living_1211/living_1211.glb",
-      "folder": "output_models/livingroom/living_1211",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1211.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1211/living_1211_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1211/living_1211.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1211",
       "status": "success",
       "metrics": {
         "mse_full": 20051.70703125,
@@ -6451,10 +6451,10 @@
     },
     {
       "name": "living_1024",
-      "original_image": "input_images/livingroom/living_1024.jpg",
-      "preview_image": "output_models/livingroom/living_1024/living_1024_preview.png",
-      "model": "output_models/livingroom/living_1024/living_1024.glb",
-      "folder": "output_models/livingroom/living_1024",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1024.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1024/living_1024_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1024/living_1024.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1024",
       "status": "success",
       "metrics": {
         "mse_full": 15059.0517578125,
@@ -6496,10 +6496,10 @@
     },
     {
       "name": "living_1000",
-      "original_image": "input_images/livingroom/living_1000.jpg",
-      "preview_image": "output_models/livingroom/living_1000/living_1000_preview.png",
-      "model": "output_models/livingroom/living_1000/living_1000.glb",
-      "folder": "output_models/livingroom/living_1000",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1000.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1000/living_1000_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1000/living_1000.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1000",
       "status": "success",
       "metrics": {
         "mse_full": 23024.046875,
@@ -6541,10 +6541,10 @@
     },
     {
       "name": "living_1261",
-      "original_image": "input_images/livingroom/living_1261.jpg",
-      "preview_image": "output_models/livingroom/living_1261/living_1261_preview.png",
-      "model": "output_models/livingroom/living_1261/living_1261.glb",
-      "folder": "output_models/livingroom/living_1261",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1261.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1261/living_1261_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1261/living_1261.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1261",
       "status": "success",
       "metrics": {
         "mse_full": 10144.9560546875,
@@ -6586,10 +6586,10 @@
     },
     {
       "name": "living_1090",
-      "original_image": "input_images/livingroom/living_1090.jpg",
-      "preview_image": "output_models/livingroom/living_1090/living_1090_preview.png",
-      "model": "output_models/livingroom/living_1090/living_1090.glb",
-      "folder": "output_models/livingroom/living_1090",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1090.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1090/living_1090_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1090/living_1090.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1090",
       "status": "success",
       "metrics": {
         "mse_full": 18637.43359375,
@@ -6631,10 +6631,10 @@
     },
     {
       "name": "living_1145",
-      "original_image": "input_images/livingroom/living_1145.jpg",
-      "preview_image": "output_models/livingroom/living_1145/living_1145_preview.png",
-      "model": "output_models/livingroom/living_1145/living_1145.glb",
-      "folder": "output_models/livingroom/living_1145",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1145.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1145/living_1145_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1145/living_1145.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1145",
       "status": "success",
       "metrics": {
         "mse_full": 25955.287109375,
@@ -6676,10 +6676,10 @@
     },
     {
       "name": "living_1174",
-      "original_image": "input_images/livingroom/living_1174.jpg",
-      "preview_image": "output_models/livingroom/living_1174/living_1174_preview.png",
-      "model": "output_models/livingroom/living_1174/living_1174.glb",
-      "folder": "output_models/livingroom/living_1174",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1174.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1174/living_1174_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1174/living_1174.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1174",
       "status": "success",
       "metrics": {
         "mse_full": 6327.69482421875,
@@ -6721,10 +6721,10 @@
     },
     {
       "name": "living_1117",
-      "original_image": "input_images/livingroom/living_1117.jpg",
-      "preview_image": "output_models/livingroom/living_1117/living_1117_preview.png",
-      "model": "output_models/livingroom/living_1117/living_1117.glb",
-      "folder": "output_models/livingroom/living_1117",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/livingroom/living_1117.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1117/living_1117_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1117/living_1117.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/livingroom/living_1117",
       "status": "success",
       "metrics": {
         "mse_full": 19402.626953125,
@@ -6766,10 +6766,10 @@
     },
     {
       "name": "kitchen_1031",
-      "original_image": "input_images/kitchen/kitchen_1031.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1031/kitchen_1031_preview.png",
-      "model": "output_models/kitchen/kitchen_1031/kitchen_1031.glb",
-      "folder": "output_models/kitchen/kitchen_1031",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1031.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1031/kitchen_1031_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1031/kitchen_1031.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1031",
       "status": "success",
       "metrics": {
         "mse_full": 3639.240966796875,
@@ -6811,10 +6811,10 @@
     },
     {
       "name": "kitchen_1099",
-      "original_image": "input_images/kitchen/kitchen_1099.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1099/kitchen_1099_preview.png",
-      "model": "output_models/kitchen/kitchen_1099/kitchen_1099.glb",
-      "folder": "output_models/kitchen/kitchen_1099",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1099.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1099/kitchen_1099_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1099/kitchen_1099.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1099",
       "status": "success",
       "metrics": {
         "mse_full": 7619.87109375,
@@ -6856,10 +6856,10 @@
     },
     {
       "name": "kitchen_1030",
-      "original_image": "input_images/kitchen/kitchen_1030.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1030/kitchen_1030_preview.png",
-      "model": "output_models/kitchen/kitchen_1030/kitchen_1030.glb",
-      "folder": "output_models/kitchen/kitchen_1030",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1030.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1030/kitchen_1030_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1030/kitchen_1030.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1030",
       "status": "success",
       "metrics": {
         "mse_full": 18699.623046875,
@@ -6901,10 +6901,10 @@
     },
     {
       "name": "kitchen_1189",
-      "original_image": "input_images/kitchen/kitchen_1189.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1189/kitchen_1189_preview.png",
-      "model": "output_models/kitchen/kitchen_1189/kitchen_1189.glb",
-      "folder": "output_models/kitchen/kitchen_1189",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1189.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1189/kitchen_1189_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1189/kitchen_1189.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1189",
       "status": "success",
       "metrics": {
         "mse_full": 26896.169921875,
@@ -6946,10 +6946,10 @@
     },
     {
       "name": "kitchen_1134",
-      "original_image": "input_images/kitchen/kitchen_1134.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1134/kitchen_1134_preview.png",
-      "model": "output_models/kitchen/kitchen_1134/kitchen_1134.glb",
-      "folder": "output_models/kitchen/kitchen_1134",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1134.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1134/kitchen_1134_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1134/kitchen_1134.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1134",
       "status": "success",
       "metrics": {
         "mse_full": 14220.1533203125,
@@ -6991,10 +6991,10 @@
     },
     {
       "name": "kitchen_1102",
-      "original_image": "input_images/kitchen/kitchen_1102.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1102/kitchen_1102_preview.png",
-      "model": "output_models/kitchen/kitchen_1102/kitchen_1102.glb",
-      "folder": "output_models/kitchen/kitchen_1102",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1102.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1102/kitchen_1102_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1102/kitchen_1102.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1102",
       "status": "success",
       "metrics": {
         "mse_full": 18602.392578125,
@@ -7036,10 +7036,10 @@
     },
     {
       "name": "kitchen_1193",
-      "original_image": "input_images/kitchen/kitchen_1193.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1193/kitchen_1193_preview.png",
-      "model": "output_models/kitchen/kitchen_1193/kitchen_1193.glb",
-      "folder": "output_models/kitchen/kitchen_1193",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1193.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1193/kitchen_1193_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1193/kitchen_1193.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1193",
       "status": "success",
       "metrics": {
         "mse_full": 25011.478515625,
@@ -7081,10 +7081,10 @@
     },
     {
       "name": "kitchen_1200",
-      "original_image": "input_images/kitchen/kitchen_1200.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1200/kitchen_1200_preview.png",
-      "model": "output_models/kitchen/kitchen_1200/kitchen_1200.glb",
-      "folder": "output_models/kitchen/kitchen_1200",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1200.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1200/kitchen_1200_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1200/kitchen_1200.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1200",
       "status": "success",
       "metrics": {
         "mse_full": 29673.091796875,
@@ -7125,11 +7125,56 @@
       "quality_score": 25.32
     },
     {
+      "name": "kitchen_1207",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1207.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1207/kitchen_1207_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1207/kitchen_1207.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1207",
+      "status": "success",
+      "metrics": {
+        "mse_full": 38969.609375,
+        "mean_pixel_diff_full": 171.00640869140625,
+        "color_similarity_full": -0.0672734544676115,
+        "ssim_full": 0.13015660716483543,
+        "psnr_full": 2.2235430083979018,
+        "roi_bbox": [
+          38,
+          54,
+          417,
+          473
+        ],
+        "mse_roi": 22440.9453125,
+        "mean_pixel_diff_roi": 117.45233917236328,
+        "color_similarity_roi": -0.09007375452068585,
+        "ssim_roi": 0.21583978763671818,
+        "psnr_roi": 4.620392290286035,
+        "silhouette_iou": 0.34905042567125083,
+        "lpips_full": 0.8342301249504089,
+        "semantic_similarity": 0.49167460203170776,
+        "vertices": 293838,
+        "faces": 501794,
+        "watertight": false,
+        "has_texture": true,
+        "size_x": 0.9774018824100494,
+        "size_y": 0.9999801814556122,
+        "size_z": 0.8587973117828369,
+        "surface_area": 6.136320135061354,
+        "self_intersecting": null,
+        "mesh_flags": [
+          "not_watertight"
+        ]
+      },
+      "shape_score": 34.91,
+      "appearance_score": 14.91,
+      "semantic_score": 74.58,
+      "quality_score": 24.84
+    },
+    {
       "name": "kitchen_1035",
-      "original_image": "input_images/kitchen/kitchen_1035.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1035/kitchen_1035_preview.png",
-      "model": "output_models/kitchen/kitchen_1035/kitchen_1035.glb",
-      "folder": "output_models/kitchen/kitchen_1035",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1035.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1035/kitchen_1035_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1035/kitchen_1035.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1035",
       "status": "success",
       "metrics": {
         "mse_full": 13572.36328125,
@@ -7171,10 +7216,10 @@
     },
     {
       "name": "kitchen_1003",
-      "original_image": "input_images/kitchen/kitchen_1003.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1003/kitchen_1003_preview.png",
-      "model": "output_models/kitchen/kitchen_1003/kitchen_1003.glb",
-      "folder": "output_models/kitchen/kitchen_1003",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1003.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1003/kitchen_1003_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1003/kitchen_1003.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1003",
       "status": "success",
       "metrics": {
         "mse_full": 10120.06640625,
@@ -7216,10 +7261,10 @@
     },
     {
       "name": "kitchen_1148",
-      "original_image": "input_images/kitchen/kitchen_1148.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1148/kitchen_1148_preview.png",
-      "model": "output_models/kitchen/kitchen_1148/kitchen_1148.glb",
-      "folder": "output_models/kitchen/kitchen_1148",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1148.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1148/kitchen_1148_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1148/kitchen_1148.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1148",
       "status": "success",
       "metrics": {
         "mse_full": 12140.3515625,
@@ -7261,10 +7306,10 @@
     },
     {
       "name": "kitchen_1162",
-      "original_image": "input_images/kitchen/kitchen_1162.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1162/kitchen_1162_preview.png",
-      "model": "output_models/kitchen/kitchen_1162/kitchen_1162.glb",
-      "folder": "output_models/kitchen/kitchen_1162",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1162.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1162/kitchen_1162_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1162/kitchen_1162.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1162",
       "status": "success",
       "metrics": {
         "mse_full": 14295.2734375,
@@ -7306,10 +7351,10 @@
     },
     {
       "name": "kitchen_1029",
-      "original_image": "input_images/kitchen/kitchen_1029.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1029/kitchen_1029_preview.png",
-      "model": "output_models/kitchen/kitchen_1029/kitchen_1029.glb",
-      "folder": "output_models/kitchen/kitchen_1029",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1029.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1029/kitchen_1029_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1029/kitchen_1029.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1029",
       "status": "success",
       "metrics": {
         "mse_full": 21778.322265625,
@@ -7351,10 +7396,10 @@
     },
     {
       "name": "kitchen_1028",
-      "original_image": "input_images/kitchen/kitchen_1028.jpg",
-      "preview_image": "output_models/kitchen/kitchen_1028/kitchen_1028_preview.png",
-      "model": "output_models/kitchen/kitchen_1028/kitchen_1028.glb",
-      "folder": "output_models/kitchen/kitchen_1028",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/kitchen/kitchen_1028.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1028/kitchen_1028_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1028/kitchen_1028.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/kitchen/kitchen_1028",
       "status": "success",
       "metrics": {
         "mse_full": 22088.732421875,
@@ -7396,10 +7441,10 @@
     },
     {
       "name": "19324089973_542ac72d6f_o",
-      "original_image": "input_images/knife/19324089973_542ac72d6f_o.jpg",
-      "preview_image": "output_models/knife/19324089973_542ac72d6f_o/19324089973_542ac72d6f_o_preview.png",
-      "model": "output_models/knife/19324089973_542ac72d6f_o/19324089973_542ac72d6f_o.glb",
-      "folder": "output_models/knife/19324089973_542ac72d6f_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/19324089973_542ac72d6f_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/19324089973_542ac72d6f_o/19324089973_542ac72d6f_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/19324089973_542ac72d6f_o/19324089973_542ac72d6f_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/19324089973_542ac72d6f_o",
       "status": "success",
       "metrics": {
         "mse_full": 12296.0,
@@ -7441,10 +7486,10 @@
     },
     {
       "name": "15831449986_e6938bf528_o",
-      "original_image": "input_images/knife/15831449986_e6938bf528_o.jpg",
-      "preview_image": "output_models/knife/15831449986_e6938bf528_o/15831449986_e6938bf528_o_preview.png",
-      "model": "output_models/knife/15831449986_e6938bf528_o/15831449986_e6938bf528_o.glb",
-      "folder": "output_models/knife/15831449986_e6938bf528_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/15831449986_e6938bf528_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/15831449986_e6938bf528_o/15831449986_e6938bf528_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/15831449986_e6938bf528_o/15831449986_e6938bf528_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/15831449986_e6938bf528_o",
       "status": "success",
       "metrics": {
         "mse_full": 7035.92578125,
@@ -7486,10 +7531,10 @@
     },
     {
       "name": "15843042109_810b925957_o",
-      "original_image": "input_images/knife/15843042109_810b925957_o.jpg",
-      "preview_image": "output_models/knife/15843042109_810b925957_o/15843042109_810b925957_o_preview.png",
-      "model": "output_models/knife/15843042109_810b925957_o/15843042109_810b925957_o.glb",
-      "folder": "output_models/knife/15843042109_810b925957_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/15843042109_810b925957_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/15843042109_810b925957_o/15843042109_810b925957_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/15843042109_810b925957_o/15843042109_810b925957_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/15843042109_810b925957_o",
       "status": "success",
       "metrics": {
         "mse_full": 18372.76171875,
@@ -7531,10 +7576,10 @@
     },
     {
       "name": "16155324722_9d11d48ffc_o",
-      "original_image": "input_images/knife/16155324722_9d11d48ffc_o.jpg",
-      "preview_image": "output_models/knife/16155324722_9d11d48ffc_o/16155324722_9d11d48ffc_o_preview.png",
-      "model": "output_models/knife/16155324722_9d11d48ffc_o/16155324722_9d11d48ffc_o.glb",
-      "folder": "output_models/knife/16155324722_9d11d48ffc_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/16155324722_9d11d48ffc_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/16155324722_9d11d48ffc_o/16155324722_9d11d48ffc_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/16155324722_9d11d48ffc_o/16155324722_9d11d48ffc_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/16155324722_9d11d48ffc_o",
       "status": "success",
       "metrics": {
         "mse_full": 17284.376953125,
@@ -7576,10 +7621,10 @@
     },
     {
       "name": "19906119675_2186143a4d_o",
-      "original_image": "input_images/knife/19906119675_2186143a4d_o.jpg",
-      "preview_image": "output_models/knife/19906119675_2186143a4d_o/19906119675_2186143a4d_o_preview.png",
-      "model": "output_models/knife/19906119675_2186143a4d_o/19906119675_2186143a4d_o.glb",
-      "folder": "output_models/knife/19906119675_2186143a4d_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/19906119675_2186143a4d_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/19906119675_2186143a4d_o/19906119675_2186143a4d_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/19906119675_2186143a4d_o/19906119675_2186143a4d_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/19906119675_2186143a4d_o",
       "status": "success",
       "metrics": {
         "mse_full": 9183.8955078125,
@@ -7621,10 +7666,10 @@
     },
     {
       "name": "15831421306_abc0b5c6bf_o",
-      "original_image": "input_images/knife/15831421306_abc0b5c6bf_o.jpg",
-      "preview_image": "output_models/knife/15831421306_abc0b5c6bf_o/15831421306_abc0b5c6bf_o_preview.png",
-      "model": "output_models/knife/15831421306_abc0b5c6bf_o/15831421306_abc0b5c6bf_o.glb",
-      "folder": "output_models/knife/15831421306_abc0b5c6bf_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/15831421306_abc0b5c6bf_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/15831421306_abc0b5c6bf_o/15831421306_abc0b5c6bf_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/15831421306_abc0b5c6bf_o/15831421306_abc0b5c6bf_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/15831421306_abc0b5c6bf_o",
       "status": "success",
       "metrics": {
         "mse_full": 11021.0439453125,
@@ -7666,10 +7711,10 @@
     },
     {
       "name": "19667654424_662b25a4d3_o",
-      "original_image": "input_images/knife/19667654424_662b25a4d3_o.jpg",
-      "preview_image": "output_models/knife/19667654424_662b25a4d3_o/19667654424_662b25a4d3_o_preview.png",
-      "model": "output_models/knife/19667654424_662b25a4d3_o/19667654424_662b25a4d3_o.glb",
-      "folder": "output_models/knife/19667654424_662b25a4d3_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/19667654424_662b25a4d3_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/19667654424_662b25a4d3_o/19667654424_662b25a4d3_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/19667654424_662b25a4d3_o/19667654424_662b25a4d3_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/19667654424_662b25a4d3_o",
       "status": "success",
       "metrics": {
         "mse_full": 8932.9267578125,
@@ -7711,10 +7756,10 @@
     },
     {
       "name": "5075275649_c015fcbae9_o",
-      "original_image": "input_images/knife/5075275649_c015fcbae9_o.jpg",
-      "preview_image": "output_models/knife/5075275649_c015fcbae9_o/5075275649_c015fcbae9_o_preview.png",
-      "model": "output_models/knife/5075275649_c015fcbae9_o/5075275649_c015fcbae9_o.glb",
-      "folder": "output_models/knife/5075275649_c015fcbae9_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/5075275649_c015fcbae9_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/5075275649_c015fcbae9_o/5075275649_c015fcbae9_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/5075275649_c015fcbae9_o/5075275649_c015fcbae9_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/5075275649_c015fcbae9_o",
       "status": "success",
       "metrics": {
         "mse_full": 13601.16015625,
@@ -7756,10 +7801,10 @@
     },
     {
       "name": "19832075215_0c2b3f81c1_o",
-      "original_image": "input_images/knife/19832075215_0c2b3f81c1_o.jpg",
-      "preview_image": "output_models/knife/19832075215_0c2b3f81c1_o/19832075215_0c2b3f81c1_o_preview.png",
-      "model": "output_models/knife/19832075215_0c2b3f81c1_o/19832075215_0c2b3f81c1_o.glb",
-      "folder": "output_models/knife/19832075215_0c2b3f81c1_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/19832075215_0c2b3f81c1_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/19832075215_0c2b3f81c1_o/19832075215_0c2b3f81c1_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/19832075215_0c2b3f81c1_o/19832075215_0c2b3f81c1_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/19832075215_0c2b3f81c1_o",
       "status": "success",
       "metrics": {
         "mse_full": 12736.0859375,
@@ -7801,10 +7846,10 @@
     },
     {
       "name": "19554937106_af445a7df5_o",
-      "original_image": "input_images/knife/19554937106_af445a7df5_o.jpg",
-      "preview_image": "output_models/knife/19554937106_af445a7df5_o/19554937106_af445a7df5_o_preview.png",
-      "model": "output_models/knife/19554937106_af445a7df5_o/19554937106_af445a7df5_o.glb",
-      "folder": "output_models/knife/19554937106_af445a7df5_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/19554937106_af445a7df5_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/19554937106_af445a7df5_o/19554937106_af445a7df5_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/19554937106_af445a7df5_o/19554937106_af445a7df5_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/19554937106_af445a7df5_o",
       "status": "success",
       "metrics": {
         "mse_full": 15555.8935546875,
@@ -7846,10 +7891,10 @@
     },
     {
       "name": "16574980597_9b4e877623_o",
-      "original_image": "input_images/knife/16574980597_9b4e877623_o.jpg",
-      "preview_image": "output_models/knife/16574980597_9b4e877623_o/16574980597_9b4e877623_o_preview.png",
-      "model": "output_models/knife/16574980597_9b4e877623_o/16574980597_9b4e877623_o.glb",
-      "folder": "output_models/knife/16574980597_9b4e877623_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/16574980597_9b4e877623_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/16574980597_9b4e877623_o/16574980597_9b4e877623_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/16574980597_9b4e877623_o/16574980597_9b4e877623_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/16574980597_9b4e877623_o",
       "status": "success",
       "metrics": {
         "mse_full": 16793.357421875,
@@ -7891,10 +7936,10 @@
     },
     {
       "name": "4121917051_0ec8c10f32_o",
-      "original_image": "input_images/knife/4121917051_0ec8c10f32_o.jpg",
-      "preview_image": "output_models/knife/4121917051_0ec8c10f32_o/4121917051_0ec8c10f32_o_preview.png",
-      "model": "output_models/knife/4121917051_0ec8c10f32_o/4121917051_0ec8c10f32_o.glb",
-      "folder": "output_models/knife/4121917051_0ec8c10f32_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/4121917051_0ec8c10f32_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/4121917051_0ec8c10f32_o/4121917051_0ec8c10f32_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/4121917051_0ec8c10f32_o/4121917051_0ec8c10f32_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/4121917051_0ec8c10f32_o",
       "status": "success",
       "metrics": {
         "mse_full": 5729.65087890625,
@@ -7936,10 +7981,10 @@
     },
     {
       "name": "8210802253_1deca73f17_o",
-      "original_image": "input_images/knife/8210802253_1deca73f17_o.jpg",
-      "preview_image": "output_models/knife/8210802253_1deca73f17_o/8210802253_1deca73f17_o_preview.png",
-      "model": "output_models/knife/8210802253_1deca73f17_o/8210802253_1deca73f17_o.glb",
-      "folder": "output_models/knife/8210802253_1deca73f17_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/8210802253_1deca73f17_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/8210802253_1deca73f17_o/8210802253_1deca73f17_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/8210802253_1deca73f17_o/8210802253_1deca73f17_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/8210802253_1deca73f17_o",
       "status": "success",
       "metrics": {
         "mse_full": 12661.7890625,
@@ -7981,10 +8026,10 @@
     },
     {
       "name": "19688793649_b4e50f1b97_o",
-      "original_image": "input_images/knife/19688793649_b4e50f1b97_o.jpg",
-      "preview_image": "output_models/knife/19688793649_b4e50f1b97_o/19688793649_b4e50f1b97_o_preview.png",
-      "model": "output_models/knife/19688793649_b4e50f1b97_o/19688793649_b4e50f1b97_o.glb",
-      "folder": "output_models/knife/19688793649_b4e50f1b97_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/19688793649_b4e50f1b97_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/19688793649_b4e50f1b97_o/19688793649_b4e50f1b97_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/19688793649_b4e50f1b97_o/19688793649_b4e50f1b97_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/19688793649_b4e50f1b97_o",
       "status": "success",
       "metrics": {
         "mse_full": 8135.12451171875,
@@ -8026,10 +8071,10 @@
     },
     {
       "name": "15933264296_158a3fd419_o",
-      "original_image": "input_images/knife/15933264296_158a3fd419_o.jpg",
-      "preview_image": "output_models/knife/15933264296_158a3fd419_o/15933264296_158a3fd419_o_preview.png",
-      "model": "output_models/knife/15933264296_158a3fd419_o/15933264296_158a3fd419_o.glb",
-      "folder": "output_models/knife/15933264296_158a3fd419_o",
+      "original_image": "/Users/adamvu/machine_eval_3DX/input_images/knife/15933264296_158a3fd419_o.jpg",
+      "preview_image": "/Users/adamvu/machine_eval_3DX/output_models/knife/15933264296_158a3fd419_o/15933264296_158a3fd419_o_preview.png",
+      "model": "/Users/adamvu/machine_eval_3DX/output_models/knife/15933264296_158a3fd419_o/15933264296_158a3fd419_o.glb",
+      "folder": "/Users/adamvu/machine_eval_3DX/output_models/knife/15933264296_158a3fd419_o",
       "status": "success",
       "metrics": {
         "mse_full": 15981.8466796875,

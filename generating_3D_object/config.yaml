@@ -1,0 +1,50 @@
+# config.yaml - Main configuration file for 3D model generation pipeline
+
+# Tripo AI Settings
+tripo:
+  model_version: 'v2.5-20250123'  # Tripo model version 'v1.4-20240625'-old model, good for starters, but we need to capture the shape, 'v3.0-20250812' for advances, 'Turbo-v1.0-20250506' fast but not good quality, 'v2.5-20250123' might be good as a mid tier - might be good for geometry,
+  texture: true                    # Generate textures
+  pbr: true                        # Generate PBR materials
+
+  # Advanced parameters for exact image matching
+  texture_alignment: "original_image"  # Match original appearance, can change to 'geometry' or 'original_image'
+  texture_quality: "detailed"          # High-res textures - 'detailed', 'standard'
+  geometry_quality: "detailed"         # Ultra Mode (v3.0+)
+  orientation: "align_image"           # Match camera angle
+  auto_size: false                     # Keep original proportions
+
+  # API Rate Limits (from Tripo AI documentation)
+  limits:
+    concurrent_tasks: 10           # Max concurrent image_to_model tasks
+    upload_qps: 10                 # Max upload queries per second
+    refine_tasks: 5                # Max concurrent refine tasks (if using)
+
+# Processing Settings
+processing:
+  max_workers: 15                  # Thread pool size (can be > concurrent_tasks)
+  poll_interval: 2                 # Seconds between status checks
+  max_wait_time: 600               # Maximum wait time per model (10 minutes)
+  retry_failed: true               # Retry failed generations
+  max_retries: 2                   # Maximum retry attempts
+
+# Path Configuration
+paths:
+  input_dir: './input_images/kitchen'      # Directory containing input input_images
+  output_dir: './output_models/kitchen'    # Directory for generated 3D models
+  image_extensions:                # Supported image formats
+    - jpg
+    - jpeg
+    - png
+    - webp
+
+# Logging
+logging:
+  level: INFO                      # DEBUG, INFO, WARNING, ERROR
+  save_logs: false
+  # log_file: 'pipeline.log'
+
+# Advanced Options (optional)
+advanced:
+  batch_size: 10                   # Process in batches (for very large datasets)
+  checkpoint_interval: 10          # Save progress every N input_images
+  cleanup_failed: true            # Delete failed outputs

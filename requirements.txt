@@ -9,3 +9,7 @@ open_clip_torch
 regex
 ftfy
 tqdm
+python-dotenv
+PyYAML
+tripo
+httpx
